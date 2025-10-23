@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T21:45:14.910826+08:00",
-  "total_titles_processed": 1814,
+  "generated_at": "2025-10-23T22:47:06.730589+08:00",
+  "total_titles_processed": 1925,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 88,
+      "match_count": 92,
       "titles": [
         {
           "title": "特朗普取消与普京会面，克里姆林宫回应",
@@ -91,8 +91,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时42分 ~ 21时45分]"
+          "appearance_count": 15,
+          "time_info": "[12时42分 ~ 22时47分]"
         },
         {
           "title": "【早报】特朗普：取消与普京会面；公募基金业绩比较基准规则征求意见稿即将发布",
@@ -141,8 +141,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时37分 ~ 21时45分]"
+          "appearance_count": 13,
+          "time_info": "[13时37分 ~ 22时47分]"
+        },
+        {
+          "title": "特朗普访日行程公布",
+          "url": "https://news.ifeng.com/c/8ngeBFUGsML",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时51分 ~ 22时47分]"
         },
         {
           "title": "从宣布到取消，特朗普与普京会晤为何被“急踩刹车”？",
@@ -157,8 +168,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时17分 ~ 21时45分]"
+          "appearance_count": 16,
+          "time_info": "[11时17分 ~ 22时47分]"
         },
         {
           "title": "特朗普开始创造性破坏白宫",
@@ -220,6 +231,17 @@
           "time_info": "[00时59分 ~ 12时43分]"
         },
         {
+          "title": "特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
+          "url": "https://news.ifeng.com/c/8ngrvoE5VJT",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时30分 ~ 22时47分]"
+        },
+        {
           "title": "美媒称美国允许乌对俄使用远程导弹，特朗普：假新闻",
           "url": "https://news.ifeng.com/c/8nfmpxBGjNA",
           "source": "凤凰网",
@@ -256,17 +278,6 @@
           "time_info": "[00时59分 ~ 06时31分]"
         },
         {
-          "title": "特朗普访日行程公布",
-          "url": "https://news.ifeng.com/c/8ngeBFUGsML",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时51分 ~ 21时45分]"
-        },
-        {
           "title": "不惧“打脸”？特朗普再次扬言：印总理莫迪向我保证会少买俄油！",
           "url": "https://www.cls.cn/detail/2177223",
           "source": "财联社热门",
@@ -277,17 +288,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时56分 ~ 07时29分]"
-        },
-        {
-          "title": "特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
-          "url": "https://news.ifeng.com/c/8ngrvoE5VJT",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时30分 ~ 21时45分]"
         },
         {
           "title": "从宣布到取消 特朗普与普京会晤为何被“急踩刹车”？",
@@ -708,6 +708,17 @@
           "time_info": "[06时31分 ~ 07时29分]"
         },
         {
+          "title": "释新闻｜特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31827023",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时46分 ~ 22时47分]"
+        },
+        {
           "title": "美国总统特朗普：俄罗斯总统普京提到了核裁军，我对此表示赞同。",
           "url": "https://flash.jin10.com/detail/20251023054132621800",
           "source": "金十数据",
@@ -755,6 +766,17 @@
           "time_info": "[00时59分 ~ 01时35分]"
         },
         {
+          "title": "特朗普为何要斥巨资改造白宫",
+          "url": "https://www.toutiao.com/trending/7564377047804415526/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时46分 ~ 22时47分]"
+        },
+        {
           "title": "民调：逾半数美国人认为特朗普动用执法打击政敌",
           "url": "https://flash.jin10.com/detail/20251023180310570800",
           "source": "金十数据",
@@ -772,7 +794,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -832,6 +854,17 @@
           "time_info": "13时37分"
         },
         {
+          "title": "美国众议院少数党领袖杰弗瑞斯：美国总统特朗普应在亚洲之行前与民主党人坐下来谈谈。",
+          "url": "https://flash.jin10.com/detail/20251023221255199800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
           "title": "特朗普取消见普京后美欧先后制裁俄方",
           "url": "https://www.toutiao.com/trending/7564260305593732627/",
           "source": "今日头条",
@@ -863,6 +896,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        },
+        {
+          "title": "美国众议院少数党领袖杰弗瑞斯：美国总统特朗普未授权共和党领导人进行谈判。",
+          "url": "https://flash.jin10.com/detail/20251023221050798800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
         },
         {
           "title": "IONQ、RIGETTI和DWAVE的股价在法兰克福上涨了15%至22%，此前《华尔街日报》报道称，特朗普政府可能入股量子计算公司。",
@@ -1025,7 +1069,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -1055,7 +1099,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
@@ -1066,8 +1110,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时29分 ~ 21时45分]"
+          "appearance_count": 17,
+          "time_info": "[07时29分 ~ 22时47分]"
         },
         {
           "title": "美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升",
@@ -1184,7 +1228,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -1195,7 +1239,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -1239,7 +1283,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -1253,6 +1297,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，能源业ETF、黄金ETF涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/2992636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
         },
         {
           "title": "金十图示：2025年10月22日（周三）热门中概股行情一览（美股收盘）",
@@ -1383,6 +1438,17 @@
           "time_info": "[11时17分 ~ 14时54分]"
         },
         {
+          "title": "金价暴跌之际，高盛“坚定看涨”：维持明年底4900美元目标价，甚至有“上行风险”",
+          "url": "https://wallstreetcn.com/articles/3757691",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时44分 ~ 22时47分]"
+        },
+        {
           "title": "黄金价格为何突然大幅回调",
           "url": "https://www.toutiao.com/trending/7564185395232001575/",
           "source": "今日头条",
@@ -1405,17 +1471,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时59分 ~ 02时56分]"
-        },
-        {
-          "title": "金价暴跌之际，高盛“坚定看涨”：维持明年底4900美元目标价，甚至有“上行风险”",
-          "url": "https://wallstreetcn.com/articles/3757691",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 21时45分]"
         },
         {
           "title": "美国财长贝森特：金价上涨对我们有很大帮助。",
@@ -1481,7 +1536,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         }
@@ -1489,7 +1544,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "比超级计算机快1.3万倍！谷歌量子计算再现突破 诺奖得主送上关键助攻",
@@ -1515,8 +1570,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时17分 ~ 21时45分]"
+          "appearance_count": 16,
+          "time_info": "[11时17分 ~ 22时47分]"
         },
         {
           "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
@@ -1589,6 +1644,39 @@
           "time_info": "17时40分"
         },
         {
+          "title": "谷歌(GOOG.O)：在伊利诺伊州的工厂将捕获并储存约90%的二氧化碳排放。",
+          "url": "https://flash.jin10.com/detail/20251023220842849800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
+          "title": "市场消息：谷歌(GOOG.O)签署企业协议，以支持一家采用碳捕捉与封存技术的天然气发电厂。",
+          "url": "https://flash.jin10.com/detail/20251023220802219800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：谷歌威胁情报小组正在追踪一群来自越南、出于经济利益实施攻击的威胁行为者。",
+          "url": "https://flash.jin10.com/detail/20251023220726565800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
           "title": "Reddit(RDDT.N)：Oxylabs UAB、AWMProxy和Serpai掩盖身份，从谷歌搜索中“非法抓取”Reddit内容。",
           "url": "https://flash.jin10.com/detail/20251023004153523800",
           "source": "金十数据",
@@ -1603,7 +1691,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI发首款AI浏览器",
@@ -1674,6 +1762,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
+        },
+        {
+          "title": "阿里巴巴美股盘初涨超2%，阿里自研AI眼镜开启预售、补贴后最低3699元，新聊天机器人挑战ChatGPT。",
+          "url": "https://wallstreetcn.com/livenews/2992635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
         }
       ]
     },
