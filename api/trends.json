@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T22:44:46.106740+08:00",
-  "total_titles_processed": 1845,
+  "generated_at": "2025-10-28T23:42:30.429500+08:00",
+  "total_titles_processed": 1930,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 79,
+      "match_count": 86,
       "titles": [
         {
           "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
@@ -20,6 +20,18 @@
           "time_info": "[00时53分 ~ 07时29分]"
         },
         {
+          "title": "尴尬，高市早苗多次引导特朗普“绕场”，还被特朗普落在身后",
+          "url": "https://v.ifeng.com/c/8noT1p8iWLt",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时52分 ~ 23时42分]"
+        },
+        {
           "title": "日本天皇与特朗普会面：亲自在门外接送，被特朗普用手指",
           "url": "https://v.ifeng.com/c/8nmnws4Ar5T",
           "source": "凤凰网",
@@ -29,18 +41,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时53分 ~ 05时32分]"
-        },
-        {
-          "title": "尴尬，高市早苗多次引导特朗普“绕场”，还被特朗普落在身后",
-          "url": "https://v.ifeng.com/c/8noT1p8iWLt",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时52分 ~ 22时44分]"
         },
         {
           "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
@@ -221,17 +221,6 @@
           "time_info": "19时29分"
         },
         {
-          "title": "针对特朗普关税武器化等问题，日本民众连日抗议日美首脑会谈",
-          "url": "https://wallstreetcn.com/livenews/2995211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
           "title": "特朗普演讲时当众搂住高市早苗",
           "url": "https://www.toutiao.com/trending/7565434042020056612/",
           "source": "今日头条",
@@ -297,6 +286,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
+        },
+        {
+          "title": "美国交通部长Duffy：与空中交通控制相关的学生津贴即将耗尽。 在特朗普政府关门期间，与联邦航空管理局（FAA）相关的那些学生将被赶走。",
+          "url": "https://wallstreetcn.com/livenews/2995230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "特朗普谈到重振美国造船业。",
@@ -387,6 +387,18 @@
           "time_info": "[15时35分 ~ 16时52分]"
         },
         {
+          "title": "针对特朗普关税武器化等问题，日本民众连日抗议日美首脑会谈",
+          "url": "https://wallstreetcn.com/livenews/2995211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时44分 ~ 23时42分]"
+        },
+        {
           "title": "特朗普再提2028参选可能，点名两个潜在继任者",
           "url": "https://news.ifeng.com/c/8noQCRgOldf",
           "source": "凤凰网",
@@ -396,6 +408,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时34分 ~ 13时41分]"
+        },
+        {
+          "title": "韩国民众举行反特朗普示威：停止鼓动韩国对抗中国",
+          "url": "https://news.ifeng.com/c/8np9fQhEQk8",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时41分 ~ 23时42分]"
+        },
+        {
+          "title": "特朗普称美已在俄附近部署核潜艇，克宫发声",
+          "url": "https://news.ifeng.com/c/8np198dmCFI",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时41分 ~ 23时42分]"
         },
         {
           "title": "特朗普东京下榻酒店军犬检查车辆",
@@ -422,17 +457,6 @@
           "time_info": "[12时45分 ~ 13时41分]"
         },
         {
-          "title": "韩国民众举行反特朗普示威：停止鼓动韩国对抗中国",
-          "url": "https://news.ifeng.com/c/8np9fQhEQk8",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时41分 ~ 22时44分]"
-        },
-        {
           "title": "特朗普：愿意延长亚洲行与金正恩会面",
           "url": "https://news.ifeng.com/c/8noSUYL9rE6",
           "source": "凤凰网",
@@ -444,16 +468,15 @@
           "time_info": "[11时34分 ~ 12时45分]"
         },
         {
-          "title": "特朗普称美已在俄附近部署核潜艇，克宫发声",
-          "url": "https://news.ifeng.com/c/8np198dmCFI",
+          "title": "英媒：特朗普想见金正恩，但朝鲜没回应",
+          "url": "https://news.ifeng.com/c/8npJJt30xAk",
           "source": "凤凰网",
           "ranks": [
-            7,
-            8
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时41分 ~ 22时44分]"
+          "time_info": "[22时44分 ~ 23时42分]"
         },
         {
           "title": "消息人士：哈马斯称将遵守特朗普计划下的协议。",
@@ -595,17 +618,6 @@
           "time_info": "15时35分"
         },
         {
-          "title": "英媒：特朗普想见金正恩，但朝鲜没回应",
-          "url": "https://news.ifeng.com/c/8npJJt30xAk",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
           "title": "美国总统特朗普在讲话中谈及重振美国造船业。",
           "url": "https://flash.jin10.com/detail/20251028190823052800",
           "source": "金十数据",
@@ -683,6 +695,17 @@
           "time_info": "15时35分"
         },
         {
+          "title": "据美国官员透露，特朗普政府计划与韩国签署一项协议，旨在加强人工智能、量子计算和6G领域的合作。",
+          "url": "https://flash.jin10.com/detail/20251028231835509800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "特朗普：我们将重新开始造船，很快就会这么做。 我们将与日本合作造船。 日本是美国的大投资者。 丰田将在美国建厂，价值将高达100亿美元。",
           "url": "https://wallstreetcn.com/livenews/2994894",
           "source": "华尔街见闻-快讯",
@@ -703,6 +726,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
+        },
+        {
+          "title": "美国众议院议长约翰逊谈及特朗普政府的SNAP计划，称：美国农业部（USDA）的确研究过，但无法提供资金支持。 无法避免美国在11月1日发生食品券悬崖。",
+          "url": "https://wallstreetcn.com/livenews/2995214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "特朗普与高市早苗一同乘机登上美航母",
@@ -727,6 +761,17 @@
           "time_info": "21时41分"
         },
         {
+          "title": "美国众议院议长约翰逊：看不到特朗普第三次担任美国总统的可能性。",
+          "url": "https://wallstreetcn.com/livenews/2995213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "特朗普谈2028大选点名万斯鲁比奥",
           "url": "https://www.toutiao.com/trending/7566235206777048618/",
           "source": "今日头条",
@@ -736,6 +781,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
+        },
+        {
+          "title": "特朗普在美航母上讲话时用手拍导弹",
+          "url": "https://www.toutiao.com/trending/7565827783251755027/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "美国总统特朗普：想要感谢软银。",
@@ -782,6 +838,17 @@
           "time_info": "12时45分"
         },
         {
+          "title": "特朗普径自走过日本国旗未鞠躬",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BE%84%E8%87%AA%E8%B5%B0%E8%BF%87%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%97%97%E6%9C%AA%E9%9E%A0%E8%BA%AC",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "美国总统特朗普：日本新首相表现非常出色。",
           "url": "https://flash.jin10.com/detail/20251028185434094800",
           "source": "金十数据",
@@ -802,6 +869,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
+        },
+        {
+          "title": "特朗普正式提名迈克尔・塞利格担任美国CFTC主席",
+          "url": "https://wallstreetcn.com/livenews/2995205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "美国总统特朗普：考虑让贝森特担任美联储（主席）职务，但他本人并不想接任。",
@@ -927,6 +1005,234 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 20,
+      "titles": [
+        {
+          "title": "据AXIOS网站：OpenAI的新浏览器Atlas引发隐私和安全担忧。隐私保护人士表示，该浏览器收集的数据量远远超过市场上任何其他浏览器。",
+          "url": "https://flash.jin10.com/detail/20251028172154979800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
+          "title": "美股开盘，道指涨0.4%，标普500指数涨0.29%，纳指涨0.5%。微软(MSFT.O)与OpenAI签署新协议后上涨3.7%，市值突破4万亿美元。Paypal(PYPL.O)涨7.5%，公司达成协议将数字钱包嵌入ChatGPT。联合健康(UNH.N)涨3.6%，第三季度盈利超出预期并上调全年业绩预期。联合包裹(UPS.N)涨10%，公司上调2025年全年盈利展望。",
+          "url": "https://flash.jin10.com/detail/20251028213032383800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "OpenAI公司正为印度用户提供为期一年的免费ChatGPT Go服务",
+          "url": "https://flash.jin10.com/detail/20251028141734494800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时58分"
+        },
+        {
+          "title": "OpenAI创始人Sam Altman将不会因OpenAI的盈利重组而获得股份。",
+          "url": "https://flash.jin10.com/detail/20251028222603957800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时44分"
+        },
+        {
+          "title": "OpenAI呼吁白宫扩大美国能源容量，并警告称电力是人工智能基础设施的战略资产。",
+          "url": "https://flash.jin10.com/detail/20251028045401357800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时32分 ~ 07时29分]"
+        },
+        {
+          "title": "PAYPAL美股盘前涨超15%，公司与OpenAI达成支付合作。",
+          "url": "https://wallstreetcn.com/livenews/2995062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
+        {
+          "title": "微软将持有OpenAI 27%股权，并获得AI模型使用权",
+          "url": "https://flash.jin10.com/detail/20251028212425533800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "微软美股盘前涨近5%！微软与OpenAI签署新协议，微软将获得OpenAI 27%的股权",
+          "url": "https://wallstreetcn.com/livenews/2995172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "OpenAI：OpenAI基金会初期将重点投入250亿美元资金，用于健康与疾病治疗领域，以及提升人工智能韧性的技术解决方案。",
+          "url": "https://flash.jin10.com/detail/20251028211735940800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "OpenAI发言人：OpenAI没有上市或专注于首次公开募股（IPO）的计划。",
+          "url": "https://wallstreetcn.com/livenews/2995218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
+          "title": "OpenAI：每周有超过100万的ChatGPT用户讨论自杀问题。公司正在努力改善AI对心理健康危机的反应，但面临着诉讼和安全审查。",
+          "url": "https://flash.jin10.com/detail/20251028123906600800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
+          "title": "Paypal(PYPL.O)：将把全球商户网络接入OpenAI的系统。",
+          "url": "https://flash.jin10.com/detail/20251028183047581800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
+        {
+          "title": "微软(MSFT.O)：OpenAI现在可以向美国政府国家安全领域的客户提供API访问，无论客户使用的是哪个云服务提供商。OpenAI现在能够发布符合必要能力标准的开放权重模型。",
+          "url": "https://flash.jin10.com/detail/20251028210837192800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "据CNBC：Paypal(PYPL.O)与OpenAI签署协议，成为ChatGPT的支付钱包。",
+          "url": "https://flash.jin10.com/detail/20251028182437625800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
+        {
+          "title": "微软(MSFT.O)：OpenAI仍是微软前沿模型合作伙伴。",
+          "url": "https://flash.jin10.com/detail/20251028210642738800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "微软(MSFT.O)：OpenAI现在可以与第三方共同开发某些产品。",
+          "url": "https://flash.jin10.com/detail/20251028210522761800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "微软(MSFT.O)盘前拉升上涨4.6%，公司与OpenAI签署新协议，OpenAI签约购买额外2500亿美元的Azure服务，微软将持有约1350亿美元或27%的OpenAI股份。",
+          "url": "https://flash.jin10.com/detail/20251028210449052800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "PayPal美股盘前涨超15%，公司与OpenAI达成支付合作",
+          "url": "https://wallstreetcn.com/livenews/2995062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
+          "title": "微软(MSFT.O)：OpenAI签约购买额外2500亿美元的Azure服务。",
+          "url": "https://flash.jin10.com/detail/20251028210328212800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "市场消息：微软(MSFT.O)支持OpenAI推进公共利益公司（PBC）形式的成立。微软在OpenAI公共利益公司中的投资估值约为1350亿美元。",
+          "url": "https://flash.jin10.com/detail/20251028210205594800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 20,
       "titles": [
@@ -940,8 +1246,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时29分 ~ 22时44分]"
+          "appearance_count": 16,
+          "time_info": "[07时29分 ~ 23时42分]"
         },
         {
           "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
@@ -1066,8 +1372,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时41分 ~ 22时44分]"
+          "appearance_count": 3,
+          "time_info": "[21时41分 ~ 23时42分]"
         },
         {
           "title": "美股盘前，黄金概念股普跌",
@@ -1131,7 +1437,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时44分"
         },
@@ -1171,237 +1477,9 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "据AXIOS网站：OpenAI的新浏览器Atlas引发隐私和安全担忧。隐私保护人士表示，该浏览器收集的数据量远远超过市场上任何其他浏览器。",
-          "url": "https://flash.jin10.com/detail/20251028172154979800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
-          "title": "美股开盘，道指涨0.4%，标普500指数涨0.29%，纳指涨0.5%。微软(MSFT.O)与OpenAI签署新协议后上涨3.7%，市值突破4万亿美元。Paypal(PYPL.O)涨7.5%，公司达成协议将数字钱包嵌入ChatGPT。联合健康(UNH.N)涨3.6%，第三季度盈利超出预期并上调全年业绩预期。联合包裹(UPS.N)涨10%，公司上调2025年全年盈利展望。",
-          "url": "https://flash.jin10.com/detail/20251028213032383800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时41分"
-        },
-        {
-          "title": "OpenAI公司正为印度用户提供为期一年的免费ChatGPT Go服务",
-          "url": "https://flash.jin10.com/detail/20251028141734494800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时58分"
-        },
-        {
-          "title": "OpenAI创始人Sam Altman将不会因OpenAI的盈利重组而获得股份。",
-          "url": "https://flash.jin10.com/detail/20251028222603957800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
-          "title": "OpenAI呼吁白宫扩大美国能源容量，并警告称电力是人工智能基础设施的战略资产。",
-          "url": "https://flash.jin10.com/detail/20251028045401357800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时32分 ~ 07时29分]"
-        },
-        {
-          "title": "PAYPAL美股盘前涨超15%，公司与OpenAI达成支付合作。",
-          "url": "https://wallstreetcn.com/livenews/2995062",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时45分"
-        },
-        {
-          "title": "微软将持有OpenAI 27%股权，并获得AI模型使用权",
-          "url": "https://flash.jin10.com/detail/20251028212425533800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时41分"
-        },
-        {
-          "title": "微软美股盘前涨近5%！微软与OpenAI签署新协议，微软将获得OpenAI 27%的股权",
-          "url": "https://wallstreetcn.com/livenews/2995172",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时41分"
-        },
-        {
-          "title": "OpenAI：OpenAI基金会初期将重点投入250亿美元资金，用于健康与疾病治疗领域，以及提升人工智能韧性的技术解决方案。",
-          "url": "https://flash.jin10.com/detail/20251028211735940800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时41分"
-        },
-        {
-          "title": "OpenAI：每周有超过100万的ChatGPT用户讨论自杀问题。公司正在努力改善AI对心理健康危机的反应，但面临着诉讼和安全审查。",
-          "url": "https://flash.jin10.com/detail/20251028123906600800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时41分"
-        },
-        {
-          "title": "Paypal(PYPL.O)：将把全球商户网络接入OpenAI的系统。",
-          "url": "https://flash.jin10.com/detail/20251028183047581800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时45分"
-        },
-        {
-          "title": "微软(MSFT.O)：OpenAI现在可以向美国政府国家安全领域的客户提供API访问，无论客户使用的是哪个云服务提供商。OpenAI现在能够发布符合必要能力标准的开放权重模型。",
-          "url": "https://flash.jin10.com/detail/20251028210837192800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时41分"
-        },
-        {
-          "title": "据CNBC：Paypal(PYPL.O)与OpenAI签署协议，成为ChatGPT的支付钱包。",
-          "url": "https://flash.jin10.com/detail/20251028182437625800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时45分"
-        },
-        {
-          "title": "微软(MSFT.O)：OpenAI仍是微软前沿模型合作伙伴。",
-          "url": "https://flash.jin10.com/detail/20251028210642738800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时41分"
-        },
-        {
-          "title": "微软(MSFT.O)：OpenAI现在可以与第三方共同开发某些产品。",
-          "url": "https://flash.jin10.com/detail/20251028210522761800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时41分"
-        },
-        {
-          "title": "微软(MSFT.O)盘前拉升上涨4.6%，公司与OpenAI签署新协议，OpenAI签约购买额外2500亿美元的Azure服务，微软将持有约1350亿美元或27%的OpenAI股份。",
-          "url": "https://flash.jin10.com/detail/20251028210449052800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时41分"
-        },
-        {
-          "title": "PayPal美股盘前涨超15%，公司与OpenAI达成支付合作",
-          "url": "https://wallstreetcn.com/livenews/2995062",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时29分"
-        },
-        {
-          "title": "微软(MSFT.O)：OpenAI签约购买额外2500亿美元的Azure服务。",
-          "url": "https://flash.jin10.com/detail/20251028210328212800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时41分"
-        },
-        {
-          "title": "市场消息：微软(MSFT.O)支持OpenAI推进公共利益公司（PBC）形式的成立。微软在OpenAI公共利益公司中的投资估值约为1350亿美元。",
-          "url": "https://flash.jin10.com/detail/20251028210205594800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时41分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 10,
       "titles": [
-        {
-          "title": "比特币矿商+数据中心运营商TeraWulf（WULF）维持超过23%的涨幅，刷新2021年12月以来盘中最高位。 该公司同意，通过新的168 MW人工智能（AI）计算合资公司拓展与Fluidstack的合作关系。 该合资公司得到谷歌公司13亿美元租赁的支持。 位于美国得州Abernathy园区、长达25年的186 MW关键性IT负荷租赁协议意味着，该合资公司能通过承包产生大约95亿美元收入。",
-          "url": "https://wallstreetcn.com/livenews/2995212",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        },
         {
           "title": "沙特人工智能公司Humain首席执行官：我们与谷歌达成了合作关系，你们很快会听到我们与亚马逊云服务(AWS)的重大消息，而且我们已经与OpenAI会面了。",
           "url": "https://flash.jin10.com/detail/20251028190928466800",
@@ -1425,6 +1503,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时35分 ~ 06时36分]"
+        },
+        {
+          "title": "比特币矿商+数据中心运营商TeraWulf（WULF）维持超过23%的涨幅，刷新2021年12月以来盘中最高位。 该公司同意，通过新的168 MW人工智能（AI）计算合资公司拓展与Fluidstack的合作关系。 该合资公司得到谷歌公司13亿美元租赁的支持。 位于美国得州Abernathy园区、长达25年的186 MW关键性IT负荷租赁协议意味着，该合资公司能通过承包产生大约95亿美元收入。",
+          "url": "https://wallstreetcn.com/livenews/2995212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时44分 ~ 23时42分]"
         },
         {
           "title": "谷歌公司与NextEra Energy构建合作伙伴关系，将重启美国爱荷华州核电站。（福克斯）",
@@ -1522,8 +1612,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时34分 ~ 22时44分]"
+          "appearance_count": 15,
+          "time_info": "[11时34分 ~ 23时42分]"
         },
         {
           "title": "【早报】证监会连续出手！出台保护中小投资者政策举措、优化QFII制度；美股再创历史新高，国际金价失守4000美元",
@@ -1560,8 +1650,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时45分 ~ 22时44分]"
+          "appearance_count": 6,
+          "time_info": "[18时45分 ~ 23时42分]"
         },
         {
           "title": "印度2025年排灯节头两天的黄金购买量超过40吨。 相比珠宝，印度消费者更青睐金币和金条。 投资动机对黄金购买行为的影响力超过消费需求。 摩根士丹利认为，印度家庭所持黄金价值大约3.8万亿美元。",
@@ -1582,11 +1672,12 @@
           "url": "https://wallstreetcn.com/livenews/2995204",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时44分 ~ 23时42分]"
         },
         {
           "title": "伦敦金银市场协会（LBMA）调查：金价一年后料达每盎司4980.3美元。",
@@ -1628,7 +1719,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时44分"
         }
@@ -1731,6 +1822,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时35分 ~ 05时32分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "六大AI大模型展开美股投资竞赛：重仓英伟达的Deepseek再次领跑",
+          "url": "https://www.cls.cn/detail/2183491",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         }
       ]
     }
