@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T22:47:26.653341+08:00",
-  "total_titles_processed": 1904,
+  "generated_at": "2025-10-29T23:43:23.726305+08:00",
+  "total_titles_processed": 1992,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 113,
+      "match_count": 116,
       "titles": [
         {
           "title": "“美方没回应”，特朗普高市谈完未举行记者会",
@@ -48,8 +48,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时34分 ~ 22时47分]"
+          "appearance_count": 9,
+          "time_info": "[15时34分 ~ 23时43分]"
         },
         {
           "title": "习近平将同美国总统特朗普举行会晤",
@@ -59,8 +59,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时34分 ~ 22时47分]"
+          "appearance_count": 9,
+          "time_info": "[15时34分 ~ 23时43分]"
         },
         {
           "title": "习近平将同特朗普举行会晤",
@@ -70,8 +70,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时34分 ~ 22时47分]"
+          "appearance_count": 9,
+          "time_info": "[15时34分 ~ 23时43分]"
         },
         {
           "title": "习近平将同特朗普举行会晤",
@@ -81,8 +81,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时34分 ~ 22时47分]"
+          "appearance_count": 9,
+          "time_info": "[15时34分 ~ 23时43分]"
         },
         {
           "title": "特朗普称对中美元首会晤持乐观态度，外交部回应",
@@ -92,8 +92,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时52分 ~ 22时47分]"
+          "appearance_count": 8,
+          "time_info": "[16时52分 ~ 23时43分]"
         },
         {
           "title": "特朗普欲降低关税换取中方遏制芬太尼出口，中方回应",
@@ -103,8 +103,33 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时52分 ~ 23时43分]"
+        },
+        {
+          "title": "习近平将同美国总统特朗普举行会晤",
+          "url": "https://wallstreetcn.com/articles/3758164",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时34分 ~ 23时43分]"
+        },
+        {
+          "title": "习近平将同美国总统特朗普举行会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31851071",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[16时52分 ~ 22时47分]"
+          "time_info": "[17时39分 ~ 23时43分]"
         },
         {
           "title": "特朗普称美航母电磁弹射又贵又难用，要求改回蒸汽弹射，蒸汽弹射与电磁弹射分别有哪些特点？究竟哪个更好？",
@@ -116,8 +141,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时48分 ~ 22时47分]"
+          "appearance_count": 14,
+          "time_info": "[12时48分 ~ 23时43分]"
         },
         {
           "title": "英媒：特朗普想见金正恩，但朝鲜没回应",
@@ -132,29 +157,15 @@
           "time_info": "[01时05分 ~ 07时33分]"
         },
         {
-          "title": "习近平将同美国总统特朗普举行会晤",
-          "url": "https://wallstreetcn.com/articles/3758164",
-          "source": "华尔街见闻",
+          "title": "特朗普：未能协调好与金正恩会晤时间",
+          "url": "https://news.ifeng.com/c/8nqg7u7QlJH",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时34分 ~ 22时47分]"
-        },
-        {
-          "title": "习近平将同美国总统特朗普举行会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31851071",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
+            5
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[17时39分 ~ 22时47分]"
+          "time_info": "[18时44分 ~ 23时43分]"
         },
         {
           "title": "高市早苗在安倍影子下拉拢特朗普：“不平等条约”与前途未卜的稀土协议",
@@ -167,8 +178,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时40分 ~ 22时47分]"
+          "appearance_count": 16,
+          "time_info": "[11时40分 ~ 23时43分]"
         },
         {
           "title": "习近平将同美国总统特朗普举行会晤",
@@ -216,17 +227,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时05分 ~ 07时33分]"
-        },
-        {
-          "title": "特朗普：未能协调好与金正恩会晤时间",
-          "url": "https://news.ifeng.com/c/8nqg7u7QlJH",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时44分 ~ 22时47分]"
         },
         {
           "title": "特朗普径自走过日本国旗未鞠躬",
@@ -303,6 +303,17 @@
           "time_info": "[12时48分 ~ 12时49分]"
         },
         {
+          "title": "李在明向特朗普赠送金色王冠和大勋章，特朗普：我现在就想戴",
+          "url": "https://v.ifeng.com/c/8nqcHK4xyyI",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时44分 ~ 23时43分]"
+        },
+        {
           "title": "美国参议院以52比48的投票比例通过法案，终止特朗普宣布的针对巴西进口商品实施50%关税的国家紧急状态。",
           "url": "https://flash.jin10.com/detail/20251029070406007800",
           "source": "金十数据",
@@ -372,17 +383,6 @@
           "time_info": "07时33分"
         },
         {
-          "title": "李在明向特朗普赠送金色王冠和大勋章，特朗普：我现在就想戴",
-          "url": "https://v.ifeng.com/c/8nqcHK4xyyI",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时44分 ~ 22时47分]"
-        },
-        {
           "title": "美国总统特朗普：美国正在改革钢铁生产并提高产量。",
           "url": "https://flash.jin10.com/detail/20251029122942604800",
           "source": "金十数据",
@@ -392,6 +392,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
+        },
+        {
+          "title": "李在明款待特朗普菜单曝光",
+          "url": "https://www.toutiao.com/trending/7566339492316188201/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "美国总统特朗普：韩国正在购买大量我们的武器。",
@@ -588,6 +599,19 @@
           "time_info": "[04时42分 ~ 06时40分]"
         },
         {
+          "title": "高市早苗挽特朗普胳膊还蹦蹦跳跳，日本网民：我觉得羞耻",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31851224",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时48分 ~ 23时43分]"
+        },
+        {
           "title": "特朗普",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26band_rank%3D14%26flag%3D1%26lcate%3D5001%26stream_entry_id%3D31%26realpos%3D14%26pos%3D14%26dgr%3D0%26display_time%3D1761716406%26pre_seqid%3D176171640612702616365159",
           "source": "微博",
@@ -610,6 +634,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时56分 ~ 15时34分]"
+        },
+        {
+          "title": "特朗普叫停所有美航母电磁弹射",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%AB%E5%81%9C%E6%89%80%E6%9C%89%E7%BE%8E%E8%88%AA%E6%AF%8D%E7%94%B5%E7%A3%81%E5%BC%B9%E5%B0%84%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D7%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%258F%25AB%25E5%2581%259C%25E6%2589%2580%25E6%259C%2589%25E7%25BE%258E%25E8%2588%25AA%25E6%25AF%258D%25E7%2594%25B5%25E7%25A3%2581%25E5%25BC%25B9%25E5%25B0%2584%2523%26dgr%3D0%26flag%3D1%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26c_type%3D31%26lcate%3D5001%26band_rank%3D7%26cate%3D5001%26pos%3D8%26display_time%3D1761748072%26pre_seqid%3D176174807203901120254153",
+          "source": "微博",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时47分 ~ 23时43分]"
         },
         {
           "title": "美国参议院共和党领袖图恩：如果政府停摆结束，美国总统特朗普愿意在下周与民主党人会面。",
@@ -648,18 +684,6 @@
           "time_info": "[12时49分 ~ 13时41分]"
         },
         {
-          "title": "高市早苗挽特朗普胳膊还蹦蹦跳跳，日本网民：我觉得羞耻",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31851224",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时48分 ~ 22时47分]"
-        },
-        {
           "title": "特朗普演讲时一把搂住高市早苗",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%BC%94%E8%AE%B2%E6%97%B6%E4%B8%80%E6%8A%8A%E6%90%82%E4%BD%8F%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97",
           "source": "百度热搜",
@@ -669,6 +693,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时40分 ~ 11时41分]"
+        },
+        {
+          "title": "美加贸易谈判中止后 特朗普与卡尼首次会面",
+          "url": "https://wallstreetcn.com/livenews/2996053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时47分 ~ 23时43分]"
         },
         {
           "title": "媒体：高市早苗极力讨好特朗普却演砸",
@@ -784,17 +820,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
-        },
-        {
-          "title": "特朗普叫停所有美航母电磁弹射",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%AB%E5%81%9C%E6%89%80%E6%9C%89%E7%BE%8E%E8%88%AA%E6%AF%8D%E7%94%B5%E7%A3%81%E5%BC%B9%E5%B0%84%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D7%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%258F%25AB%25E5%2581%259C%25E6%2589%2580%25E6%259C%2589%25E7%25BE%258E%25E8%2588%25AA%25E6%25AF%258D%25E7%2594%25B5%25E7%25A3%2581%25E5%25BC%25B9%25E5%25B0%2584%2523%26dgr%3D0%26flag%3D1%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26c_type%3D31%26lcate%3D5001%26band_rank%3D7%26cate%3D5001%26pos%3D8%26display_time%3D1761748072%26pre_seqid%3D176174807203901120254153",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时47分"
         },
         {
           "title": "美国总统特朗普：我们将拥有一个非常繁荣的造船业。",
@@ -940,15 +965,15 @@
           "time_info": "03时29分"
         },
         {
-          "title": "美加贸易谈判中止后 特朗普与卡尼首次会面",
-          "url": "https://wallstreetcn.com/livenews/2996053",
+          "title": "美国总统特朗普计划11月8日会见匈牙利总理Orban。",
+          "url": "https://wallstreetcn.com/livenews/2996072",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时47分"
+          "time_info": "23时43分"
         },
         {
           "title": "美国总统特朗普：美国工厂正在蓬勃发展。",
@@ -971,6 +996,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时57分"
+        },
+        {
+          "title": "资深参议员警告称：若允许特朗普主张的私募股权纳入401(k)，或令数百万美国人蒙受损失",
+          "url": "https://wallstreetcn.com/livenews/2996071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "美国总统特朗普：预计下季度GDP增长4%。",
@@ -1177,7 +1213,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时47分"
         },
@@ -1306,7 +1342,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
@@ -1465,6 +1501,18 @@
           "time_info": "[06时40分 ~ 07时33分]"
         },
         {
+          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF涨近2%，全球科技股指数ETF涨超1%，日常消费品ETF跌超1%，金融业ETF跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/2996056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时47分 ~ 23时43分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜英伟达收涨将近5%，获得其股权投资的诺基亚ADR涨约23%",
           "url": "https://wallstreetcn.com/livenews/2995351",
           "source": "华尔街见闻-快讯",
@@ -1545,17 +1593,6 @@
           "time_info": "19时30分"
         },
         {
-          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF涨近2%，全球科技股指数ETF涨超1%，日常消费品ETF跌超1%，金融业ETF跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/2996056",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时47分"
-        },
-        {
           "title": "礼来(LLY.N)美股盘前涨近1%，公司宣布沃尔玛将提供Zepbound注射剂的取药服务。",
           "url": "https://flash.jin10.com/detail/20251029191217764800",
           "source": "金十数据",
@@ -1600,6 +1637,17 @@
           "time_info": "21时48分"
         },
         {
+          "title": "美股存储芯片公司延续涨势，闪迪上涨10%，西部数据上涨13.1%，希捷科技上涨18.1%。",
+          "url": "https://flash.jin10.com/detail/20251029231239494800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
           "title": "美股三大股指走高，纳指涨超1%，标普500指数涨0.43%，道指涨0.57%。",
           "url": "https://flash.jin10.com/detail/20251029030928567800",
           "source": "金十数据",
@@ -1609,6 +1657,175 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "OpenAI重组落地！微软持股27% 并续签AI合作至2032年",
+          "url": "https://www.cls.cn/detail/2183967",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时05分 ~ 11时41分]"
+        },
+        {
+          "title": "OpenAI达成重磅协议向营利组织转型，微软持股27%，AI模型授权延至2032年，Azure获2500亿订单",
+          "url": "https://wallstreetcn.com/articles/3758104",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时40分 ~ 19时30分]"
+        },
+        {
+          "title": "PayPal成为ChatGPT首个支付钱包 盘前一度涨超15%",
+          "url": "https://www.cls.cn/detail/2183840",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 06时40分]"
+        },
+        {
+          "title": "ChatGPT：推出GPT-OSS-SAFEGUARD。",
+          "url": "https://flash.jin10.com/detail/20251029233645478800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
+          "title": "OpenAI首席财务官：周二与微软达成的协议使我们能够以一种复杂程度低得多的方式继续筹集资金。",
+          "url": "https://flash.jin10.com/detail/20251029144001597800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
+          "title": "OpenAI首席执行官Altman：考虑到我们未来的资金需求，可以说进行IPO对我们而言是最有可能的出路。",
+          "url": "https://wallstreetcn.com/livenews/2995318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 03时29分]"
+        },
+        {
+          "title": "OpenAI：AI基础设施总投资额约1.4万亿美元",
+          "url": "https://wallstreetcn.com/livenews/2995307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 03时29分]"
+        },
+        {
+          "title": "OpenAI首席执行官萨姆·奥尔特曼：考虑到公司未来的资本需求，IPO是最有可能的途径。",
+          "url": "https://flash.jin10.com/detail/20251029024018931800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时29分"
+        },
+        {
+          "title": "OpenAI首席财务官：对于算力交易，我们在融资方面需要与技术方面同样多的创新。",
+          "url": "https://flash.jin10.com/detail/20251029145842379800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
+          "title": "OpenAI首席财务官：（在被问及人工智能计算交易的高估值时）没有算力就等于没有收入，并且全球计算资源存在巨大瓶颈，因此需要投资。",
+          "url": "https://flash.jin10.com/detail/20251029145808653800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
+          "title": "美国总统特朗普：现代承诺投资260亿美元，美光承诺投资2000亿美元，软银、OpenAI、甲骨文承诺投资超过5000亿美元。",
+          "url": "https://flash.jin10.com/detail/20251029131152821800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
+          "title": "OpenAI首席执行官萨姆·奥尔特曼：OpenAI所有承诺的基础设施建设总量略超30吉瓦，总计约1.4万亿美元。",
+          "url": "https://flash.jin10.com/detail/20251029015946232800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "OpenAI首席执行官萨姆·奥尔特曼：我们的目标是建立一个基础设施工厂，每周能够创造1吉瓦的算力。",
+          "url": "https://flash.jin10.com/detail/20251029015512703800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "OpenAI首席财务官：我们希望与世界各国政府合作，推广我们的技术，这种技术也能为美国带来一种软实力。",
+          "url": "https://flash.jin10.com/detail/20251029144659448800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时34分"
         }
       ]
     },
@@ -1786,164 +2003,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "OpenAI重组落地！微软持股27% 并续签AI合作至2032年",
-          "url": "https://www.cls.cn/detail/2183967",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时05分 ~ 11时41分]"
-        },
-        {
-          "title": "OpenAI达成重磅协议向营利组织转型，微软持股27%，AI模型授权延至2032年，Azure获2500亿订单",
-          "url": "https://wallstreetcn.com/articles/3758104",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时40分 ~ 19时30分]"
-        },
-        {
-          "title": "PayPal成为ChatGPT首个支付钱包 盘前一度涨超15%",
-          "url": "https://www.cls.cn/detail/2183840",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时05分 ~ 06时40分]"
-        },
-        {
-          "title": "OpenAI首席财务官：周二与微软达成的协议使我们能够以一种复杂程度低得多的方式继续筹集资金。",
-          "url": "https://flash.jin10.com/detail/20251029144001597800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时57分"
-        },
-        {
-          "title": "OpenAI首席执行官Altman：考虑到我们未来的资金需求，可以说进行IPO对我们而言是最有可能的出路。",
-          "url": "https://wallstreetcn.com/livenews/2995318",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时58分 ~ 03时29分]"
-        },
-        {
-          "title": "OpenAI：AI基础设施总投资额约1.4万亿美元",
-          "url": "https://wallstreetcn.com/livenews/2995307",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时58分 ~ 03时29分]"
-        },
-        {
-          "title": "OpenAI首席执行官萨姆·奥尔特曼：考虑到公司未来的资本需求，IPO是最有可能的途径。",
-          "url": "https://flash.jin10.com/detail/20251029024018931800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时29分"
-        },
-        {
-          "title": "OpenAI首席财务官：对于算力交易，我们在融资方面需要与技术方面同样多的创新。",
-          "url": "https://flash.jin10.com/detail/20251029145842379800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时34分"
-        },
-        {
-          "title": "OpenAI首席财务官：（在被问及人工智能计算交易的高估值时）没有算力就等于没有收入，并且全球计算资源存在巨大瓶颈，因此需要投资。",
-          "url": "https://flash.jin10.com/detail/20251029145808653800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时34分"
-        },
-        {
-          "title": "美国总统特朗普：现代承诺投资260亿美元，美光承诺投资2000亿美元，软银、OpenAI、甲骨文承诺投资超过5000亿美元。",
-          "url": "https://flash.jin10.com/detail/20251029131152821800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时41分"
-        },
-        {
-          "title": "OpenAI首席执行官萨姆·奥尔特曼：OpenAI所有承诺的基础设施建设总量略超30吉瓦，总计约1.4万亿美元。",
-          "url": "https://flash.jin10.com/detail/20251029015946232800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        },
-        {
-          "title": "OpenAI首席执行官萨姆·奥尔特曼：我们的目标是建立一个基础设施工厂，每周能够创造1吉瓦的算力。",
-          "url": "https://flash.jin10.com/detail/20251029015512703800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        },
-        {
-          "title": "OpenAI首席财务官：我们希望与世界各国政府合作，推广我们的技术，这种技术也能为美国带来一种软实力。",
-          "url": "https://flash.jin10.com/detail/20251029144659448800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时34分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -2005,6 +2064,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时42分 ~ 05时34分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据美联社援引联合国核监督机构负责人：联合国称在伊朗核储备附近发现动静。伊朗并未积极进行铀浓缩活动。",
+          "url": "https://flash.jin10.com/detail/20251029233008176800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         }
       ]
     }
