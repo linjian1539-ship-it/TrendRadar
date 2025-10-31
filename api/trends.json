@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T16:49:02.188641+08:00",
-  "total_titles_processed": 1343,
+  "generated_at": "2025-10-31T17:38:45.915488+08:00",
+  "total_titles_processed": 1444,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 57,
       "titles": [
         {
           "title": "视频丨习近平同美国总统特朗普在釜山举行会晤",
@@ -16,8 +16,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时51分 ~ 16时49分]"
+          "appearance_count": 19,
+          "time_info": "[00时51分 ~ 17时38分]"
+        },
+        {
+          "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
+          "url": "https://www.zhihu.com/question/1967494414290084753",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时35分 ~ 17时38分]"
         },
         {
           "title": "金正恩为何不见特朗普？",
@@ -41,18 +53,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时51分 ~ 07时30分]"
-        },
-        {
-          "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
-          "url": "https://www.zhihu.com/question/1967494414290084753",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时35分 ~ 16时49分]"
         },
         {
           "title": "特朗普：给中美元首会晤打12分",
@@ -80,26 +80,26 @@
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
-          "url": "https://news.ifeng.com/c/8ntJZC8qeev",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时35分 ~ 16时49分]"
-        },
-        {
-          "title": "美参议院通过终止特朗普全面关税政策决议",
           "url": "https://wallstreetcn.com/articles/3758372",
           "source": "华尔街见闻",
           "ranks": [
             6,
             5,
             4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时35分 ~ 17时38分]"
+        },
+        {
+          "title": "美参议院通过终止特朗普全面关税政策决议",
+          "url": "https://news.ifeng.com/c/8ntJZC8qeev",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            1,
+            2,
             3
           ],
           "is_new": false,
@@ -172,11 +172,12 @@
             5,
             9,
             7,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时35分 ~ 16时49分]"
+          "appearance_count": 10,
+          "time_info": "[11时35分 ~ 17时38分]"
         },
         {
           "title": "【早报】美方称中方同意暂停实施稀土出口管制措施，外交部回应；美参议院通过终止特朗普全面关税政策决议",
@@ -203,6 +204,17 @@
           "time_info": "[11时35分 ~ 14时54分]"
         },
         {
+          "title": "美参议院通过终止特朗普全面关税政策决议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31858474",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时35分 ~ 17时38分]"
+        },
+        {
           "title": "特朗普批准韩华费城造船厂建造核潜艇，外交部：望韩美切实履行核不扩散义务",
           "url": "https://m.thepaper.cn/newsDetail_forward_31855444",
           "source": "澎湃新闻",
@@ -226,17 +238,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时35分 ~ 13时41分]"
-        },
-        {
-          "title": "美参议院通过终止特朗普全面关税政策决议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31858474",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时35分 ~ 16时49分]"
         },
         {
           "title": "特朗普批准韩国在美建造核动力潜艇",
@@ -378,6 +379,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时30分 ~ 11时36分]"
+        },
+        {
+          "title": "特朗普为何不参加APEC峰会",
+          "url": "https://www.toutiao.com/trending/7567275879148031498/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
+          "title": "特朗普称将重启核武试验，俄表示会效仿",
+          "url": "https://news.ifeng.com/c/8ntsDucQYrq",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         },
         {
           "title": "如何看待特朗普对中美会晤的表述",
@@ -595,6 +618,17 @@
           "time_info": "13时00分"
         },
         {
+          "title": "外交部回应特朗普“G2”集团言论",
+          "url": "https://www.toutiao.com/trending/7566848950186197011/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
           "title": "“超级央行周”在昨日暂告一段落，日本央行不加息，欧洲央行不降息；特朗普“亚洲行”成果颇丰，同时透露或达成一项规模庞大的协议，涉及阿拉斯加油气，当前，金银油一致呈现卖出信号，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20251031105316325800",
           "source": "金十数据",
@@ -615,6 +649,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
+        },
+        {
+          "title": "特朗普关税被指“违法”对华意味什么",
+          "url": "https://www.toutiao.com/trending/7567284269270175295/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         },
         {
           "title": "据知情人士透露，福特汽车藐视美国总统特朗普的主张，将在印度发动机工厂投资3.70亿美元。（彭博）",
@@ -648,6 +693,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
+        },
+        {
+          "title": "乌克兰外长：俄罗斯使用了导致特朗普退出中导条约的导弹",
+          "url": "https://flash.jin10.com/detail/20251031165712977800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         }
       ]
     },
@@ -664,8 +720,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时30分 ~ 16时49分]"
+          "appearance_count": 11,
+          "time_info": "[07时30分 ~ 17时38分]"
         },
         {
           "title": "美股收盘：三大指数集体下跌 科技巨头股价大起大落",
@@ -789,6 +845,18 @@
           "time_info": "[04时45分 ~ 05时33分]"
         },
         {
+          "title": "美股盘前，亚马逊涨约12%，苹果涨约3%",
+          "url": "https://wallstreetcn.com/livenews/2997557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 17时38分]"
+        },
+        {
           "title": "美股收盘：三大股指齐跌 Meta跌超11%",
           "url": "https://flash.jin10.com/detail/20251031040124209800",
           "source": "金十数据",
@@ -799,17 +867,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时45分 ~ 05时33分]"
-        },
-        {
-          "title": "美股盘前，亚马逊涨约12%，苹果涨约3%",
-          "url": "https://wallstreetcn.com/livenews/2997557",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时49分"
         },
         {
           "title": "苹果(AAPL.O)美股盘后跌2%。",
@@ -918,6 +975,17 @@
           "time_info": "[00时51分 ~ 07时30分]"
         },
         {
+          "title": "谷歌前CEO：当年李鸿章访美被震了，如今外国人来华被惊了",
+          "url": "https://news.ifeng.com/c/8ntxAfWGS8b",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时48分 ~ 17时38分]"
+        },
+        {
           "title": "谷歌Q3业绩全面超预期，云亮眼，上调资本支出至930亿美元，盘后涨超7% | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3758229",
           "source": "华尔街见闻",
@@ -928,17 +996,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时45分 ~ 05时33分]"
-        },
-        {
-          "title": "谷歌前CEO：当年李鸿章访美被震了，如今外国人来华被惊了",
-          "url": "https://news.ifeng.com/c/8ntxAfWGS8b",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时48分 ~ 16时49分]"
         }
       ]
     },
@@ -979,6 +1036,36 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时45分 ~ 05时33分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价狂飙婚事耽搁2年女子发声",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99%E5%A9%9A%E4%BA%8B%E8%80%BD%E6%90%812%E5%B9%B4%E5%A5%B3%E5%AD%90%E5%8F%91%E5%A3%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26band_rank%3D18%26flag%3D0%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E7%258B%2582%25E9%25A3%2599%25E5%25A9%259A%25E4%25BA%258B%25E8%2580%25BD%25E6%2590%25812%25E5%25B9%25B4%25E5%25A5%25B3%25E5%25AD%2590%25E5%258F%2591%25E5%25A3%25B0%2523%26dgr%3D0%26stream_entry_id%3D31%26realpos%3D18%26pos%3D19%26cate%3D5001%26filter_type%3Drealtimehot%26lcate%3D5001%26display_time%3D1761856810%26pre_seqid%3D17618568099860269028113",
+          "source": "微博",
+          "ranks": [
+            18,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时45分 ~ 07时30分]"
+        },
+        {
+          "title": "金价涨涨跌跌 旧首饰如何处理",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%B6%A8%E6%B6%A8%E8%B7%8C%E8%B7%8C+%E6%97%A7%E9%A6%96%E9%A5%B0%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         }
       ]
     },
@@ -1027,27 +1114,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时35分 ~ 16时49分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价狂飙婚事耽搁2年女子发声",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99%E5%A9%9A%E4%BA%8B%E8%80%BD%E6%90%812%E5%B9%B4%E5%A5%B3%E5%AD%90%E5%8F%91%E5%A3%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26band_rank%3D18%26flag%3D0%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E7%258B%2582%25E9%25A3%2599%25E5%25A9%259A%25E4%25BA%258B%25E8%2580%25BD%25E6%2590%25812%25E5%25B9%25B4%25E5%25A5%25B3%25E5%25AD%2590%25E5%258F%2591%25E5%25A3%25B0%2523%26dgr%3D0%26stream_entry_id%3D31%26realpos%3D18%26pos%3D19%26cate%3D5001%26filter_type%3Drealtimehot%26lcate%3D5001%26display_time%3D1761856810%26pre_seqid%3D17618568099860269028113",
-          "source": "微博",
-          "ranks": [
-            18,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时45分 ~ 07时30分]"
+          "appearance_count": 10,
+          "time_info": "[11时35分 ~ 17时38分]"
         }
       ]
     }
