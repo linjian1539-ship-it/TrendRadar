@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T13:00:01.820816+08:00",
-  "total_titles_processed": 966,
+  "generated_at": "2025-10-31T13:41:19.538284+08:00",
+  "total_titles_processed": 1032,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 51,
       "titles": [
         {
           "title": "视频丨习近平同美国总统特朗普在釜山举行会晤",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时51分 ~ 13时00分]"
+          "appearance_count": 14,
+          "time_info": "[00时51分 ~ 13时41分]"
         },
         {
           "title": "金正恩为何不见特朗普？",
@@ -77,8 +77,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时51分 ~ 13时00分]"
+          "appearance_count": 14,
+          "time_info": "[00时51分 ~ 13时41分]"
         },
         {
           "title": "习近平同美国总统特朗普在釜山举行会晤",
@@ -93,8 +93,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时51分 ~ 13时00分]"
+          "appearance_count": 14,
+          "time_info": "[00时51分 ~ 13时41分]"
         },
         {
           "title": "特朗普称将下令美航母改回蒸汽弹射",
@@ -117,8 +117,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时30分 ~ 13时41分]"
+        },
+        {
+          "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
+          "url": "https://www.zhihu.com/question/1967494414290084753",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[07时30分 ~ 13时00分]"
+          "time_info": "[11时35分 ~ 13时41分]"
         },
         {
           "title": "特朗普批准韩华费城造船厂建造核潜艇，外交部：望韩美切实履行核不扩散义务",
@@ -126,11 +137,46 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时51分 ~ 13时00分]"
+          "appearance_count": 14,
+          "time_info": "[00时51分 ~ 13时41分]"
+        },
+        {
+          "title": "特朗普下令重启核试验，美国官员麻了：不切实际",
+          "url": "https://news.ifeng.com/c/8ntVHnP7AGG",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时35分 ~ 13时41分]"
+        },
+        {
+          "title": "美参议院通过终止特朗普关税决议",
+          "url": "https://www.toutiao.com/trending/7567152652803706377/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时35分 ~ 13时41分]"
+        },
+        {
+          "title": "美参议院通过终止特朗普全面关税政策决议",
+          "url": "https://www.cls.cn/detail/2187070",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时35分 ~ 13时41分]"
         },
         {
           "title": "特朗普批准韩国在美建造核动力潜艇",
@@ -154,17 +200,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时51分 ~ 07时30分]"
-        },
-        {
-          "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
-          "url": "https://www.zhihu.com/question/1967494414290084753",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时35分 ~ 13时00分]"
         },
         {
           "title": "特朗普：相信我们将建立长期良好关系",
@@ -193,50 +228,17 @@
           "time_info": "[00时51分 ~ 07时30分]"
         },
         {
-          "title": "特朗普下令重启核试验，美国官员麻了：不切实际",
-          "url": "https://news.ifeng.com/c/8ntVHnP7AGG",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时35分 ~ 13时00分]"
-        },
-        {
-          "title": "美参议院通过终止特朗普关税决议",
-          "url": "https://www.toutiao.com/trending/7567152652803706377/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时35分 ~ 13时00分]"
-        },
-        {
-          "title": "美参议院通过终止特朗普全面关税政策决议",
-          "url": "https://www.cls.cn/detail/2187070",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时35分 ~ 13时00分]"
-        },
-        {
           "title": "特朗普全面关税被参议院批准终止",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%A8%E9%9D%A2%E5%85%B3%E7%A8%8E%E8%A2%AB%E5%8F%82%E8%AE%AE%E9%99%A2%E6%89%B9%E5%87%86%E7%BB%88%E6%AD%A2",
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时35分 ~ 13时00分]"
+          "appearance_count": 5,
+          "time_info": "[11时35分 ~ 13时41分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -247,20 +249,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时35分 ~ 13时00分]"
-        },
-        {
-          "title": "特朗普全面关税被参议院批准终止",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%A8%E9%9D%A2%E5%85%B3%E7%A8%8E%E8%A2%AB%E5%8F%82%E8%AE%AE%E9%99%A2%E6%89%B9%E5%87%86%E7%BB%88%E6%AD%A2%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26band_rank%3D2%26flag%3D0%26stream_entry_id%3D31%26lcate%3D5001%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%2585%25A8%25E9%259D%25A2%25E5%2585%25B3%25E7%25A8%258E%25E8%25A2%25AB%25E5%258F%2582%25E8%25AE%25AE%25E9%2599%25A2%25E6%2589%25B9%25E5%2587%2586%25E7%25BB%2588%25E6%25AD%25A2%2523%26filter_type%3Drealtimehot%26pos%3D1%26c_type%3D31%26realpos%3D2%26dgr%3D0%26display_time%3D1761880803%26pre_seqid%3D17618808034400265169158",
-          "source": "微博",
-          "ranks": [
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时35分 ~ 13时00分]"
+          "appearance_count": 5,
+          "time_info": "[11时35分 ~ 13时41分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -269,6 +259,18 @@
           "ranks": [
             6,
             5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时35分 ~ 13时41分]"
+        },
+        {
+          "title": "特朗普全面关税被参议院批准终止",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%A8%E9%9D%A2%E5%85%B3%E7%A8%8E%E8%A2%AB%E5%8F%82%E8%AE%AE%E9%99%A2%E6%89%B9%E5%87%86%E7%BB%88%E6%AD%A2%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26band_rank%3D2%26flag%3D0%26stream_entry_id%3D31%26lcate%3D5001%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%2585%25A8%25E9%259D%25A2%25E5%2585%25B3%25E7%25A8%258E%25E8%25A2%25AB%25E5%258F%2582%25E8%25AE%25AE%25E9%2599%25A2%25E6%2589%25B9%25E5%2587%2586%25E7%25BB%2588%25E6%25AD%25A2%2523%26filter_type%3Drealtimehot%26pos%3D1%26c_type%3D31%26realpos%3D2%26dgr%3D0%26display_time%3D1761880803%26pre_seqid%3D17618808034400265169158",
+          "source": "微博",
+          "ranks": [
+            2,
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -288,6 +290,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时58分 ~ 07时30分]"
+        },
+        {
+          "title": "美参议院通过终止特朗普全面关税政策决议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31858474",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时35分 ~ 13时41分]"
         },
         {
           "title": "美国总统特朗普已抵达华盛顿。",
@@ -311,6 +324,44 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时30分 ~ 11时36分]"
+        },
+        {
+          "title": "安德鲁被剥夺王子头衔 美参议院通过终止特朗普全面关税政策决议 | 环球市场",
+          "url": "https://www.cls.cn/detail/2187115",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时35分 ~ 13时41分]"
+        },
+        {
+          "title": "外交部回应特朗普重启核试验",
+          "url": "https://www.douyin.com/hot/2288630",
+          "source": "抖音",
+          "ranks": [
+            9,
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时35分 ~ 13时41分]"
+        },
+        {
+          "title": "特朗普全面关税被参议院批准终止",
+          "url": "https://www.douyin.com/hot/2289166",
+          "source": "抖音",
+          "ranks": [
+            14,
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时35分 ~ 13时41分]"
         },
         {
           "title": "如何看待特朗普对中美会晤的表述",
@@ -337,17 +388,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时58分 ~ 03时32分]"
-        },
-        {
-          "title": "美参议院通过终止特朗普全面关税政策决议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31858474",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时35分 ~ 13时00分]"
         },
         {
           "title": "美国白宫将（总统特朗普）对商品期货交易委员会（CFTC）主席Selig的提名移交给参议院。",
@@ -387,18 +427,6 @@
           "time_info": "[04时45分 ~ 05时33分]"
         },
         {
-          "title": "安德鲁被剥夺王子头衔 美参议院通过终止特朗普全面关税政策决议 | 环球市场",
-          "url": "https://www.cls.cn/detail/2187115",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时35分 ~ 13时00分]"
-        },
-        {
           "title": "美国副总统万斯：测试核武库功能是否正常是美国总统特朗普宣布的测试计划的一部分。",
           "url": "https://flash.jin10.com/detail/20251031023332558800",
           "source": "金十数据",
@@ -423,30 +451,6 @@
           "time_info": "[06时37分 ~ 07时30分]"
         },
         {
-          "title": "外交部回应特朗普重启核试验",
-          "url": "https://www.douyin.com/hot/2288630",
-          "source": "抖音",
-          "ranks": [
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时35分 ~ 13时00分]"
-        },
-        {
-          "title": "特朗普全面关税被参议院批准终止",
-          "url": "https://www.douyin.com/hot/2289166",
-          "source": "抖音",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时35分 ~ 13时00分]"
-        },
-        {
           "title": "普京为何选择对特朗普“冷处理”",
           "url": "https://www.toutiao.com/trending/7567155566624116266/",
           "source": "今日头条",
@@ -457,6 +461,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时35分 ~ 13时00分]"
+        },
+        {
+          "title": "如何看待美国参议院否决特朗普关税",
+          "url": "https://www.toutiao.com/trending/7567192986853838355/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时59分 ~ 13时41分]"
         },
         {
           "title": "据知情人士透露，美国总统特朗普的政府罢免房利美多名伦理（与利益冲突相关）官员。（华尔街日报）",
@@ -495,17 +511,6 @@
           "time_info": "[04时45分 ~ 05时33分]"
         },
         {
-          "title": "如何看待美国参议院否决特朗普关税",
-          "url": "https://www.toutiao.com/trending/7567192986853838355/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 13时00分]"
-        },
-        {
           "title": "参议院再否决特朗普关税，共和党人持续倒戈",
           "url": "https://flash.jin10.com/detail/20251031020008769800",
           "source": "金十数据",
@@ -516,6 +521,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时58分 ~ 03时32分]"
+        },
+        {
+          "title": "美国官员：美国总统特朗普携大批高级官员出席峰会的事实表明了美国对亚太经合组织的承诺。",
+          "url": "https://flash.jin10.com/detail/20251031131747344800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
+          "title": "据英国金融时报：在莫斯科向华盛顿发送备忘录后，特朗普与普京的峰会被取消。",
+          "url": "https://flash.jin10.com/detail/20251031130426387800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
         },
         {
           "title": "据《国会山报》：当地时间周四晚些时候，特朗普再次抨击平价医疗法案(ACA)，要求民主党人在联邦资金陷入僵局的情况下，采取行动应对即将出现的费率大幅上涨问题。",
@@ -535,7 +562,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时00分"
         },
@@ -549,6 +576,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
+        },
+        {
+          "title": "美元兑卢布短线波动不大，此前英国金融时报报道称，莫斯科向华盛顿发送备忘录后，特朗普与普京的峰会被取消。",
+          "url": "https://wallstreetcn.com/livenews/2997422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
         },
         {
           "title": "据知情人士透露，福特汽车藐视美国总统特朗普的主张，将在印度发动机工厂投资3.70亿美元。（彭博）",
@@ -590,6 +628,19 @@
       "match_count": 13,
       "titles": [
         {
+          "title": "美股收盘：三大指数集体下跌 科技巨头股价大起大落",
+          "url": "https://www.cls.cn/detail/2187041",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时37分 ~ 13时41分]"
+        },
+        {
           "title": "美股指数集体低开，纳指跌超1%，Meta跌12%，比特币跌近4%",
           "url": "https://wallstreetcn.com/articles/3758264",
           "source": "华尔街见闻",
@@ -603,19 +654,6 @@
           "time_info": "[00时51分 ~ 06时37分]"
         },
         {
-          "title": "美股收盘：三大指数集体下跌 科技巨头股价大起大落",
-          "url": "https://www.cls.cn/detail/2187041",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时37分 ~ 13时00分]"
-        },
-        {
           "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
           "url": "https://wallstreetcn.com/articles/3758264",
           "source": "华尔街见闻",
@@ -623,8 +661,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时30分 ~ 13时00分]"
+          "appearance_count": 6,
+          "time_info": "[07时30分 ~ 13时41分]"
         },
         {
           "title": "苹果第四财季营收1024.7亿美元，分析师预期1021.9亿美元。 第四财季大中华区营收144.9亿美元，分析师预期164.3亿美元。 第四财季iPhone收入490.3亿美元，同比增长6.1%。 苹果股价美股盘后跌3%。",
@@ -933,11 +971,12 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时35分 ~ 13时00分]"
+          "appearance_count": 5,
+          "time_info": "[11时35分 ~ 13时41分]"
         }
       ]
     },
