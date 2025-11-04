@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T18:49:40.942742+08:00",
-  "total_titles_processed": 1526,
+  "generated_at": "2025-11-04T19:32:30.565189+08:00",
+  "total_titles_processed": 1621,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普称中方秘密测试核武器，外交部回应",
@@ -90,8 +90,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时49分 ~ 18时49分]"
+          "appearance_count": 23,
+          "time_info": "[00时49分 ~ 19时32分]"
         },
         {
           "title": "声称尼日利亚纵容暴力，特朗普威胁动武",
@@ -159,6 +159,28 @@
           "time_info": "[00时49分 ~ 07时31分]"
         },
         {
+          "title": "BBC又翻车？被曝“篡改”特朗普演讲稿，制造“煽动骚乱”假象",
+          "url": "https://news.ifeng.com/c/8o0Gc0LQ9TP",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时34分 ~ 19时32分]"
+        },
+        {
+          "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
+          "url": "https://news.ifeng.com/c/8o0cBvF0n9M",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时49分 ~ 19时32分]"
+        },
+        {
           "title": "特朗普70分钟采访提及中国41次",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE70%E5%88%86%E9%92%9F%E9%87%87%E8%AE%BF%E6%8F%90%E5%8F%8A%E4%B8%AD%E5%9B%BD41%E6%AC%A1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D17%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE70%25E5%2588%2586%25E9%2592%259F%25E9%2587%2587%25E8%25AE%25BF%25E6%258F%2590%25E5%258F%258A%25E4%25B8%25AD%25E5%259B%25BD41%25E6%25AC%25A1%2523%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26flag%3D0%26stream_entry_id%3D31%26pos%3D16%26lcate%3D5001%26band_rank%3D17%26display_time%3D1762194421%26pre_seqid%3D176219442189203403218133&launchid=10000360-page_H5",
           "source": "微博",
@@ -183,28 +205,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
-        },
-        {
-          "title": "BBC又翻车？被曝“篡改”特朗普演讲稿，制造“煽动骚乱”假象",
-          "url": "https://news.ifeng.com/c/8o0Gc0LQ9TP",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时34分 ~ 18时49分]"
-        },
-        {
-          "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
-          "url": "https://news.ifeng.com/c/8o0cBvF0n9M",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时49分"
         },
         {
           "title": "奥巴马抨击特朗普释放了什么信号",
@@ -296,6 +296,19 @@
           "time_info": "[06时39分 ~ 07时31分]"
         },
         {
+          "title": "特朗普称对中国与其打压不如合作",
+          "url": "https://www.toutiao.com/trending/7568736208902324287/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时42分 ~ 19时32分]"
+        },
+        {
           "title": "特朗普改口不去全球关税合法性听证会",
           "url": "https://www.toutiao.com/trending/7568682000622554660/",
           "source": "今日头条",
@@ -306,6 +319,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时33分 ~ 12时43分]"
+        },
+        {
+          "title": "周泳宏：特朗普想与中国和睦相处",
+          "url": "https://www.toutiao.com/trending/7568747917062704678/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时42分 ~ 19时32分]"
         },
         {
           "title": "特朗普对华政策的思路真改变了吗",
@@ -343,18 +369,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时49分 ~ 01时37分]"
-        },
-        {
-          "title": "特朗普称对中国与其打压不如合作",
-          "url": "https://www.toutiao.com/trending/7568736208902324287/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时42分 ~ 18时49分]"
         },
         {
           "title": "美联储理事库克自特朗普起诉她以来首次公开讲话，称：还没有就12月降息与否做决定。 （在9月份和10月份都）支持FOMC降息，因为就业市场面临的风险超过通胀风险。 当前政策仍然具有适度的限制性。",
@@ -429,18 +443,6 @@
           "time_info": "[03时28分 ~ 04时42分]"
         },
         {
-          "title": "周泳宏：特朗普想与中国和睦相处",
-          "url": "https://www.toutiao.com/trending/7568747917062704678/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时42分 ~ 18时49分]"
-        },
-        {
           "title": "美国总统特朗普的政府官员们表示，将对“补充营养援助计划”（SNAP）提供局部资金。 特朗普的司法部称，11月份将可以获得50%的食品救济资金。 此前，特朗普政府因为联邦政府关门期间的SNAP资金问题而败诉。",
           "url": "https://wallstreetcn.com/livenews/2998687",
           "source": "华尔街见闻-快讯",
@@ -483,6 +485,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-04）",
+          "url": "https://flash.jin10.com/detail/20251104185121608800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         },
         {
           "title": "特朗普为何不出席关税听证会",
@@ -535,7 +548,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         }
@@ -543,7 +556,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -553,8 +566,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时33分 ~ 18时49分]"
+          "appearance_count": 14,
+          "time_info": "[11时33分 ~ 19时32分]"
         },
         {
           "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
@@ -589,6 +602,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
+        },
+        {
+          "title": "法拉利第三季度营收17.7亿欧元，预估17.1亿欧元。 第三季度EBITDA 6.7亿欧元，预估6.45亿欧元。 第三季度息税前利润5.03亿欧元，预估4.71亿欧元。 第三季度交付量3401辆，预估3347辆。 法拉利美股盘前涨2.5%。",
+          "url": "https://wallstreetcn.com/livenews/2999193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         },
         {
           "title": "美股期指涨跌不一 IREN盘前大涨超21% | 今夜看点",
@@ -697,6 +721,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时42分 ~ 18时49分]"
+        },
+        {
+          "title": "Spotify三季度营收42.7亿欧元，预估42.3亿欧元。 三季度每股收益3.26欧元，上年同期1.45欧元。 三季度营业利润5.82亿欧元，同比增长28%。 Spotify预计四季度营收45亿欧元，预估45.7亿欧元。 Spotify预计四季度营业利润6.2亿欧元，预估6.053亿欧元。 Spotify美股盘前涨近7%。",
+          "url": "https://wallstreetcn.com/livenews/2999184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         },
         {
           "title": "特斯拉(TSLA.O)美股盘前下跌2.2%。",
@@ -907,8 +942,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[05时32分 ~ 18时49分]"
+          "appearance_count": 17,
+          "time_info": "[05时32分 ~ 19时32分]"
         },
         {
           "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
