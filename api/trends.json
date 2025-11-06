@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T16:54:50.066049+08:00",
-  "total_titles_processed": 1349,
+  "generated_at": "2025-11-06T17:41:49.016930+08:00",
+  "total_titles_processed": 1445,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 53,
       "titles": [
         {
           "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
@@ -24,11 +24,12 @@
           "url": "https://wallstreetcn.com/articles/3758755",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时40分 ~ 16时54分]"
+          "appearance_count": 8,
+          "time_info": "[11时40分 ~ 17时41分]"
         },
         {
           "title": "特朗普：美国第一，俄罗斯第二，中国第三",
@@ -39,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时50分 ~ 16时54分]"
+          "appearance_count": 7,
+          "time_info": "[12时50分 ~ 17时41分]"
         },
         {
           "title": "就在今天，特朗普任期首次重大选举！市场将获得重要数据，预判明年美国“中选”格局",
@@ -65,8 +66,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[05时32分 ~ 16时54分]"
+          "appearance_count": 11,
+          "time_info": "[05时32分 ~ 17时41分]"
         },
         {
           "title": "特朗普关税遭美国高院大法官轮番质疑 预测市场胜率跳水大跌",
@@ -92,6 +93,18 @@
           "time_info": "[11时40分 ~ 13时41分]"
         },
         {
+          "title": "爱沙尼亚外长怂恿：特朗普说了，中国对俄施压有用",
+          "url": "https://news.ifeng.com/c/8o3ahiOpYbf",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时58分 ~ 17时41分]"
+        },
+        {
           "title": "纽约选出首位穆斯林市长，“调高音量”挑战特朗普",
           "url": "https://news.ifeng.com/c/8o2qbh848kJ",
           "source": "凤凰网",
@@ -113,18 +126,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时55分 ~ 07时32分]"
-        },
-        {
-          "title": "爱沙尼亚外长怂恿：特朗普说了，中国对俄施压有用",
-          "url": "https://news.ifeng.com/c/8o3ahiOpYbf",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时58分 ~ 16时54分]"
         },
         {
           "title": "涉及特朗普，BBC被曝严重造假！",
@@ -536,6 +537,17 @@
           "time_info": "05时32分"
         },
         {
+          "title": "特朗普回应被纽约新市长演讲叫板",
+          "url": "https://www.toutiao.com/trending/7568666523620114483/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
           "title": "高盛：即使美最高法院裁定特朗普关税违法，对整体贸易局势影响也有限",
           "url": "https://flash.jin10.com/detail/20251106140838691800",
           "source": "金十数据",
@@ -586,7 +598,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -608,7 +620,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         }
@@ -616,7 +628,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -678,8 +690,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时40分 ~ 16时54分]"
+          "appearance_count": 8,
+          "time_info": "[11时40分 ~ 17时41分]"
         },
         {
           "title": "逢低买盘再现，美股上演普涨反弹，小盘股领涨",
@@ -691,6 +703,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "多邻国美股盘前跌超21%，第四季度预订量指引不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3000481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
         },
         {
           "title": "金十图示：2025年11月05日（周三）热门中概股行情一览（美股收盘）",
@@ -1121,6 +1144,18 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
+          "url": "https://wallstreetcn.com/articles/3758696",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时40分 ~ 17时41分]"
+        },
+        {
           "title": "美股三大股指涨跌不一，美债短线下挫，加密货币反弹，以太坊涨超4%",
           "url": "https://wallstreetcn.com/articles/3758696",
           "source": "华尔街见闻",
@@ -1130,17 +1165,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时55分 ~ 06时39分]"
-        },
-        {
-          "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
-          "url": "https://wallstreetcn.com/articles/3758696",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时40分 ~ 16时54分]"
         },
         {
           "title": "美债收益率继续上涨，10年期收益率日内涨6.6个基点，报4.157%。",
@@ -1173,7 +1197,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
