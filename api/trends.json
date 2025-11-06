@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T21:43:31.712424+08:00",
-  "total_titles_processed": 1763,
+  "generated_at": "2025-11-06T22:46:50.222500+08:00",
+  "total_titles_processed": 1872,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 64,
       "titles": [
         {
           "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时40分 ~ 21时43分]"
+          "appearance_count": 14,
+          "time_info": "[11时40分 ~ 22时46分]"
         },
         {
           "title": "特朗普：美国第一，俄罗斯第二，中国第三",
@@ -129,6 +129,18 @@
           "time_info": "[00时55分 ~ 07时32分]"
         },
         {
+          "title": "特朗普为什么总是针对南非？",
+          "url": "https://news.ifeng.com/c/8o3ygttojoa",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 22时46分]"
+        },
+        {
           "title": "涉及特朗普，BBC被曝严重造假！",
           "url": "https://news.ifeng.com/c/8o2gk5AC6pP",
           "source": "凤凰网",
@@ -138,17 +150,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
-        },
-        {
-          "title": "特朗普为什么总是针对南非？",
-          "url": "https://news.ifeng.com/c/8o3ygttojoa",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时43分"
         },
         {
           "title": "美国总统特朗普：（谈最高法院关税听证会）如果我们输掉那起案件，将是一场灾难。",
@@ -263,11 +264,12 @@
           "url": "https://wallstreetcn.com/premium/articles/3758757?layout=wscn-layout",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时45分 ~ 21时43分]"
+          "appearance_count": 4,
+          "time_info": "[18时45分 ~ 22时46分]"
         },
         {
           "title": "纽约新市长为何成特朗普的“噩梦”",
@@ -379,6 +381,18 @@
           "time_info": "[03时28分 ~ 04时41分]"
         },
         {
+          "title": "民主党接连胜选之后 特朗普要求立即通过支出法案以结束停摆",
+          "url": "https://www.cls.cn/detail/2192934",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 22时46分]"
+        },
+        {
           "title": "白宫新闻发言人莱维特：特朗普下午1点（北京时间02:00）的重要演讲将围绕经济展开。",
           "url": "https://flash.jin10.com/detail/20251106002611278800",
           "source": "金十数据",
@@ -472,6 +486,17 @@
           "time_info": "07时32分"
         },
         {
+          "title": "美媒：特朗普政府目前没有打击委内瑞拉的计划 也缺乏这样做的法律依据",
+          "url": "https://flash.jin10.com/detail/20251106223151947800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
           "title": "美国总统特朗普：我们必须把牛肉价格降下来。",
           "url": "https://wallstreetcn.com/livenews/3000155",
           "source": "华尔街见闻-快讯",
@@ -511,7 +536,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -547,17 +572,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时50分"
-        },
-        {
-          "title": "民主党接连胜选之后 特朗普要求立即通过支出法案以结束停摆",
-          "url": "https://www.cls.cn/detail/2192934",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时43分"
         },
         {
           "title": "美国总统特朗普称赞加密货币，称其减轻了美元压力。",
@@ -604,6 +618,17 @@
           "time_info": "19时31分"
         },
         {
+          "title": "据CNN：美国总统特朗普政府认为（对委内瑞拉的）地面打击缺乏法律依据。",
+          "url": "https://flash.jin10.com/detail/20251106222508952800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
           "title": "特朗普回应被纽约新市长演讲叫板",
           "url": "https://www.toutiao.com/trending/7568666523620114483/",
           "source": "今日头条",
@@ -626,6 +651,17 @@
           "time_info": "14时58分"
         },
         {
+          "title": "据CNN：美国总统特朗普政府官员周三向议员通报了有关委内瑞拉的情况。",
+          "url": "https://flash.jin10.com/detail/20251106222418730800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
           "title": "摩根大通CEO戴蒙：美联储将继续保持独立，但特朗普总统会畅所欲言。",
           "url": "https://flash.jin10.com/detail/20251106043243122800",
           "source": "金十数据",
@@ -635,6 +671,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
+        },
+        {
+          "title": "据CNN：美国总统特朗普政府目前没有打击委内瑞拉的计划。",
+          "url": "https://flash.jin10.com/detail/20251106222347794800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "为结束政府“停摆” 美国会民主党领袖呼吁特朗普开始会谈",
@@ -657,6 +704,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "特朗普重申不会出席G20峰会",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E7%94%B3%E4%B8%8D%E4%BC%9A%E5%87%BA%E5%B8%ADG20%E5%B3%B0%E4%BC%9A",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "如何看待纽约新市长叫板特朗普",
@@ -695,7 +753,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 31,
       "titles": [
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -783,6 +841,39 @@
           "time_info": "19时31分"
         },
         {
+          "title": "多邻国美股跌幅达创纪录的27%，股价跌至2024年8月以来最低水平。",
+          "url": "https://flash.jin10.com/detail/20251106223241147800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
+          "title": "Datadog美股盘初涨19%，创2022年2月份以来盘中新高。",
+          "url": "https://wallstreetcn.com/livenews/3000620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
+          "title": "行业ETF美股盘初涨跌各异。 网络股指数ETF跌0.61%，可选消费ETF跌0.54%，全球科技股指数ETF跌0.48%，科技行业ETF跌0.25%，半导体ETF跌0.09%。 银行业ETF则涨0.32%，能源业ETF涨0.63%",
+          "url": "https://wallstreetcn.com/livenews/3000619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
           "title": "多邻国美股盘前跌超21%，第四季度预订量指引不及预期。",
           "url": "https://wallstreetcn.com/livenews/3000481",
           "source": "华尔街见闻-快讯",
@@ -867,6 +958,17 @@
           "time_info": "[01时38分 ~ 02时53分]"
         },
         {
+          "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2193483",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
           "title": "美股收盘：三大股指收涨 超微电脑跌11%",
           "url": "https://flash.jin10.com/detail/20251106050116805800",
           "source": "金十数据",
@@ -876,6 +978,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
+        },
+        {
+          "title": "美股三大股指集体低开",
+          "url": "https://flash.jin10.com/detail/20251106223025425800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "航空业ETF收涨4.5%，和半导体ETF领跑美股行业ETF，标普电信板块涨超1.6%",
@@ -911,6 +1024,28 @@
           "time_info": "06时39分"
         },
         {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3000606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
+          "title": "礼来美股盘前一度涨近2%，公司新减肥药Eloralintide减重超20%，拟与白宫合作拓宽医保覆盖。",
+          "url": "https://wallstreetcn.com/livenews/3000605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
           "title": "Doordash美股盘后下跌20%，该公司业绩欠佳，预计将继续（扩大）开支。",
           "url": "https://wallstreetcn.com/livenews/3000120",
           "source": "华尔街见闻-快讯",
@@ -931,6 +1066,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
+        },
+        {
+          "title": "摩根大通称散户有望支撑美股直至年关 高盛认为回调不会持久",
+          "url": "https://wallstreetcn.com/livenews/3000599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "美妆公司E.l.f. Beauty美股盘后下跌30%。",
@@ -969,7 +1115,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "据报道，谷歌正在推出其最强大的AI芯片Ironwood，未来几周将全面上市。",
@@ -978,7 +1124,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -1000,7 +1146,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -1083,7 +1229,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -1196,6 +1342,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
+        },
+        {
+          "title": "谷歌正在推出其最强大的AI芯片Ironwood，未来几周将全面上市。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3000596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         }
       ]
     },
@@ -1310,8 +1467,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时40分 ~ 21时43分]"
+          "appearance_count": 14,
+          "time_info": "[11时40分 ~ 22时46分]"
         },
         {
           "title": "美股三大股指涨跌不一，美债短线下挫，加密货币反弹，以太坊涨超4%",
@@ -1444,11 +1601,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时30分 ~ 21时43分]"
+          "appearance_count": 4,
+          "time_info": "[19时30分 ~ 22时46分]"
         },
         {
           "title": "紫金黄金国际港股涨逾8%，创一周来盘中最大涨幅。摩根士丹利给予其超配的初始评级，目标价为175港元，称其当前估值隐含的黄金价格仅约为3500美元/盎司，具有吸引力。",
