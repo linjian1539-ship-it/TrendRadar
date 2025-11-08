@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T16:42:50.967893+08:00",
-  "total_titles_processed": 1081,
+  "generated_at": "2025-11-08T17:31:29.860862+08:00",
+  "total_titles_processed": 1140,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
@@ -76,8 +76,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时14分 ~ 16时42分]"
+          "appearance_count": 9,
+          "time_info": "[11时14分 ~ 17时31分]"
         },
         {
           "title": "美国上诉法院批准法官“强迫特朗普政府在关门期间全额发放‘补充营养援助计划’（SNAP）资金”的命令。",
@@ -118,14 +118,14 @@
         },
         {
           "title": "南非政府发表声明驳斥特朗普言论",
-          "url": "https://flash.jin10.com/detail/20251108154641553800",
-          "source": "金十数据",
+          "url": "https://news.ifeng.com/c/8o7E8T6RYDN",
+          "source": "凤凰网",
           "ranks": [
-            3
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时42分"
+          "time_info": "17时31分"
         },
         {
           "title": "特朗普：美国人正为关税付出代价",
@@ -164,6 +164,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时15分 ~ 13时35分]"
+        },
+        {
+          "title": "南非政府发表声明驳斥特朗普言论",
+          "url": "https://flash.jin10.com/detail/20251108154641553800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时42分 ~ 17时31分]"
         },
         {
           "title": "美国总统特朗普：如果共和党废除阻挠议事（冗长辩论）规则，他们将在未来多年赢得胜利；如果他们不这样做，灾难将不可避免！",
@@ -211,8 +223,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时49分 ~ 16时42分]"
+          "appearance_count": 4,
+          "time_info": "[14时49分 ~ 17时31分]"
         },
         {
           "title": "特朗普称希望继续在布达佩斯与普京会晤",
@@ -309,6 +321,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时15分 ~ 12时40分]"
+        },
+        {
+          "title": "俄乌战争转机再现？特朗普：“普特会”正讨论中，地点还是布达佩斯！",
+          "url": "https://www.cls.cn/detail/2194868",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时49分 ~ 17时31分]"
         },
         {
           "title": "美国总统特朗普：政府停摆持续多久取决于民主党。",
@@ -453,17 +476,6 @@
           "time_info": "07时31分"
         },
         {
-          "title": "俄乌战争转机再现？特朗普：“普特会”正讨论中，地点还是布达佩斯！",
-          "url": "https://www.cls.cn/detail/2194868",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时49分"
-        },
-        {
           "title": "据纽约时报：康奈尔大学与特朗普政府达成协议，将恢复研究经费。",
           "url": "https://flash.jin10.com/detail/20251108004617809800",
           "source": "金十数据",
@@ -567,8 +579,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时30分 ~ 16时42分]"
+          "appearance_count": 11,
+          "time_info": "[07时30分 ~ 17时31分]"
         },
         {
           "title": "美政府停摆担忧重燃，美股承压下跌，现货黄金涨幅收窄，比特币一度跌破10万美元",
@@ -593,8 +605,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时45分 ~ 16时42分]"
+          "appearance_count": 20,
+          "time_info": "[00时45分 ~ 17时31分]"
         },
         {
           "title": "美政府停摆现转机，美股尾盘拉升，科技股拖累纳指走低，微软八连跌，加密货币大反弹",
@@ -681,7 +693,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
@@ -705,6 +717,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "不止希望政府担保，10月底OpenAI致信特朗普政府，要求“扩大税收抵扣”以降低数据中心成本",
+          "url": "https://wallstreetcn.com/articles/3758970",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         },
         {
           "title": "OpenAI呼吁特朗普政府改革《芯片法案》税收抵免，以支持AI基础设施建设",
@@ -739,11 +762,12 @@
           "url": "https://wallstreetcn.com/articles/3758965",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时42分 ~ 17时31分]"
         },
         {
           "title": "美国10年期国债收益率短线走低，在美国消费者信心创逾三年新低之际回落至4.0850%下方，完全回吐日内稍早涨幅。 两年期美债收益率跌至3.55%下方；10年期TIPS收益率回落至1.8150%下方，两年期TIPS收益率暂时守住1.02%。 彭博美元指数刷新日低。 标普500指数跌幅收窄至0.54%，纳斯达克综合指数一度下跌1.53%——目前收窄至不到1%。 现货黄金持稳于3990美元上方，日内当前涨幅将近0.4%。 比特币转涨，重返10.1万美元上方。",
