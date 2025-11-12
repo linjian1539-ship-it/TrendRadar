@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T11:36:04.062001+08:00",
-  "total_titles_processed": 855,
+  "generated_at": "2025-11-12T12:45:53.396905+08:00",
+  "total_titles_processed": 940,
   "failed_sources": [],
   "trends": [
     {
@@ -70,11 +70,12 @@
             14,
             15,
             17,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时52分 ~ 11时36分]"
+          "appearance_count": 14,
+          "time_info": "[00时52分 ~ 12时45分]"
         },
         {
           "title": "美主播阴阳怪气中国人遭特朗普反驳",
@@ -168,6 +169,17 @@
           "time_info": "[04时39分 ~ 05时32分]"
         },
         {
+          "title": "MAGA“怀疑人生”，特朗普坚称需要60万中国学生",
+          "url": "https://news.ifeng.com/c/8oDMVpPn2xZ",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时35分 ~ 12时45分]"
+        },
+        {
           "title": "美国总统特朗普：众议长约翰逊与参议院多数党领袖John Thune在临时开支草案协议上“取得重大胜利”。",
           "url": "https://wallstreetcn.com/livenews/3002919",
           "source": "华尔街见闻-快讯",
@@ -191,17 +203,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时27分 ~ 04时39分]"
-        },
-        {
-          "title": "MAGA“怀疑人生”，特朗普坚称需要60万中国学生",
-          "url": "https://news.ifeng.com/c/8oDMVpPn2xZ",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时35分 ~ 11时36分]"
         },
         {
           "title": "据华尔街日报：知情人士透露，房利美监督人员正在调查特朗普任命的联邦住房金融局局长普尔特是否不当获取了包括纽约总检察长在内的关键民主党官员的抵押贷款记录。消息人士称，对普尔特的调查已升级至监察长，并已移交检察官。",
@@ -403,7 +404,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
         },
@@ -456,8 +457,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时38分 ~ 11时36分]"
+          "appearance_count": 6,
+          "time_info": "[06时38分 ~ 12时45分]"
         },
         {
           "title": "金十图示：2025年11月11日（周二）美股热门股票行情一览（美股盘中）",
@@ -568,8 +569,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时52分 ~ 11时36分]"
+          "appearance_count": 14,
+          "time_info": "[00时52分 ~ 12时45分]"
         },
         {
           "title": "AMD(AMD.O)CEO：（谈OpenAI）我不会押注他们失败。",
@@ -597,6 +598,17 @@
           "time_info": "[02时52分 ~ 04时39分]"
         },
         {
+          "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
+          "url": "https://www.cls.cn/detail/2197744",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时35分 ~ 12时45分]"
+        },
+        {
           "title": "AMD(AMD.O)CEO：公司与OpenAI的合作非常谨慎。与OpenAI的交易包含具体的部署计划。",
           "url": "https://flash.jin10.com/detail/20251112054804540800",
           "source": "金十数据",
@@ -607,17 +619,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时39分 ~ 07时32分]"
-        },
-        {
-          "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
-          "url": "https://www.cls.cn/detail/2197744",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时35分 ~ 11时36分]"
         },
         {
           "title": "OpenAI用德国音乐人创作歌词训练模型被判侵权",
@@ -649,6 +650,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26dgr%3D0%26flag%3D2%26filter_type%3Drealtimehot%26pos%3D21%26realpos%3D21%26cate%3D5001%26c_type%3D31%26band_rank%3D21%26lcate%3D5001%26stream_entry_id%3D31%26display_time%3D1762918445%26pre_seqid%3D176291844556303472184&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时35分 ~ 12时45分]"
+        },
+        {
           "title": "金价在美国就业数据发布后出现一波V形反转，纽约期银涨1.5%，钯金涨超2.2%",
           "url": "https://wallstreetcn.com/livenews/3002992",
           "source": "华尔街见闻-快讯",
@@ -673,24 +686,13 @@
           "time_info": "[00时53分 ~ 01时39分]"
         },
         {
-          "title": "金价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26dgr%3D0%26flag%3D2%26filter_type%3Drealtimehot%26pos%3D21%26realpos%3D21%26cate%3D5001%26c_type%3D31%26band_rank%3D21%26lcate%3D5001%26stream_entry_id%3D31%26display_time%3D1762918445%26pre_seqid%3D176291844556303472184&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时35分 ~ 11时36分]"
-        },
-        {
           "title": "金十图示：2025年11月12日（周三）上海金早盘价为947.47元/克，较国际金价(944.4元/克)，高3.07元/克",
           "url": "https://flash.jin10.com/detail/20251112110231179800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
         }
@@ -805,8 +807,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时32分 ~ 11时36分]"
+          "appearance_count": 4,
+          "time_info": "[07时32分 ~ 12时45分]"
         }
       ]
     },
