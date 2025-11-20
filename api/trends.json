@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T22:17:32.561549+08:00",
-  "total_titles_processed": 1890,
+  "generated_at": "2025-11-20T23:17:55.785646+08:00",
+  "total_titles_processed": 1972,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 56,
       "titles": [
         {
           "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
@@ -26,11 +26,12 @@
           "ranks": [
             8,
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时19分 ~ 22时17分]"
+          "appearance_count": 14,
+          "time_info": "[12时19分 ~ 23时17分]"
         },
         {
           "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
@@ -439,6 +440,17 @@
           "time_info": "05时13分"
         },
         {
+          "title": "白宫新闻秘书莱维特：这份强劲的非农报告进一步证明，美国总统特朗普促增长、美国优先议程已经取得了巨大进展，并将继续为美国家庭和企业带来积极成果。",
+          "url": "https://flash.jin10.com/detail/20251120223939629800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "美国总统特朗普：我们将与沙特阿拉伯、阿联酋、埃及及其他中东伙伴合作，以结束苏丹的暴行。",
           "url": "https://flash.jin10.com/detail/20251120031735083800",
           "source": "金十数据",
@@ -650,8 +662,300 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 25,
+      "titles": [
+        {
+          "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
+          "url": "https://wallstreetcn.com/articles/3759700",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[09时11分 ~ 23时17分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
+          "url": "https://www.cls.cn/detail/2205612",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[06时16分 ~ 15时16分]"
+        },
+        {
+          "title": "美股三大期指小幅走高 市场紧盯英伟达盘后业绩 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2205477",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时21分 ~ 11时07分]"
+        },
+        {
+          "title": "美股期货涨幅扩大，标普500指数期货现涨1.2%，纳斯达克100指数期货涨1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3007513",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
+        {
+          "title": "多只美股QDII基金“闭门谢客”",
+          "url": "https://wallstreetcn.com/livenews/3007980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "摩根大通交易台：抄底美股正当其时，技术性洗盘可能已结束",
+          "url": "https://wallstreetcn.com/livenews/3007331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        },
+        {
+          "title": "美股三大指数再次转涨，道琼斯指数涨0.03%，标普500指数涨0.35%，纳斯达克综合指数涨0.47%。",
+          "url": "https://flash.jin10.com/detail/20251120021502092800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时24分 ~ 03时14分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)涨势带动美股芯片股盘后行情，AMD(AMD.O)、台积电(TSM.N)和美光科技(MU.O)均涨于3%一线。",
+          "url": "https://flash.jin10.com/detail/20251120054640235800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时16分]"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3008013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 23时17分]"
+        },
+        {
+          "title": "摩根大通交易台：抄底美股正当其时 技术性洗盘可能已结束",
+          "url": "https://flash.jin10.com/detail/20251120004043816800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        },
+        {
+          "title": "行业ETF美股盘初普遍上涨，半导体ETF涨2.49%，科技行业ETF涨2.19%，全球科技股指数ETF涨2.17%，银行业ETF涨1.89%，可选消费ETF、网络股指数ETF涨超1.50%，能源业ETF涨0.73%。",
+          "url": "https://wallstreetcn.com/livenews/3008032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "美股核电股盘前普涨，Oklo涨超5%，纳米核能涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3007836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "（美股）费城金银指数收涨1.34%，报296.82点。 纽约证交所ARCA金矿开采商指数收涨1.36%，报2151.78点，北京时间22:30美股开盘前持稳于2135点附近——一直维持微幅上涨状态，随扈跳空走高，22:37刷新日高至2193.46点，之后快速回吐这一波涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3007430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "美股开盘集体上涨 英伟达大涨5%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%E9%9B%86%E4%BD%93%E4%B8%8A%E6%B6%A8+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%A4%A7%E6%B6%A85%25",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "周三（11月19日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘跌2.72%，报90390美元。 CME以太币期货DCR主力合约跌4.35%，报2991.50美元，亚太午盘跌穿3000点关口——短时出现V形走势，美股尾盘再次出现V形走势——最低逼近2850美元。 美股加密货币与加密货币关联指数跌4.80%，报62.20点。 MarketVector数字资产100小盘指数自美股开盘以来跌0.82%，报18816.93点，盘初涨至19267.90点之后转跌，一度刷新日低至18354.73点。",
+          "url": "https://wallstreetcn.com/livenews/3007428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "英伟达(NVDA.O)美股盘后涨超4%，其数据中心营收超预期。",
+          "url": "https://flash.jin10.com/detail/20251120052132992800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "Astera Labs美股盘后涨3.5%，美光科技涨2.6%。 半导体ETF盘后涨1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3007427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "英伟达美股盘后涨幅扩大至超过5.5%。",
+          "url": "https://wallstreetcn.com/livenews/3007446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "半导体ETF收涨超1.8%，和银行业ETF领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3007420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "金十图示：2025年11月19日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251120050546994800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "金十图示：2025年11月19日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251120050529182800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "美股核电股表现强劲",
+          "url": "https://flash.jin10.com/detail/20251120223211702800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "美股三大指数收涨 英伟达财报超预期",
+          "url": "https://www.toutiao.com/trending/7574038650388860470/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
+        {
+          "title": "美股三大股指高开",
+          "url": "https://flash.jin10.com/detail/20251120223027801800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-11-20）",
+          "url": "https://flash.jin10.com/detail/20251120215241633800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -731,15 +1035,15 @@
           "time_info": "[02时23分 ~ 19时15分]"
         },
         {
-          "title": "谷歌母公司Alphabet旗下无人驾驶汽车部门Waymo宣布，无人驾驶汽车出行服务扩张至Minneapolis（明尼阿波利斯）、Tampa（坦帕）、新奥尔良等三个美国城市。",
-          "url": "https://wallstreetcn.com/livenews/3008020",
-          "source": "华尔街见闻-快讯",
+          "title": "如何评价 Gemini3 误删 800G 重要文件，如何避免类似错误？",
+          "url": "https://www.zhihu.com/question/1974854700256944776",
+          "source": "知乎",
           "ranks": [
-            1
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 23时17分]"
         },
         {
           "title": "谷歌Gemini 3获好评如潮 股价创两个月最大涨幅",
@@ -764,15 +1068,16 @@
           "time_info": "09时11分"
         },
         {
-          "title": "如何评价 Gemini3 误删 800G 重要文件，如何避免类似错误？",
-          "url": "https://www.zhihu.com/question/1974854700256944776",
-          "source": "知乎",
+          "title": "谷歌母公司Alphabet旗下无人驾驶汽车部门Waymo宣布，无人驾驶汽车出行服务扩张至Minneapolis（明尼阿波利斯）、Tampa（坦帕）、新奥尔良等三个美国城市。",
+          "url": "https://wallstreetcn.com/livenews/3008020",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 23时17分]"
         },
         {
           "title": "Gemini3有哪些新鲜玩法",
@@ -868,13 +1173,35 @@
           "time_info": "11时07分"
         },
         {
+          "title": "谷歌涨3.2%总市值达到3.65万亿美元，略超过微软公司，进入美股总市值前三。",
+          "url": "https://wallstreetcn.com/livenews/3008034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "谷歌总市值超过微软 进入美股前三",
+          "url": "https://flash.jin10.com/detail/20251120224014841800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "谷歌：西屋公司与谷歌云合作，利用双方的专用模型开发定制的人工智能平台。",
           "url": "https://flash.jin10.com/detail/20251120220558855800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -910,253 +1237,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 21,
-      "titles": [
-        {
-          "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
-          "url": "https://wallstreetcn.com/articles/3759700",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时11分 ~ 22时17分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
-          "url": "https://www.cls.cn/detail/2205612",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时16分 ~ 15时16分]"
-        },
-        {
-          "title": "美股三大期指小幅走高 市场紧盯英伟达盘后业绩 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2205477",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 11时07分]"
-        },
-        {
-          "title": "美股期货涨幅扩大，标普500指数期货现涨1.2%，纳斯达克100指数期货涨1.7%。",
-          "url": "https://wallstreetcn.com/livenews/3007513",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "多只美股QDII基金“闭门谢客”",
-          "url": "https://wallstreetcn.com/livenews/3007980",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "摩根大通交易台：抄底美股正当其时，技术性洗盘可能已结束",
-          "url": "https://wallstreetcn.com/livenews/3007331",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        },
-        {
-          "title": "美股三大指数再次转涨，道琼斯指数涨0.03%，标普500指数涨0.35%，纳斯达克综合指数涨0.47%。",
-          "url": "https://flash.jin10.com/detail/20251120021502092800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时24分 ~ 03时14分]"
-        },
-        {
-          "title": "英伟达(NVDA.O)涨势带动美股芯片股盘后行情，AMD(AMD.O)、台积电(TSM.N)和美光科技(MU.O)均涨于3%一线。",
-          "url": "https://flash.jin10.com/detail/20251120054640235800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时17分 ~ 07时16分]"
-        },
-        {
-          "title": "摩根大通交易台：抄底美股正当其时 技术性洗盘可能已结束",
-          "url": "https://flash.jin10.com/detail/20251120004043816800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        },
-        {
-          "title": "周四美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3008013",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时17分"
-        },
-        {
-          "title": "美股核电股盘前普涨，Oklo涨超5%，纳米核能涨超6%。",
-          "url": "https://wallstreetcn.com/livenews/3007836",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "（美股）费城金银指数收涨1.34%，报296.82点。 纽约证交所ARCA金矿开采商指数收涨1.36%，报2151.78点，北京时间22:30美股开盘前持稳于2135点附近——一直维持微幅上涨状态，随扈跳空走高，22:37刷新日高至2193.46点，之后快速回吐这一波涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3007430",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
-          "title": "周三（11月19日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘跌2.72%，报90390美元。 CME以太币期货DCR主力合约跌4.35%，报2991.50美元，亚太午盘跌穿3000点关口——短时出现V形走势，美股尾盘再次出现V形走势——最低逼近2850美元。 美股加密货币与加密货币关联指数跌4.80%，报62.20点。 MarketVector数字资产100小盘指数自美股开盘以来跌0.82%，报18816.93点，盘初涨至19267.90点之后转跌，一度刷新日低至18354.73点。",
-          "url": "https://wallstreetcn.com/livenews/3007428",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
-          "title": "英伟达(NVDA.O)美股盘后涨超4%，其数据中心营收超预期。",
-          "url": "https://flash.jin10.com/detail/20251120052132992800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
-          "title": "Astera Labs美股盘后涨3.5%，美光科技涨2.6%。 半导体ETF盘后涨1.4%。",
-          "url": "https://wallstreetcn.com/livenews/3007427",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
-          "title": "英伟达美股盘后涨幅扩大至超过5.5%。",
-          "url": "https://wallstreetcn.com/livenews/3007446",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "半导体ETF收涨超1.8%，和银行业ETF领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3007420",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
-          "title": "金十图示：2025年11月19日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251120050546994800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
-          "title": "金十图示：2025年11月19日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251120050529182800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
-          "title": "美股三大指数收涨 英伟达财报超预期",
-          "url": "https://www.toutiao.com/trending/7574038650388860470/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2025-11-20）",
-          "url": "https://flash.jin10.com/detail/20251120215241633800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时17分"
         }
       ]
     },
@@ -1286,7 +1366,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -1297,7 +1377,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         }
@@ -1370,7 +1450,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -1516,8 +1596,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时18分 ~ 22时17分]"
+          "appearance_count": 6,
+          "time_info": "[18时18分 ~ 23时17分]"
         },
         {
           "title": "英伟达业绩提振全球市场情绪，日经225涨超3%，纳指100期货涨1.9%，比特币升至9.2万美元，金价跌至4070美元",
