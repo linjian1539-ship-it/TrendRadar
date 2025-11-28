@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T15:17:15.361482+08:00",
-  "total_titles_processed": 1224,
+  "generated_at": "2025-11-28T16:22:55.758849+08:00",
+  "total_titles_processed": 1339,
   "failed_sources": [],
   "trends": [
     {
@@ -35,18 +35,6 @@
           "time_info": "[00时20分 ~ 07时15分]"
         },
         {
-          "title": "特朗普称将暂停“第三世界国家”移民",
-          "url": "https://www.toutiao.com/trending/7577245940038258219/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时25分 ~ 15时17分]"
-        },
-        {
           "title": "中方回应特朗普要求高市降低声调",
           "url": "https://www.douyin.com/hot/2319515",
           "source": "抖音",
@@ -72,6 +60,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时20分 ~ 07时15分]"
+        },
+        {
+          "title": "特朗普称将暂停“第三世界国家”移民",
+          "url": "https://www.toutiao.com/trending/7577245940038258219/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时25分 ~ 16时22分]"
         },
         {
           "title": "特朗普：将对委内瑞拉展开地面行动",
@@ -125,6 +126,18 @@
           "time_info": "[11时08分 ~ 14时26分]"
         },
         {
+          "title": "特朗普：将无限期暂停来自“第三世界国家”的移民",
+          "url": "https://www.cls.cn/detail/2213724",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时16分 ~ 16时22分]"
+        },
+        {
           "title": "特朗普拒邀南非参加明年G20峰会，南非反击：不接受侮辱",
           "url": "https://news.ifeng.com/c/8odIMcYqHFR",
           "source": "凤凰网",
@@ -173,17 +186,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时17分 ~ 14时26分]"
-        },
-        {
-          "title": "特朗普：将无限期暂停来自“第三世界国家”的移民",
-          "url": "https://www.cls.cn/detail/2213724",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时16分 ~ 15时17分]"
         },
         {
           "title": "国民警卫队枪击案后 特朗普政府宣布将全面审查移民政策",
@@ -368,8 +370,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时10分 ~ 15时17分]"
+          "appearance_count": 11,
+          "time_info": "[09时10分 ~ 16时22分]"
         },
         {
           "title": "DeepSeek推出DeepSeekMath‑V2 模型，主攻自验证数学推理能力",
@@ -381,8 +383,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时15分 ~ 15时17分]"
+          "appearance_count": 12,
+          "time_info": "[07时15分 ~ 16时22分]"
         },
         {
           "title": "DeepSeek开源新模型",
@@ -406,22 +408,24 @@
           "ranks": [
             7,
             9,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时19分 ~ 15时17分]"
+          "appearance_count": 8,
+          "time_info": "[12时19分 ~ 16时22分]"
         },
         {
           "title": "第1个获得数学奥赛金牌的开源模型！DeepSeek新模型获网友盛赞：公开技术文件，了不起！",
           "url": "https://wallstreetcn.com/articles/3760294",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时16分 ~ 15时17分]"
+          "appearance_count": 3,
+          "time_info": "[15时16分 ~ 16时22分]"
         },
         {
           "title": "DeepSeek推出新模型",
@@ -517,7 +521,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -528,7 +532,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         }
@@ -689,7 +693,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -720,8 +724,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时10分 ~ 15时17分]"
+          "appearance_count": 11,
+          "time_info": "[09时10分 ~ 16时22分]"
         },
         {
           "title": "提醒：美股周四休市，周五将提前三个小时收盘",
