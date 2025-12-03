@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T13:17:11.179018+08:00",
-  "total_titles_processed": 1107,
+  "generated_at": "2025-12-03T14:27:20.491117+08:00",
+  "total_titles_processed": 1192,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时14分 ~ 13时17分]"
+          "appearance_count": 6,
+          "time_info": "[11时14分 ~ 14时27分]"
         },
         {
           "title": "特朗普“点名”日本",
@@ -48,11 +48,12 @@
           "source": "今日头条",
           "ranks": [
             4,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时14分 ~ 13时17分]"
+          "appearance_count": 6,
+          "time_info": "[11时14分 ~ 14时27分]"
         },
         {
           "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
@@ -64,8 +65,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时14分 ~ 13时17分]"
+          "appearance_count": 7,
+          "time_info": "[09时14分 ~ 14时27分]"
         },
         {
           "title": "特朗普定档！计划明年初再揭晓美联储新主席人选",
@@ -79,8 +80,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时15分 ~ 13时17分]"
+          "appearance_count": 8,
+          "time_info": "[07时15分 ~ 14时27分]"
         },
         {
           "title": "美国总统特朗普：与巴西总统卢拉的通话富有成效。 我们讨论了贸易、关税、制裁问题。 期待很快就会见卢拉。",
@@ -627,7 +628,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         },
@@ -869,6 +870,18 @@
       "match_count": 17,
       "titles": [
         {
+          "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
+          "url": "https://wallstreetcn.com/articles/3760523",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时14分 ~ 14时27分]"
+        },
+        {
           "title": "美日政策预期分化，美股指集体高开，金银油回落，加密货币止跌反弹，拍卖需求强劲推高日债",
           "url": "https://wallstreetcn.com/articles/3760523",
           "source": "华尔街见闻",
@@ -881,18 +894,6 @@
           "time_info": "[00时22分 ~ 06时15分]"
         },
         {
-          "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
-          "url": "https://wallstreetcn.com/articles/3760523",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时14分 ~ 13时17分]"
-        },
-        {
           "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
           "url": "https://www.cls.cn/detail/2217711",
           "source": "财联社热门",
@@ -902,8 +903,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时15分 ~ 13时17分]"
+          "appearance_count": 8,
+          "time_info": "[07时15分 ~ 14时27分]"
         },
         {
           "title": "美股三大期指集体走高 波音盘前涨超3% | 今夜看点",
@@ -1081,8 +1082,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时14分 ~ 13时17分]"
+          "appearance_count": 7,
+          "time_info": "[09时14分 ~ 14时27分]"
         },
         {
           "title": "谷歌揭秘了AI竞赛的底牌",
@@ -1130,8 +1131,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时25分 ~ 13时17分]"
+          "appearance_count": 4,
+          "time_info": "[12时25分 ~ 14时27分]"
         },
         {
           "title": "亚马逊急推最新AI芯片，挑战英伟达和谷歌",
