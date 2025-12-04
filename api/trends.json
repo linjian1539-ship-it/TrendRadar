@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T18:20:52.283509+08:00",
-  "total_titles_processed": 1569,
+  "generated_at": "2025-12-04T19:16:55.923426+08:00",
+  "total_titles_processed": 1649,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 64,
       "titles": [
         {
           "title": "特朗普签署法律以加深美台联系，外交部回应",
@@ -77,8 +77,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时27分 ~ 18时20分]"
+          "appearance_count": 8,
+          "time_info": "[12时27分 ~ 19时16分]"
         },
         {
           "title": "特朗普就美俄会谈表态：“相当不错”，普京想结束战争！",
@@ -105,8 +105,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时27分 ~ 18时20分]"
+          "appearance_count": 8,
+          "time_info": "[12时27分 ~ 19时16分]"
         },
         {
           "title": "特朗普政府转向机器人之际 两大顶流厂商上演“隔空赛跑”",
@@ -118,8 +118,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时24分 ~ 18时20分]"
+          "appearance_count": 4,
+          "time_info": "[16时24分 ~ 19时16分]"
         },
         {
           "title": "美国总统特朗普：我们将允许人们抵扣汽车贷款利息。",
@@ -373,6 +373,17 @@
           "time_info": "[16时24分 ~ 17时20分]"
         },
         {
+          "title": "美部长花式“拍特朗普马屁”，特朗普听完直接笑了",
+          "url": "https://v.ifeng.com/c/8ooVjzBecEz",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 19时16分]"
+        },
+        {
           "title": "美国总统特朗普：我们要么让美墨加协定到期失效，要么与墨西哥和加拿大另行达成协议。",
           "url": "https://flash.jin10.com/detail/20251204052449950800",
           "source": "金十数据",
@@ -492,15 +503,15 @@
           "time_info": "[13时17分 ~ 14时26分]"
         },
         {
-          "title": "美部长花式“拍特朗普马屁”，特朗普听完直接笑了",
-          "url": "https://v.ifeng.com/c/8ooVjzBecEz",
-          "source": "凤凰网",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-04）",
+          "url": "https://flash.jin10.com/detail/20251204183019208800",
+          "source": "金十数据",
           "ranks": [
-            9
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时20分"
+          "time_info": "19时16分"
         },
         {
           "title": "特朗普言论加剧市场担忧 “战争溢价”推高油价",
@@ -1153,8 +1164,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 18时20分]"
+          "appearance_count": 3,
+          "time_info": "[17时20分 ~ 19时16分]"
         }
       ]
     },
