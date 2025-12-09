@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T12:26:03.836494+08:00",
-  "total_titles_processed": 1090,
+  "generated_at": "2025-12-09T13:17:44.074174+08:00",
+  "total_titles_processed": 1169,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时16分 ~ 12时26分]"
+          "appearance_count": 4,
+          "time_info": "[11时16分 ~ 13时17分]"
         },
         {
           "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
@@ -173,6 +173,17 @@
           "time_info": "[05时15分 ~ 06时16分]"
         },
         {
+          "title": "美议员急了：特朗普你得拉一把日本啊",
+          "url": "https://news.ifeng.com/c/8owI9R84r47",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时16分 ~ 13时17分]"
+        },
+        {
           "title": "市场消息：特朗普表示欧洲正朝着一些不好的方向发展。",
           "url": "https://flash.jin10.com/detail/20251209043642647800",
           "source": "金十数据",
@@ -203,17 +214,6 @@
           "ranks": [
             6,
             10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时16分 ~ 12时26分]"
-        },
-        {
-          "title": "美议员急了：特朗普你得拉一把日本啊",
-          "url": "https://news.ifeng.com/c/8owI9R84r47",
-          "source": "凤凰网",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -582,8 +582,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时15分 ~ 12时26分]"
+          "appearance_count": 7,
+          "time_info": "[07时15分 ~ 13时17分]"
         },
         {
           "title": "美股三大期指涨跌不一 黄仁勋不满美国基建速度 | 今夜看点",
@@ -595,8 +595,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时22分 ~ 12时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时22分 ~ 13时17分]"
         },
         {
           "title": "周一（12月8日），彭博电动汽车价格回报指数涨1.11%，报3465.35点。 亚太盘初持续走高，北京时间14:35刷新日高至3479.12点，之后持续高位震荡；美股开盘后回吐部分涨幅。",
@@ -814,8 +814,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时22分 ~ 12时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时22分 ~ 13时17分]"
         },
         {
           "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
@@ -826,8 +826,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时14分 ~ 12时26分]"
+          "appearance_count": 5,
+          "time_info": "[09时14分 ~ 13时17分]"
+        },
+        {
+          "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
+          "url": "https://www.cls.cn/detail/2223387",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时14分 ~ 13时17分]"
         },
         {
           "title": "据华尔街日报：NextEra Energy与谷歌(GOOG.O)、埃克森美孚石油(XOM.N)合作推进数据中心供电。",
@@ -842,15 +853,16 @@
           "time_info": "[04时19分 ~ 05时15分]"
         },
         {
-          "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
-          "url": "https://www.cls.cn/detail/2223387",
-          "source": "财联社热门",
+          "title": "谷歌与XREAL联合发布Project Aura",
+          "url": "https://wallstreetcn.com/livenews/3017367",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            6,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时14分 ~ 12时26分]"
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 13时17分]"
         },
         {
           "title": "Warby Parker与谷歌将于2026年推出AI智能眼镜",
@@ -887,17 +899,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时25分 ~ 03时14分]"
-        },
-        {
-          "title": "谷歌与XREAL联合发布Project Aura",
-          "url": "https://wallstreetcn.com/livenews/3017367",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时26分"
         },
         {
           "title": "谷歌：首款人工智能眼镜将于2026年问世",
@@ -1029,8 +1030,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时14分 ~ 12时26分]"
+          "appearance_count": 5,
+          "time_info": "[09时14分 ~ 13时17分]"
         },
         {
           "title": "美债收益率冲高回落，投资者对美联储降息预期一度降温",
