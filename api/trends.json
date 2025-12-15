@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T02:26:23.950603+08:00",
-  "total_titles_processed": 441,
+  "generated_at": "2025-12-16T03:17:42.382184+08:00",
+  "total_titles_processed": 491,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "日媒：特朗普曾警告高市早苗“别添乱”",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 03时17分]"
         },
         {
           "title": "不确定经济政策能否赢中选，特朗普质疑“现在有好消息股市反而下跌，消息特别好股市就会崩盘”，这都是美联储的错！",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 03时17分]"
         },
         {
           "title": "美国总统特朗普邀请斯洛伐克总理前往美国，讨论核合作协议。",
@@ -69,11 +69,12 @@
           "ranks": [
             6,
             10,
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 03时17分]"
         },
         {
           "title": "曝特朗普曾警告高市早苗别来添乱",
@@ -81,11 +82,12 @@
           "source": "百度热搜",
           "ranks": [
             25,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 03时17分]"
         },
         {
           "title": "美联储理事米兰：可能会继续留在美联储，直至（美国总统特朗普）新的提名人获得国会山确认。",
@@ -93,11 +95,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时56分 ~ 02时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时56分 ~ 03时17分]"
+        },
+        {
+          "title": "声明显示：俄罗斯现在必须展现出致力于实现持久和平的意愿，同意特朗普的和平计划，并通过同意停火来表明其结束战斗的承诺。",
+          "url": "https://flash.jin10.com/detail/20251216025403582800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
         },
         {
           "title": "据知情人士透露，哈塞特的美联储理事提名在特朗普阵营内部遭遇一定阻力。 美国总统特朗普的一些盟友认为/担心，白宫顾问哈塞特与特朗普关系过从甚密。（CNBC）",
@@ -109,6 +123,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "德国政府分享的声明显示：欧洲领导人对美国总统特朗普在乌克兰和平努力方面取得的“重大进展”表示欢迎。",
+          "url": "https://flash.jin10.com/detail/20251216024550326800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
         },
         {
           "title": "美国纽约联储主席威廉姆斯：企业在一定程度上消耗掉（总统特朗普挑起）关税之前的库存。",
@@ -169,8 +194,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 03时17分]"
         },
         {
           "title": "现货黄金、白银逼近历史高位 美股三大期指温和走高 | 今夜看点",
@@ -181,8 +206,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 03时17分]"
         },
         {
           "title": "金十图示：2025年12月15日（周一）热门中概股行情一览（美股盘中）",
@@ -214,7 +239,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
         }
@@ -231,7 +256,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
         },
@@ -241,11 +266,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时56分 ~ 02时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时56分 ~ 03时17分]"
         },
         {
           "title": "据The Information：OpenAI聘请谷歌高管负责并购事务，任命Albert Lee担任企业发展负责人。",
@@ -257,6 +283,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI： Albert Lee将于周二出任企业发展副总裁，并向首席财务官Sarah Friar汇报。",
+          "url": "https://flash.jin10.com/detail/20251216023339316800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
         }
       ]
     },
