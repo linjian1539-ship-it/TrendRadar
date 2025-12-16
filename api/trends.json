@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T17:23:06.662529+08:00",
-  "total_titles_processed": 1573,
+  "generated_at": "2025-12-16T18:20:30.101538+08:00",
+  "total_titles_processed": 1673,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 54,
       "titles": [
         {
           "title": "日媒：特朗普曾警告高市早苗“别添乱”",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时17分 ~ 17时23分]"
+          "appearance_count": 13,
+          "time_info": "[09时17分 ~ 18时20分]"
         },
         {
           "title": "日媒爆特朗普警告高市早苗别添乱",
@@ -85,8 +85,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时21分 ~ 17时23分]"
+          "appearance_count": 11,
+          "time_info": "[11时21分 ~ 18时20分]"
         },
         {
           "title": "曝特朗普曾警告高市早苗别来添乱",
@@ -174,6 +174,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "“我的漂亮话呢？”特朗普对BBC提起100亿美元诉讼",
+          "url": "https://news.ifeng.com/c/8p8IOWOQWV5",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "美国总统特朗普：我今天没看股市，可能涨了。",
@@ -350,6 +361,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-16）",
+          "url": "https://flash.jin10.com/detail/20251216180101240800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "美国总统特朗普：直接与俄罗斯总统普京进行了通话。",
@@ -824,8 +846,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 17时23分]"
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 18时20分]"
         },
         {
           "title": "据The Information：OpenAI聘请谷歌高管负责并购事务，任命Albert Lee担任企业发展负责人。",
@@ -1038,7 +1060,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
         }
