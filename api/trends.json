@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-17T14:27:00.586751+08:00",
-  "total_titles_processed": 1265,
+  "generated_at": "2025-12-17T15:20:31.247152+08:00",
+  "total_titles_processed": 1372,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 60,
       "titles": [
+        {
+          "title": "特朗普：认定委内瑞拉现政府是“外国恐怖组织”",
+          "url": "https://news.ifeng.com/c/8p9PufcVOa6",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时17分 ~ 15时20分]"
+        },
         {
           "title": "特朗普称自己执政近一年来在经济方面取得了成功，但赢得中期选举很困难，赢的概率有多大？会有哪些影响？",
           "url": "https://www.zhihu.com/question/1983941746871264912",
@@ -27,6 +38,17 @@
           "time_info": "[00时23分 ~ 13时19分]"
         },
         {
+          "title": "特朗普签署公告，进一步限制外国公民入境美国",
+          "url": "https://news.ifeng.com/c/8p9E57zE6bJ",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时17分 ~ 15时20分]"
+        },
+        {
           "title": "“这是特朗普给泽连斯基的最后通牒：接受条件，否则就没机会了”",
           "url": "https://news.ifeng.com/c/8p8UVz5fJt6",
           "source": "凤凰网",
@@ -38,17 +60,6 @@
           "time_info": "[00时23分 ~ 09时12分]"
         },
         {
-          "title": "特朗普：认定委内瑞拉现政府是“外国恐怖组织”",
-          "url": "https://news.ifeng.com/c/8p9PufcVOa6",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时17分 ~ 14时27分]"
-        },
-        {
           "title": "胡锡进：特朗普称俄乌“最接近和平”，世界聚焦普京",
           "url": "https://news.ifeng.com/c/8p8hxedgU29",
           "source": "凤凰网",
@@ -58,17 +69,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时23分 ~ 09时12分]"
-        },
-        {
-          "title": "特朗普签署公告，进一步限制外国公民入境美国",
-          "url": "https://news.ifeng.com/c/8p9E57zE6bJ",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时17分 ~ 14时27分]"
         },
         {
           "title": "“爱泼斯坦案”背后的正义、叙述与情绪：特朗普和美国政治的梦魇",
@@ -107,11 +107,12 @@
           "ranks": [
             1,
             2,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时17分 ~ 14时27分]"
+          "appearance_count": 7,
+          "time_info": "[11时17分 ~ 15时20分]"
         },
         {
           "title": "特朗普将发表全国讲话：应对民调下滑 或预告新年政策",
@@ -269,8 +270,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时19分 ~ 14时27分]"
+          "appearance_count": 4,
+          "time_info": "[13时19分 ~ 15时20分]"
         },
         {
           "title": "马斯克又要给特朗普花钱了",
@@ -706,6 +707,19 @@
       "match_count": 13,
       "titles": [
         {
+          "title": "美股收盘：三大指数涨跌不一 特斯拉创历史新高",
+          "url": "https://www.cls.cn/detail/2231583",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时16分 ~ 15时20分]"
+        },
+        {
           "title": "非农超预期，美股低开，现货黄金小幅上涨，布油跌破60美元",
           "url": "https://wallstreetcn.com/articles/3761475",
           "source": "华尔街见闻",
@@ -716,19 +730,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时23分 ~ 06时17分]"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 特斯拉创历史新高",
-          "url": "https://www.cls.cn/detail/2231583",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时16分 ~ 14时27分]"
         },
         {
           "title": "彭博援引知情人士报道称，已经申请破产的航空公司Spirit Airlines Holdings Inc.考虑与Frontier Group Holdings合并。 Frontier美股盘后涨16%。",
