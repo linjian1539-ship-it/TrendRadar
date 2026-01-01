@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T21:31:52.732690+08:00",
-  "total_titles_processed": 1461,
+  "generated_at": "2026-01-01T22:16:23.214824+08:00",
+  "total_titles_processed": 1513,
   "failed_sources": [],
   "trends": [
     {
@@ -29,6 +29,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-01）",
+          "url": "https://flash.jin10.com/detail/20260101184638613800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            9,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时15分 ~ 22时16分]"
         },
         {
           "title": "中方回应特朗普涉东部战区军演言论",
@@ -70,19 +84,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时15分 ~ 03时13分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-01）",
-          "url": "https://flash.jin10.com/detail/20260101184638613800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时15分 ~ 21时31分]"
         },
         {
           "title": "委内瑞拉Orinoco Belt的石油产量两周锐减25%，特朗普政府的封锁造成严重威胁",
@@ -257,8 +258,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时25分 ~ 21时31分]"
+          "appearance_count": 15,
+          "time_info": "[09时25分 ~ 22时16分]"
         },
         {
           "title": "美股三大期指小幅走弱 年末获利了结情绪升温 | 今夜看点",
@@ -372,8 +373,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时18分 ~ 21时31分]"
+          "appearance_count": 6,
+          "time_info": "[18时18分 ~ 22时16分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文 开启架构新篇章",
@@ -384,11 +385,12 @@
             7,
             11,
             17,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时21分 ~ 21时31分]"
+          "appearance_count": 6,
+          "time_info": "[17时21分 ~ 22时16分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文：提出mHC新架构 提升大模型训练稳定性",
@@ -403,6 +405,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时19分 ~ 21时31分]"
+        },
+        {
+          "title": "DeepSeek开年发布新论文",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%BC%80%E5%B9%B4%E5%8F%91%E5%B8%83%E6%96%B0%E8%AE%BA%E6%96%87",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 22时16分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -421,22 +435,12 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E5%8F%88%E5%8F%91%E8%AE%BA%E6%96%87%E4%BA%86",
           "source": "bilibili 热搜",
           "ranks": [
-            14
+            14,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时31分"
-        },
-        {
-          "title": "DeepSeek开年发布新论文",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%BC%80%E5%B9%B4%E5%8F%91%E5%B8%83%E6%96%B0%E8%AE%BA%E6%96%87",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 22时16分]"
         }
       ]
     },
@@ -492,11 +496,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时34分 ~ 21时31分]"
+          "appearance_count": 3,
+          "time_info": "[20时34分 ~ 22时16分]"
         },
         {
           "title": "伊朗总统：伊朗正处于一场全面战争中",
@@ -504,11 +509,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时34分 ~ 21时31分]"
+          "appearance_count": 3,
+          "time_info": "[20时34分 ~ 22时16分]"
         },
         {
           "title": "内塔尼亚胡喊话伊朗",
