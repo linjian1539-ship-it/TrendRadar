@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T18:19:40.313733+08:00",
-  "total_titles_processed": 1663,
+  "generated_at": "2026-01-06T19:16:16.424799+08:00",
+  "total_titles_processed": 1758,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 65,
       "titles": [
         {
           "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
@@ -56,6 +56,19 @@
           "time_info": "[09时18分 ~ 18时19分]"
         },
         {
+          "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
+          "url": "https://wallstreetcn.com/articles/3762615",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时21分 ~ 19时16分]"
+        },
+        {
           "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
           "url": "https://news.ifeng.com/c/8pfZjM0LgjM",
           "source": "凤凰网",
@@ -96,8 +109,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时23分 ~ 18时19分]"
+          "appearance_count": 23,
+          "time_info": "[00时23分 ~ 19时16分]"
         },
         {
           "title": "中方回应特朗普威胁古巴等国",
@@ -180,19 +193,6 @@
           "time_info": "[01时19分 ~ 07时17分]"
         },
         {
-          "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
-          "url": "https://wallstreetcn.com/articles/3762615",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时21分 ~ 18时19分]"
-        },
-        {
           "title": "特朗普：美国将深度介入委内瑞拉",
           "url": "https://www.cls.cn/detail/2248692",
           "source": "财联社热门",
@@ -240,6 +240,19 @@
           "time_info": "07时17分"
         },
         {
+          "title": "格陵兰岛总理回应特朗普",
+          "url": "https://www.douyin.com/hot/2358627",
+          "source": "抖音",
+          "ranks": [
+            29,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时28分 ~ 19时16分]"
+        },
+        {
           "title": "据NBC：美国总统特朗普表示，美国可能会资助石油公司重建该国能源基础设施。",
           "url": "https://flash.jin10.com/detail/20260106070419372800",
           "source": "金十数据",
@@ -268,7 +281,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -423,17 +436,16 @@
           "time_info": "[00时23分 ~ 02时27分]"
         },
         {
-          "title": "格陵兰岛总理回应特朗普",
-          "url": "https://www.douyin.com/hot/2358627",
-          "source": "抖音",
+          "title": "特朗普不到1年对7国动武",
+          "url": "https://www.toutiao.com/trending/7591141159599276095/",
+          "source": "今日头条",
           "ranks": [
-            29,
-            16,
-            19
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时28分 ~ 18时19分]"
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 19时16分]"
         },
         {
           "title": "特朗普放话“我们绝对需要格陵兰岛”，丹麦强硬回击",
@@ -483,6 +495,17 @@
           "time_info": "[03时18分 ~ 04时21分]"
         },
         {
+          "title": "丹麦首相要求特朗普停止对格陵兰岛的“威胁”，称其享有北约的安全保障",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32319045",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 19时16分]"
+        },
+        {
           "title": "美国在联合国会议上遭猛烈抨击，美方辩称特朗普无意占领委内瑞拉",
           "url": "https://wallstreetcn.com/livenews/3031058",
           "source": "华尔街见闻-快讯",
@@ -507,17 +530,6 @@
           "time_info": "[11时26分 ~ 12时36分]"
         },
         {
-          "title": "特朗普不到1年对7国动武",
-          "url": "https://www.toutiao.com/trending/7591141159599276095/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
           "title": "据NBC：美国总统特朗普表示，美国并未与委内瑞拉开战。",
           "url": "https://flash.jin10.com/detail/20260106070009215800",
           "source": "金十数据",
@@ -535,7 +547,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -774,8 +786,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时17分 ~ 18时19分]"
+          "appearance_count": 14,
+          "time_info": "[07时17分 ~ 19时16分]"
         },
         {
           "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
@@ -924,7 +936,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "怕清算?伊朗领袖携950亿开溜",
@@ -934,11 +946,12 @@
             5,
             4,
             6,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时28分 ~ 18时19分]"
+          "appearance_count": 8,
+          "time_info": "[14时28分 ~ 19时16分]"
         },
         {
           "title": "伊朗要求国际原子能机构谴责针对伊朗核设施的犯罪行为",
@@ -1054,6 +1067,17 @@
           "time_info": "06时18分"
         },
         {
+          "title": "伊朗称随时准备对侵略或敌对行为作出果断回应",
+          "url": "https://wallstreetcn.com/livenews/3031601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：如果我们遭到伊朗的攻击，其后果将会极其严重。",
           "url": "https://flash.jin10.com/detail/20260105232040593800",
           "source": "金十数据",
@@ -1081,8 +1105,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时22分 ~ 18时19分]"
+          "appearance_count": 7,
+          "time_info": "[15时22分 ~ 19时16分]"
         },
         {
           "title": "金十图示：2026年01月06日（周二）上海金午盘价为1002.84元/克，较国际金价(1001.81元/克)，高1.03元/克",
@@ -1167,8 +1191,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时26分 ~ 18时19分]"
+          "appearance_count": 12,
+          "time_info": "[11时26分 ~ 19时16分]"
         },
         {
           "title": "OpenAI家务机器人售价2万美元",
@@ -1220,8 +1244,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "美债收益率震荡回升 市场紧盯经济走软信号",
+          "url": "https://flash.jin10.com/detail/20260106185806265800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
         {
           "title": "美债价格在ISM数据不及预期后上涨，交易员布局看涨期权",
           "url": "https://wallstreetcn.com/livenews/3031120",
