@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T17:25:19.039485+08:00",
-  "total_titles_processed": 1535,
+  "generated_at": "2026-01-13T18:20:36.646397+08:00",
+  "total_titles_processed": 1602,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 84,
+      "match_count": 86,
       "titles": [
         {
           "title": "伊朗局势突然反转，特朗普又心生一计",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时15分 ~ 17时25分]"
+          "appearance_count": 11,
+          "time_info": "[09时15分 ~ 18时20分]"
         },
         {
           "title": "特朗普称中俄只能在美方控制下购买委原油，中方回应",
@@ -99,11 +99,28 @@
           "ranks": [
             8,
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时15分 ~ 17时25分]"
+          "appearance_count": 11,
+          "time_info": "[09时15分 ~ 18时20分]"
+        },
+        {
+          "title": "“美联储通讯社”：鲍威尔上周五接到传票，思考整个周末后，美联储主席决定“公开对抗特朗普”",
+          "url": "https://wallstreetcn.com/articles/3763132",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时25分 ~ 18时20分]"
         },
         {
           "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
@@ -132,19 +149,30 @@
           "time_info": "[00时22分 ~ 09时16分]"
         },
         {
-          "title": "“美联储通讯社”：鲍威尔上周五接到传票，思考整个周末后，美联储主席决定“公开对抗特朗普”",
-          "url": "https://wallstreetcn.com/articles/3763132",
-          "source": "华尔街见闻",
+          "title": "北约秘书长帮腔特朗普：中俄恐将越来越活跃",
+          "url": "https://news.ifeng.com/c/8psHSxQTXOP",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            8,
-            7,
             6,
-            5
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时25分 ~ 17时25分]"
+          "appearance_count": 9,
+          "time_info": "[11时25分 ~ 18时20分]"
+        },
+        {
+          "title": "调查鲍威尔引内讧？FHFA局长被指幕后推手，贝森特警告“制造混乱”，白宫称特朗普未指示行动",
+          "url": "https://wallstreetcn.com/articles/3763119",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时25分 ~ 18时20分]"
         },
         {
           "title": "特朗普称接管格陵兰岛是为防中俄觊觎，外交部：谋私利别拿他国当借口",
@@ -161,42 +189,40 @@
           "time_info": "[09时15分 ~ 16时25分]"
         },
         {
-          "title": "北约秘书长帮腔特朗普：中俄恐将越来越活跃",
-          "url": "https://news.ifeng.com/c/8psHSxQTXOP",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时25分 ~ 17时25分]"
-        },
-        {
-          "title": "调查鲍威尔引内讧？FHFA局长被指幕后推手，贝森特警告“制造混乱”，白宫称特朗普未指示行动",
-          "url": "https://wallstreetcn.com/articles/3763119",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时25分 ~ 17时25分]"
-        },
-        {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税",
           "url": "https://m.thepaper.cn/newsDetail_forward_32372812",
           "source": "澎湃新闻",
           "ranks": [
             16,
             15,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时37分 ~ 17时25分]"
+          "appearance_count": 8,
+          "time_info": "[12时37分 ~ 18时20分]"
+        },
+        {
+          "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
+          "url": "https://news.ifeng.com/c/8pspQ2slRcl",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 18时20分]"
+        },
+        {
+          "title": "美国两州把特朗普政府告了",
+          "url": "https://news.ifeng.com/c/8pslTiqBz0e",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 18时20分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普对委内瑞拉反对派Machado的评估“是现实的”。",
@@ -246,28 +272,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时21分 ~ 06时16分]"
-        },
-        {
-          "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
-          "url": "https://news.ifeng.com/c/8pspQ2slRcl",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
-        },
-        {
-          "title": "美国两州把特朗普政府告了",
-          "url": "https://news.ifeng.com/c/8pslTiqBz0e",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
         },
         {
           "title": "诺和诺德(NVO.N)CEO：与特朗普政府的沟通非常顺畅。",
@@ -351,6 +355,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时15分 ~ 09时16分]"
+        },
+        {
+          "title": "圆脸解读特朗普格陵兰岛言论",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%86%E8%84%B8%E8%A7%A3%E8%AF%BB%E7%89%B9%E6%9C%97%E6%99%AE%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E8%A8%80%E8%AE%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 18时20分]"
         },
         {
           "title": "美媒：白宫权衡伊朗核提议 建议特朗普“先礼后兵”",
@@ -533,6 +549,18 @@
           "time_info": "[03时18分 ~ 04时20分]"
         },
         {
+          "title": "美媒曝特朗普政府对伊朗行动选项“远超传统空袭”",
+          "url": "https://wallstreetcn.com/livenews/3035973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 18时20分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普对委内瑞拉反对派Machado的评估“是现实的”。 （自从美方强行掳走委内瑞拉总统马杜罗以来）委内瑞拉政府已经“全面配合”（美方的意图）。 现在谈论委内瑞拉大选还言之过早。",
           "url": "https://wallstreetcn.com/livenews/3035514",
           "source": "华尔街见闻-快讯",
@@ -543,17 +571,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时18分 ~ 04时20分]"
-        },
-        {
-          "title": "圆脸解读特朗普格陵兰岛言论",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9C%86%E8%84%B8%E8%A7%A3%E8%AF%BB%E7%89%B9%E6%9C%97%E6%99%AE%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E8%A8%80%E8%AE%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
         },
         {
           "title": "特朗普：任何与伊朗开展业务的国家都将被征收25%关税",
@@ -587,6 +604,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "你要我走、我偏要留！鲍威尔与特朗普的“终局之战”丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260113175248796800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "据华尔街日报：白宫权衡伊朗的核谈提议，而美国总统特朗普倾向于采取打击行动。",
@@ -675,17 +703,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
-        },
-        {
-          "title": "美媒曝特朗普政府对伊朗行动选项“远超传统空袭”",
-          "url": "https://wallstreetcn.com/livenews/3035973",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
         },
         {
           "title": "墨西哥总统辛鲍姆告诉美国总统特朗普：墨方反对军事干预。 墨西哥不需要美国的军事援助。",
@@ -785,6 +802,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "美国两州起诉特朗普政府",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%A4%E5%B7%9E%E8%B5%B7%E8%AF%89%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "特朗普已敲定鲍威尔继任者人选",
@@ -988,7 +1016,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 59,
+      "match_count": 61,
       "titles": [
         {
           "title": "伊朗发动支持政府集会，民众：我们绝不会抛弃哈梅内伊",
@@ -1032,17 +1060,6 @@
           "time_info": "[00时22分 ~ 16时25分]"
         },
         {
-          "title": "伊朗已有超百名安全人员在骚乱中丧生，美国将讨论干涉方案，骚乱的根本原因是何？美国或将从哪些方面干涉？",
-          "url": "https://www.zhihu.com/question/1993995898699658333",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 07时14分]"
-        },
-        {
           "title": "美国、法国开始从伊朗撤离人员，伊朗当前的局势到底有多严峻？是否是军事行动的前兆？",
           "url": "https://www.zhihu.com/question/1994338886751625788",
           "source": "知乎",
@@ -1052,8 +1069,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时25分 ~ 17时25分]"
+          "appearance_count": 9,
+          "time_info": "[11时25分 ~ 18时20分]"
         },
         {
           "title": "美国国务院要求美国公民立即离开伊朗",
@@ -1067,8 +1084,41 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时25分 ~ 17时25分]"
+          "appearance_count": 9,
+          "time_info": "[11时25分 ~ 18时20分]"
+        },
+        {
+          "title": "伊朗已有超百名安全人员在骚乱中丧生，美国将讨论干涉方案，骚乱的根本原因是何？美国或将从哪些方面干涉？",
+          "url": "https://www.zhihu.com/question/1993995898699658333",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 07时14分]"
+        },
+        {
+          "title": "美将对伊朗商业伙伴加征25%关税，中方回应",
+          "url": "https://news.ifeng.com/c/8psk7MrpBZR",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 18时20分]"
+        },
+        {
+          "title": "中方回应美对伊朗贸易伙伴加税25%",
+          "url": "https://www.toutiao.com/trending/7594742775778643502/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 18时20分]"
         },
         {
           "title": "伊朗外长说已控制全国局势",
@@ -1084,28 +1134,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时21分 ~ 07时14分]"
-        },
-        {
-          "title": "美将对伊朗商业伙伴加征25%关税，中方回应",
-          "url": "https://news.ifeng.com/c/8psk7MrpBZR",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 17时25分]"
-        },
-        {
-          "title": "中方回应美对伊朗贸易伙伴加税25%",
-          "url": "https://www.toutiao.com/trending/7594742775778643502/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 17时25分]"
         },
         {
           "title": "美国国务院要求美国公民立即离开伊朗",
@@ -1144,6 +1172,17 @@
           "time_info": "15时22分"
         },
         {
+          "title": "伊朗议长：若美“误判”形势 美基地将遭打击",
+          "url": "https://wallstreetcn.com/livenews/3036019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "伊朗外长：伊朗不寻求战争，但已做好战争准备",
           "url": "https://m.thepaper.cn/newsDetail_forward_32368032",
           "source": "澎湃新闻",
@@ -1179,6 +1218,18 @@
           "time_info": "09时16分"
         },
         {
+          "title": "外交部回应伊朗局势",
+          "url": "https://www.douyin.com/hot/2366507",
+          "source": "抖音",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 18时20分]"
+        },
+        {
           "title": "外交部：会采取一切必要措施保护在伊朗中国公民安全",
           "url": "https://wallstreetcn.com/livenews/3035903",
           "source": "华尔街见闻-快讯",
@@ -1190,28 +1241,40 @@
           "time_info": "15时22分"
         },
         {
+          "title": "伊朗议长：若美“误判”形势 美基地将遭打击",
+          "url": "https://flash.jin10.com/detail/20260113175857665800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
+          "title": "美将对与伊朗开展商业往来的国家征收25%关税，外交部回应",
+          "url": "https://www.cls.cn/detail/2256043",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 18时20分]"
+        },
+        {
           "title": "外交部回应伊朗局势",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF",
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 17时25分]"
-        },
-        {
-          "title": "外交部回应伊朗局势",
-          "url": "https://www.douyin.com/hot/2366507",
-          "source": "抖音",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 17时25分]"
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 18时20分]"
         },
         {
           "title": "白宫：外交是美国应对伊朗局势的“首选”方案",
@@ -1248,18 +1311,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时17分 ~ 06时16分]"
-        },
-        {
-          "title": "美将对与伊朗开展商业往来的国家征收25%关税，外交部回应",
-          "url": "https://www.cls.cn/detail/2256043",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 17时25分]"
         },
         {
           "title": "油轮监测服务机构TankerTrackers表示，伊朗已“秘密释放”一艘希腊船东拥有的油轮，该船此前两年一直处于“被关押”状态。",
@@ -1299,6 +1350,30 @@
           "time_info": "[13时22分 ~ 16时25分]"
         },
         {
+          "title": "油价迅速冲高！伊朗局势或导致全球三分之一原油运输瘫痪",
+          "url": "https://www.cls.cn/detail/2255729",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 18时20分]"
+        },
+        {
+          "title": "中方回应美对伊朗商业伙伴加征关税",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%95%86%E4%B8%9A%E4%BC%99%E4%BC%B4%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 18时20分]"
+        },
+        {
           "title": "美国务院要求美公民立即离开伊朗",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8A%A1%E9%99%A2%E8%A6%81%E6%B1%82%E7%BE%8E%E5%85%AC%E6%B0%91%E7%AB%8B%E5%8D%B3%E7%A6%BB%E5%BC%80%E4%BC%8A%E6%9C%97",
           "source": "百度热搜",
@@ -1334,18 +1409,6 @@
           "time_info": "[05时17分 ~ 06时16分]"
         },
         {
-          "title": "油价迅速冲高！伊朗局势或导致全球三分之一原油运输瘫痪",
-          "url": "https://www.cls.cn/detail/2255729",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 17时25分]"
-        },
-        {
           "title": "美对伊朗贸易伙伴征收25%关税",
           "url": "https://www.toutiao.com/trending/7594271676884336694/",
           "source": "今日头条",
@@ -1377,17 +1440,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时15分 ~ 09时16分]"
-        },
-        {
-          "title": "中方回应美对伊朗商业伙伴加征关税",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%95%86%E4%B8%9A%E4%BC%99%E4%BC%B4%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 17时25分]"
         },
         {
           "title": "美国务院要求美公民立即离开伊朗",
@@ -1765,6 +1817,30 @@
           "time_info": "[00时22分 ~ 00时23分]"
         },
         {
+          "title": "美股Q4财报季开启！高盛：标普500盈利预期“太保守”，本周银行股表现成关键风向标",
+          "url": "https://wallstreetcn.com/articles/3763105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 18时20分]"
+        },
+        {
+          "title": "美股盘前，英特尔涨超2%，AMD涨超1%；部分热门中概股走低，百度跌超3%、小鹏汽车跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3035989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 18时20分]"
+        },
+        {
           "title": "中国科技巨头指数将首超美股七巨头",
           "url": "https://www.toutiao.com/trending/7593895491210199103/",
           "source": "今日头条",
@@ -1807,28 +1883,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
-        },
-        {
-          "title": "美股盘前，英特尔涨超2%，AMD涨超1%；部分热门中概股走低，百度跌超3%、小鹏汽车跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3035989",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
-        },
-        {
-          "title": "美股Q4财报季开启！高盛：标普500盈利预期“太保守”，本周银行股表现成关键风向标",
-          "url": "https://wallstreetcn.com/articles/3763105",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
         },
         {
           "title": "金十图示：2026年01月12日（周一）美股热门股票行情一览（美股收盘）",
@@ -1933,8 +1987,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时15分 ~ 17时25分]"
+          "appearance_count": 11,
+          "time_info": "[09时15分 ~ 18时20分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -1944,11 +1998,12 @@
             10,
             7,
             8,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时15分 ~ 17时25分]"
+          "appearance_count": 11,
+          "time_info": "[09时15分 ~ 18时20分]"
         },
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
@@ -2004,7 +2059,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -2163,8 +2218,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时27分 ~ 17时25分]"
+          "appearance_count": 6,
+          "time_info": "[14时27分 ~ 18时20分]"
         },
         {
           "title": "OpenAI宣布，收购了医疗保健初创公司Torch。 据The Information报道，这笔交易大约1亿美元。",
@@ -2229,8 +2284,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时25分 ~ 17时25分]"
+          "appearance_count": 9,
+          "time_info": "[11时25分 ~ 18时20分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文",
@@ -2252,11 +2307,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 17时25分]"
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 18时20分]"
         }
       ]
     },
