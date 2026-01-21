@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T19:21:17.367002+08:00",
-  "total_titles_processed": 1789,
+  "generated_at": "2026-01-21T20:40:16.194326+08:00",
+  "total_titles_processed": 1905,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 131,
+      "match_count": 142,
       "titles": [
         {
           "title": "特朗普暗示吞并加拿大、格陵兰、委内瑞拉(图)",
@@ -94,6 +94,21 @@
           "time_info": "[09时21分 ~ 13时26分]"
         },
         {
+          "title": "特朗普称“和平委员会”可能取代联合国，中方回应",
+          "url": "https://www.cls.cn/detail/2264936",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时27分 ~ 20时40分]"
+        },
+        {
           "title": "桥水达利欧警告：特朗普政策可能引发“资本战”",
           "url": "https://wallstreetcn.com/articles/3763739",
           "source": "华尔街见闻",
@@ -103,8 +118,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时40分 ~ 19时21分]"
+          "appearance_count": 14,
+          "time_info": "[11时40分 ~ 20时40分]"
+        },
+        {
+          "title": "芬兰总统“出招”：邀特朗普蒸桑拿",
+          "url": "https://news.ifeng.com/c/8q65PAAxlZG",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时28分 ~ 20时40分]"
         },
         {
           "title": "特朗普关税威胁不留情面，芬兰总统格外尴尬",
@@ -132,8 +159,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时40分 ~ 19时21分]"
+          "appearance_count": 14,
+          "time_info": "[11时40分 ~ 20时40分]"
         },
         {
           "title": "特朗普称将对法国葡萄酒和香槟征收 200% 的关税，以此迫使马克龙加入「和平委员会」，如何看待此事？",
@@ -145,6 +172,21 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时29分 ~ 07时19分]"
+        },
+        {
+          "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32429423",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时25分 ~ 20时40分]"
         },
         {
           "title": "特朗普计划于4月访华？外交部回应",
@@ -174,21 +216,6 @@
           "time_info": "[00时29分 ~ 07时19分]"
         },
         {
-          "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32429423",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            17,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时25分 ~ 19时21分]"
-        },
-        {
           "title": "冯德莱恩回应特朗普：你错了，无论政治还是商业，协议就是协议",
           "url": "https://news.ifeng.com/c/8q4kJoceknE",
           "source": "凤凰网",
@@ -198,31 +225,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时21分 ~ 12时41分]"
-        },
-        {
-          "title": "芬兰总统“出招”：邀特朗普蒸桑拿",
-          "url": "https://news.ifeng.com/c/8q65PAAxlZG",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时28分 ~ 19时21分]"
-        },
-        {
-          "title": "特朗普称“和平委员会”可能取代联合国，中方回应",
-          "url": "https://www.cls.cn/detail/2264936",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时27分 ~ 19时21分]"
         },
         {
           "title": "马克龙在达沃斯喊话特朗普",
@@ -253,6 +255,21 @@
           "time_info": "[00时29分 ~ 05时17分]"
         },
         {
+          "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
+          "url": "https://www.zhihu.com/question/1996540321803301777",
+          "source": "知乎",
+          "ranks": [
+            20,
+            18,
+            14,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时27分 ~ 20时40分]"
+        },
+        {
           "title": "特朗普回应不去G7峰会",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%8D%E5%8E%BBG7%E5%B3%B0%E4%BC%9A",
           "source": "bilibili 热搜",
@@ -264,6 +281,17 @@
           "time_info": "[17时28分 ~ 17时29分]"
         },
         {
+          "title": "特朗普刚喊完中俄威胁转头就否了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%88%9A%E5%96%8A%E5%AE%8C%E4%B8%AD%E4%BF%84%E5%A8%81%E8%83%81%E8%BD%AC%E5%A4%B4%E5%B0%B1%E5%90%A6%E4%BA%86%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时39分 ~ 20时40分]"
+        },
+        {
           "title": "美国总统特朗普：（谈庇护城市）庇护城市将不再获得资金，他们可以起诉我们，也许他们会赢。",
           "url": "https://flash.jin10.com/detail/20260121034907075800",
           "source": "金十数据",
@@ -273,6 +301,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
+        },
+        {
+          "title": "美国官员：特朗普在达沃斯期间不会宣布美联储主席人选。 特朗普尚未决定美联储主席人选。",
+          "url": "https://wallstreetcn.com/livenews/3041289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "暗示动武？特朗普：若关税工具受限 可采用其他手段夺取格陵兰岛！",
@@ -338,6 +377,17 @@
           "time_info": "07时19分"
         },
         {
+          "title": "摩根大通CEO戴蒙：我基本上不赞成关税。 特朗普的信用卡利率上限将是一场“经济灾难”。 信用卡利率上限对经济造成的痛苦最大，而非银行。 美国经济“状况良好”。",
+          "url": "https://wallstreetcn.com/livenews/3041288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "特朗普：将很快开始打击陆路毒品走私",
           "url": "https://flash.jin10.com/detail/20260121034546306800",
           "source": "金十数据",
@@ -360,15 +410,15 @@
           "time_info": "04时09分"
         },
         {
-          "title": "世界经济论坛：特朗普演讲将按计划于当地时间下午2:30（北京时间晚21:30）开始。",
-          "url": "https://wallstreetcn.com/livenews/3041250",
+          "title": "挪威财相斯托尔滕贝格：格陵兰危机是“严重的”。 将诺贝尔奖与政府挂钩是不公平的。 特朗普的目的是在格陵兰立场方面向我施压。 乌克兰不能被遗忘，这是极其重要的。 不认为俄罗斯经济会崩溃。 北极的战略重要性日益增强。 现在没有理由撤回对美国的投资。 NBIM在美国的存在就反映了美国市场的规模。",
+          "url": "https://wallstreetcn.com/livenews/3041286",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时21分"
+          "time_info": "20时40分"
         },
         {
           "title": "美国总统特朗普：与委内瑞拉领导人相处融洽。",
@@ -404,18 +454,15 @@
           "time_info": "11时41分"
         },
         {
-          "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
-          "url": "https://www.zhihu.com/question/1996540321803301777",
-          "source": "知乎",
+          "title": "英国首相斯塔默：英国不会屈服于围绕格陵兰未来所发出的关税威胁。 特朗普周一关于查戈斯群岛的言论与之前不同。 特朗普希望我改变自己的立场，但我不会这么做。 撕毁与美国的关系是愚蠢的。",
+          "url": "https://wallstreetcn.com/livenews/3041284",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20,
-            18,
-            14,
-            17
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时27分 ~ 19时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "特朗普晒马克龙私信",
@@ -428,6 +475,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时40分 ~ 13时26分]"
+        },
+        {
+          "title": "特朗普刚喊完中俄威胁，转头就否了",
+          "url": "https://news.ifeng.com/c/8q61Pub3oAS",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时23分 ~ 20时40分]"
         },
         {
           "title": "美国总统特朗普将参加白宫在美东时间13:00（北京时间02:00）举办的新闻发布会。（CBS）",
@@ -464,6 +522,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时17分 ~ 06时19分]"
+        },
+        {
+          "title": "世界经济论坛：特朗普演讲将按计划于当地时间下午2:30（北京时间晚21:30）开始。",
+          "url": "https://wallstreetcn.com/livenews/3041250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 20时40分]"
         },
         {
           "title": "美国总统特朗普：美国下一年不会有贸易赤字/贸易逆差。",
@@ -513,17 +583,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时28分 ~ 18时23分]"
-        },
-        {
-          "title": "特朗普刚喊完中俄威胁，转头就否了",
-          "url": "https://news.ifeng.com/c/8q61Pub3oAS",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时23分 ~ 19时21分]"
         },
         {
           "title": "特朗普和马克龙吵翻",
@@ -645,6 +704,17 @@
           "time_info": "[01时25分 ~ 02时29分]"
         },
         {
+          "title": "特朗普重塑美国 支持者为何仍力挺他",
+          "url": "https://www.toutiao.com/trending/7597732790091648531/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时39分 ~ 20时40分]"
+        },
+        {
           "title": "纽森怒批特朗普：他就是个破坏王",
           "url": "https://www.toutiao.com/trending/7596509098209984518/",
           "source": "今日头条",
@@ -688,6 +758,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "特朗普对美联储的影响力究竟多大 美国最高法院库克听证会将是试金石",
+          "url": "https://wallstreetcn.com/livenews/3041283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "美国总统特朗普：（谈及关于美国留在北约的承诺）如果北约没有美国，北约就不够强大。",
@@ -910,6 +991,17 @@
           "time_info": "05时17分"
         },
         {
+          "title": "市场消息：美国总统特朗普在达沃斯与多位欧洲领导人举行了大约五场双边会晤。",
+          "url": "https://flash.jin10.com/detail/20260121203412303800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "美国总统特朗普：委内瑞拉石油将有助于降低美国油价。",
           "url": "https://wallstreetcn.com/livenews/3040661",
           "source": "华尔街见闻-快讯",
@@ -974,6 +1066,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
+        },
+        {
+          "title": "匈牙利总理欧尔班应美国总统特朗普邀请将出席达沃斯世界经济论坛。",
+          "url": "https://flash.jin10.com/detail/20260121203244237800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "美国总统特朗普：还没有与法国总统马克龙和英国首相斯塔默对话，但我们相处得很好。 我对挪威的尊重已经大打折扣。 我坚信，挪威控制着诺贝尔奖。 不会参加七国集团（G7）紧急会议。 新闻发布会后与土耳其总统埃尔多安通话。",
@@ -1185,6 +1288,17 @@
           "time_info": "00时30分"
         },
         {
+          "title": "特朗普抵达瑞士参加达沃斯论坛，此前空军一号曾出现故障。",
+          "url": "https://wallstreetcn.com/livenews/3041266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "美国总统特朗普：我不知道最高法院会在关税问题上做出什么裁决。",
           "url": "https://flash.jin10.com/detail/20260121030957820800",
           "source": "金十数据",
@@ -1213,7 +1327,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -1315,6 +1429,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "意大利经济部长：（在被问及意大利是否可以加入美国总统特朗普的“和平委员会”时）存在“一些问题”。",
+          "url": "https://flash.jin10.com/detail/20260121201708494800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "美国总统特朗普：对与在狱中的马杜罗交谈不感兴趣。",
@@ -1518,7 +1643,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
@@ -1528,8 +1653,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时18分 ~ 19时21分]"
+          "appearance_count": 17,
+          "time_info": "[07时18分 ~ 20时40分]"
         },
         {
           "title": "格陵兰岛事件升温欧美股市普跌 现货黄金、白银再创新高 | 今夜看点",
@@ -1620,6 +1745,19 @@
           "time_info": "[06时19分 ~ 07时19分]"
         },
         {
+          "title": "寄望达沃斯“降温地缘局势”，美股指期货齐涨，拼多多盘前涨7%，黄金新高后回落，日债大幅反弹",
+          "url": "https://wallstreetcn.com/articles/3763768",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时23分 ~ 20时40分]"
+        },
+        {
           "title": "纽约期银涨6.7%，美股盘前刷新历史高位，逼近96美元",
           "url": "https://wallstreetcn.com/livenews/3040696",
           "source": "华尔街见闻-快讯",
@@ -1656,18 +1794,6 @@
           "time_info": "[16时27分 ~ 17时29分]"
         },
         {
-          "title": "寄望达沃斯“降温地缘局势”，美股指期货齐涨，拼多多盘前涨7%，黄金新高后回落，日债大幅反弹",
-          "url": "https://wallstreetcn.com/articles/3763768",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时23分 ~ 19时21分]"
-        },
-        {
           "title": "全球科技股指数ETF收跌将近3%，领跌美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3040692",
           "source": "华尔街见闻-快讯",
@@ -1701,6 +1827,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
+        },
+        {
+          "title": "奈飞美股盘前跌幅扩大至7.1%。",
+          "url": "https://wallstreetcn.com/livenews/3041281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "金十图示：2026年01月20日（周二）美股热门股票行情一览（美股盘中）",
@@ -1756,6 +1893,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "强生第四季度调整后每股收益2.46美元，上年同期2.04美元，预估2.47美元。 第四季度销售额245.6亿美元，同比增长9.1%，预估241.5亿美元。 强生预计2026年销售额1,000亿美元至1,010亿美元，市场预估988.8亿美元。 强生预计2026年调整后每股收益11.43美元至11.63美元。 强生美股盘前跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3041259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "美股收窄部分跌幅，标普500指数下跌1%，纳斯达克指数下跌1.3%。",
@@ -1950,8 +2098,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时24分 ~ 19时21分]"
+          "appearance_count": 8,
+          "time_info": "[15时24分 ~ 20时40分]"
         },
         {
           "title": "机构称金价上半年或冲击5000美元",
@@ -2035,7 +2183,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "贝森特“安抚”市场：欧洲抛售美债是“虚假叙事”，最早下周公布新美联储主席",
@@ -2051,8 +2199,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时29分 ~ 19时21分]"
+          "appearance_count": 25,
+          "time_info": "[00时29分 ~ 20时40分]"
         },
         {
           "title": "丹麦养老基金AkademikerPension拟清仓美债，称美国信用风险“不可忽视”",
@@ -2066,8 +2214,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[06时19分 ~ 19时21分]"
+          "appearance_count": 18,
+          "time_info": "[06时19分 ~ 20时40分]"
         },
         {
           "title": "美债日债领跌！格陵兰危机与财政压力引发全球债市抛售潮",
@@ -2087,11 +2235,12 @@
           "url": "https://wallstreetcn.com/livenews/3041253",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 20时40分]"
         },
         {
           "title": "30年期美债收益率涨超7.9个基点",
@@ -2136,12 +2285,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
+        },
+        {
+          "title": "清仓美债！丹麦打响“资本战”第一枪？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260121201046898800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "印尼将拍卖一艘疑似伊朗籍油轮及17万吨原油",
@@ -2166,6 +2326,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时09分 ~ 05时17分]"
+        },
+        {
+          "title": "伊朗外长：任何针对伊朗的袭击都将遭到坚决回应",
+          "url": "https://flash.jin10.com/detail/20260121203449628800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "IEA月报：目前评估委内瑞拉和伊朗近期事态发展对供应的长期影响为时过早，因此基本维持原有预测不变。",
@@ -2290,11 +2461,12 @@
             8,
             9,
             13,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时40分 ~ 19时21分]"
+          "appearance_count": 14,
+          "time_info": "[11时40分 ~ 20时40分]"
         }
       ]
     },
