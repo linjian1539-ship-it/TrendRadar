@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T13:50:58.700472+08:00",
-  "total_titles_processed": 1123,
+  "generated_at": "2026-02-06T14:47:57.644667+08:00",
+  "total_titles_processed": 1231,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时43分 ~ 13时50分]"
+          "appearance_count": 4,
+          "time_info": "[09时43分 ~ 14时47分]"
         },
         {
           "title": "日本大选前，特朗普发文支持高市",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时11分 ~ 13时50分]"
+          "appearance_count": 3,
+          "time_info": "[12时11分 ~ 14时47分]"
         },
         {
           "title": "特朗普下场支持高市：她将赢得选举，下月来白宫",
@@ -76,6 +76,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时35分 ~ 05时24分]"
+        },
+        {
+          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时11分 ~ 14时47分]"
         },
         {
           "title": "美国白宫：（就伊朗问题）特朗普除了外交手段外还有许多其他选择。",
@@ -149,18 +162,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 05时24分]"
-        },
-        {
-          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时11分 ~ 13时50分]"
         },
         {
           "title": "美国白宫：（就古巴问题）特朗普始终乐于开展外交活动。",
@@ -301,6 +302,17 @@
           "time_info": "00时45分"
         },
         {
+          "title": "特朗普：与其延长 不如制定美俄核军控新条约",
+          "url": "https://wallstreetcn.com/livenews/3051154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
           "title": "贝森特：是否起诉沃什由特朗普决定，称“起诉”言论只是玩笑",
           "url": "https://wallstreetcn.com/livenews/3050778",
           "source": "华尔街见闻-快讯",
@@ -414,7 +426,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 30,
       "titles": [
         {
           "title": "一图看懂｜调重兵前往中东，美军目前在伊朗周边军事集结如何？",
@@ -458,9 +470,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
+        },
+        {
+          "title": "美国伊朗谈判今日举行",
+          "url": "https://www.douyin.com/hot/2391128",
+          "source": "抖音",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时11分 ~ 14时47分]"
         },
         {
           "title": "伊朗外交部发言人：希望美方也能“以负责任、务实和严肃的态度”参与其中。",
@@ -474,6 +498,17 @@
           "time_info": "02时42分"
         },
         {
+          "title": "伊朗外长和阿曼外长举行双边会晤",
+          "url": "https://wallstreetcn.com/livenews/3051169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
           "title": "伊朗外交部发言人：伊朗外长阿拉格齐启程前往阿曼马斯喀特，与美国举行核谈判。",
           "url": "https://flash.jin10.com/detail/20260206022659578800",
           "source": "金十数据",
@@ -483,18 +518,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
-        },
-        {
-          "title": "美国伊朗谈判今日举行",
-          "url": "https://www.douyin.com/hot/2391128",
-          "source": "抖音",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时11分 ~ 13时50分]"
         },
         {
           "title": "伊朗最高领袖政治顾问沙姆哈尼获任国防委员会秘书",
@@ -508,6 +531,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时42分 ~ 04时29分]"
+        },
+        {
+          "title": "美政府发布安全警告：敦促美国公民尽快离开伊朗",
+          "url": "https://www.cls.cn/detail/2282466",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时11分 ~ 14时47分]"
+        },
+        {
+          "title": "伊朗展示先进弹道导弹",
+          "url": "https://www.toutiao.com/trending/7602741866300293126/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时50分 ~ 14时47分]"
         },
         {
           "title": "伊朗外长阿拉格齐抵达阿曼。",
@@ -534,15 +579,16 @@
           "time_info": "[03时35分 ~ 04时29分]"
         },
         {
-          "title": "美政府发布安全警告：敦促美国公民尽快离开伊朗",
-          "url": "https://www.cls.cn/detail/2282466",
-          "source": "财联社热门",
+          "title": "伊朗军事战略转向主动威慑",
+          "url": "https://www.toutiao.com/trending/7603228774960037934/",
+          "source": "今日头条",
           "ranks": [
-            12
+            10,
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时11分 ~ 13时50分]"
+          "time_info": "[13时50分 ~ 14时47分]"
         },
         {
           "title": "伊朗",
@@ -581,15 +627,15 @@
           "time_info": "[06时22分 ~ 07时20分]"
         },
         {
-          "title": "伊朗展示先进弹道导弹",
-          "url": "https://www.toutiao.com/trending/7602741866300293126/",
-          "source": "今日头条",
+          "title": "中方阐明在伊朗问题上的原则立场",
+          "url": "https://news.ifeng.com/c/8qWWGUvFTRt",
+          "source": "凤凰网",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时50分"
+          "time_info": "14时47分"
         },
         {
           "title": "美国财长贝森特：伊朗领导层疯狂地往外转移资金。",
@@ -614,15 +660,15 @@
           "time_info": "00时45分"
         },
         {
-          "title": "伊朗军事战略转向主动威慑",
-          "url": "https://www.toutiao.com/trending/7603228774960037934/",
-          "source": "今日头条",
+          "title": "伊朗外长和阿曼外长举行双边会晤",
+          "url": "https://flash.jin10.com/detail/20260206143452608800",
+          "source": "金十数据",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时50分"
+          "time_info": "14时47分"
         },
         {
           "title": "以总理称若遭伊朗攻击将对其“重击”",
@@ -634,6 +680,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
+        },
+        {
+          "title": "伊朗代表团前往美伊核谈判地点",
+          "url": "https://wallstreetcn.com/livenews/3051153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "伊朗代表团前往美伊核谈判地点",
+          "url": "https://flash.jin10.com/detail/20260206141532930800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "伊美谈判略有推迟 伊朗增补一名代表团成员",
+          "url": "https://wallstreetcn.com/livenews/3051152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "外交部副部长苗得雨会见伊朗外交部副部长加里布阿巴迪",
+          "url": "https://wallstreetcn.com/livenews/3051148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "伊朗和美国的谈判略有推迟",
+          "url": "https://flash.jin10.com/detail/20260206140950095800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "伊朗军方：我们能够轻易进入美军基地",
@@ -656,6 +757,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时35分"
+        },
+        {
+          "title": "报道：伊朗或以长期暂停核计划换取制裁解除",
+          "url": "https://flash.jin10.com/detail/20260206140636253800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         }
       ]
     },
@@ -731,8 +843,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时19分 ~ 13时50分]"
+          "appearance_count": 6,
+          "time_info": "[07时19分 ~ 14时47分]"
         },
         {
           "title": "金十图示：2026年02月05日（周四）美股热门股票行情一览（美股盘中）",
@@ -757,6 +869,19 @@
           "time_info": "01时44分"
         },
         {
+          "title": "美股三大指数集体收跌",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时11分 ~ 14时47分]"
+        },
+        {
           "title": "美股收盘：纳指连跌3日 周跌幅扩大至近4%",
           "url": "https://flash.jin10.com/detail/20260206050117661800",
           "source": "金十数据",
@@ -767,18 +892,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 06时22分]"
-        },
-        {
-          "title": "美股三大指数集体收跌",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时11分 ~ 13时50分]"
         },
         {
           "title": "周四（2月5日）美股尾盘，彭博电动汽车价格回报指数跌1.88%，报3467.18点，北京时间08:17短线走高，随后持续走低。 成分股沃尔沃汽车集团（欧股）收跌22.53%，Aurora Innovation股份跌9.7%，普拉格动力公司跌9%，MP材料跌7.3%，速腾聚创科技H股收涨2.79%表现第五，小米集团H股收涨2.83%，文远知行涨3.5%，地平线H股收涨3.64%，Panasonic株式会社收涨8.41%。",
@@ -991,8 +1104,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时43分 ~ 13时50分]"
+          "appearance_count": 4,
+          "time_info": "[09时43分 ~ 14时47分]"
         }
       ]
     },
@@ -1008,8 +1121,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时43分 ~ 13时50分]"
+          "appearance_count": 4,
+          "time_info": "[09时43分 ~ 14时47分]"
         },
         {
           "title": "两年期美债收益率跌超8个基点",
