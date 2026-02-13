@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T22:01:26.394311+08:00",
-  "total_titles_processed": 1956,
+  "generated_at": "2026-02-13T22:48:38.277053+08:00",
+  "total_titles_processed": 2022,
   "failed_sources": [],
   "trends": [
     {
@@ -79,11 +79,12 @@
             25,
             27,
             30,
-            29
+            29,
+            26
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时54分 ~ 18时35分]"
+          "appearance_count": 16,
+          "time_info": "[00时54分 ~ 22时48分]"
         },
         {
           "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
@@ -94,8 +95,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时38分 ~ 22时01分]"
+          "appearance_count": 8,
+          "time_info": "[16时38分 ~ 22时48分]"
         },
         {
           "title": "路透社：特朗普访华前暂停对华科技禁令",
@@ -745,7 +746,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时01分"
         },
@@ -767,7 +768,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时01分"
         },
@@ -808,7 +809,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "黄金一度跌超4%、白银暴跌11%，美股大跌引爆算法交易贵金属卖盘？",
@@ -819,8 +820,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时52分 ~ 22时01分]"
+          "appearance_count": 14,
+          "time_info": "[09时52分 ~ 22时48分]"
         },
         {
           "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
@@ -832,8 +833,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时56分 ~ 22时01分]"
+          "appearance_count": 11,
+          "time_info": "[13时56分 ~ 22时48分]"
         },
         {
           "title": "【早报】深夜跳水！美股、黄金、白银、原油集体大跌；央行今日出手，万亿逆回购来了",
@@ -869,8 +870,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时17分 ~ 22时01分]"
+          "appearance_count": 13,
+          "time_info": "[12时17分 ~ 22时48分]"
         },
         {
           "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
@@ -883,8 +884,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时55分 ~ 22时01分]"
+          "appearance_count": 10,
+          "time_info": "[14时55分 ~ 22时48分]"
         },
         {
           "title": "存储概念股盘前延续涨势 美股三大期指小幅走高 | 今夜看点",
@@ -901,6 +902,17 @@
           "time_info": "[00时54分 ~ 09时52分]"
         },
         {
+          "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
+          "url": "https://www.zhihu.com/question/2005568531748648323",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时48分 ~ 22时48分]"
+        },
+        {
           "title": "美股AI叙事进入下半场：从普涨狂欢到“暗礁”密布",
           "url": "https://www.cls.cn/detail/2289007",
           "source": "财联社热门",
@@ -914,17 +926,6 @@
           "time_info": "[09时52分 ~ 14时55分]"
         },
         {
-          "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
-          "url": "https://www.zhihu.com/question/2005568531748648323",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时48分 ~ 22时01分]"
-        },
-        {
           "title": "CPI前夕美股高开低走，盘中标普纳指跌超1%、思科跌超10%，白银跳水超7%",
           "url": "https://wallstreetcn.com/articles/3765553",
           "source": "华尔街见闻",
@@ -934,17 +935,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时55分 ~ 02时57分]"
-        },
-        {
-          "title": "周五美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3055230",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时01分"
         },
         {
           "title": "美国CPI前夕，美股指盘中转跌，盘中纳指跌超1%、思科跌超10%",
@@ -989,6 +979,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3055230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时48分]"
         },
         {
           "title": "金十图示：2026年02月12日（周四）美股热门股票行情一览（美股收盘）",
@@ -1079,11 +1081,36 @@
           "url": "https://www.cls.cn/detail/2289929",
           "source": "财联社热门",
           "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时00分 ~ 22时48分]"
+        },
+        {
+          "title": "美股脆弱之际，今晚CPI恐现“鹰派意外”",
+          "url": "https://wallstreetcn.com/articles/3765660",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
             7
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时00分 ~ 22时48分]"
+        },
+        {
+          "title": "美国CPI数据公布后，美股期货短线拉升",
+          "url": "https://wallstreetcn.com/livenews/3055223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时00分 ~ 22时01分]"
+          "time_info": "[22时01分 ~ 22时48分]"
         },
         {
           "title": "AI引发的资本市场大溃逃 美股商业地产遭遇“黑色星期四”",
@@ -1096,17 +1123,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时30分 ~ 05时30分]"
-        },
-        {
-          "title": "美股脆弱之际，今晚CPI恐现“鹰派意外”",
-          "url": "https://wallstreetcn.com/articles/3765660",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时00分 ~ 22时01分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌3.00%，报7599.35点，美股盘初持续走低，北京时间00:00过后持续低位窄幅震荡。 成分股。 热门中概股里，腾讯音乐初步收跌10%，携程跌6%，贝壳跌5.8%，B站、百度、阿特斯、百胜中国跌超4%，阿里跌3.4%，亚朵涨1.2%，世纪互联涨3.7%。 ETF中，中概互联网指数ETF（KWEB）收跌3.84%，中国科技指数ETF（CQQQ）收跌2.48%。 德银嘉实沪深300指数ETF（ASHR）收跌0.56%，XtrackersHarvest中证50（ASHS）收涨0.16%。",
@@ -1157,6 +1173,18 @@
           "time_info": "[06时28分 ~ 07时24分]"
         },
         {
+          "title": "阿里巴巴美股盘前跌幅扩大至5%。",
+          "url": "https://wallstreetcn.com/livenews/3055214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时48分]"
+        },
+        {
           "title": "美股跳水 黄金白银大跌",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E8%B7%B3%E6%B0%B4+%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%A4%A7%E8%B7%8C",
           "source": "百度热搜",
@@ -1168,15 +1196,26 @@
           "time_info": "[12时17分 ~ 12时18分]"
         },
         {
-          "title": "美国CPI数据公布后，美股期货短线拉升",
-          "url": "https://wallstreetcn.com/livenews/3055223",
+          "title": "美股存储芯片概念股盘前下跌，Sandisk跌超3%、美光科技跌超2%、西部数据涨跌超2%、希捷科技跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3055237",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时01分"
+          "time_info": "22时48分"
+        },
+        {
+          "title": "百度美股盘前跌超4%。 蔚来美股盘前跌近3%。",
+          "url": "https://wallstreetcn.com/livenews/3055232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "金十图示：2026年02月12日（周四）美股热门股票行情一览（美股盘中）",
@@ -1188,17 +1227,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
-        },
-        {
-          "title": "阿里巴巴美股盘前跌幅扩大至5%。",
-          "url": "https://wallstreetcn.com/livenews/3055214",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时01分"
         },
         {
           "title": "金十图示：2026年02月12日（周四）热门中概股行情一览（美股盘中）",
@@ -1300,6 +1328,20 @@
           "time_info": "[00时54分 ~ 09时52分]"
         },
         {
+          "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
+          "url": "https://www.zhihu.com/question/2005557043939993512",
+          "source": "知乎",
+          "ranks": [
+            12,
+            13,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时48分 ~ 22时48分]"
+        },
+        {
           "title": "DeepSeek低调升级新模型",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
           "source": "bilibili 热搜",
@@ -1334,20 +1376,6 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时54分 ~ 19时28分]"
-        },
-        {
-          "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
-          "url": "https://www.zhihu.com/question/2005557043939993512",
-          "source": "知乎",
-          "ranks": [
-            12,
-            13,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时48分 ~ 22时01分]"
         },
         {
           "title": "DeepSeek变冷淡了",
@@ -1423,6 +1451,246 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "谷歌再遭欧盟反垄断调查 涉及非法操纵广告定价",
+          "url": "https://flash.jin10.com/detail/20260213014623194800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时55分"
+        },
+        {
+          "title": "欧盟将于4月前就针对谷歌的DMA框架下AI草案措施展开咨询",
+          "url": "https://wallstreetcn.com/livenews/3055238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
+          "title": "谷歌母公司Alphabet涨幅迅速扩大至0.8%，刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3054634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时55分]"
+        },
+        {
+          "title": "市场消息：谷歌因搜索广告定价问题再次遭到欧盟反垄断调查。欧盟怀疑谷歌提高广告竞价结算价格。",
+          "url": "https://flash.jin10.com/detail/20260213013306021800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时55分"
+        },
+        {
+          "title": "阿里、谷歌接连“出手” AI购物元年将至？",
+          "url": "https://www.cls.cn/detail/2288802",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
+          "title": "欧盟将在六个月内完成对谷歌(GOOG.O)的反垄断调查程序。",
+          "url": "https://flash.jin10.com/detail/20260213215534534800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
+          "title": "欧盟将于4月就《数字市场法》下针对谷歌(GOOG.O)的拟议措施展开磋商。",
+          "url": "https://flash.jin10.com/detail/20260213215318727800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
+          "title": "谷歌：全新深度思考现已通过Gemini应用向Google AI Ultra订阅用户开放，并通过Gemini API向精选研究人员开放。",
+          "url": "https://flash.jin10.com/detail/20260213002134729800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        },
+        {
+          "title": "谷歌：今日发布Gemini 3深度思考重大升级。与科学家和研究人员紧密合作，推出升级版Gemini 3深度思考模型，以应对研究挑战。",
+          "url": "https://flash.jin10.com/detail/20260213002057451800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        },
+        {
+          "title": "谷歌发布Gemini 3深度思考推理模型的升级版，来解决现代科学研究面临的挑战。",
+          "url": "https://wallstreetcn.com/livenews/3054635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "特写｜断网与战争阴霾之下：在伊朗，普通人的生活如何继续",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32583664",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[03时49分 ~ 13时56分]"
+        },
+        {
+          "title": "欧洲航空安全局：此前发布的关于航空公司避免飞越伊朗领空的建议有效期延长至2026年3月31日。",
+          "url": "https://flash.jin10.com/detail/20260213004451467800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        },
+        {
+          "title": "美国能源部长赖特：俄罗斯和伊朗在委内瑞拉的影响力将会减弱。",
+          "url": "https://flash.jin10.com/detail/20260213041056497800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时30分 ~ 05时30分]"
+        },
+        {
+          "title": "伊朗最高领袖顾问：如美方不提过分要求，则谈判可向积极方向发展",
+          "url": "https://wallstreetcn.com/livenews/3055118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 19时28分]"
+        },
+        {
+          "title": "伊朗外长：内塔尼亚胡是战争贩子",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32596568",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时00分 ~ 22时48分]"
+        },
+        {
+          "title": "伊朗总统：伊朗不寻求核武器",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32596571",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时00分 ~ 22时48分]"
+        },
+        {
+          "title": "伊朗为何愿意接受任何核项目核查",
+          "url": "https://www.toutiao.com/trending/7606136522760261146/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 12时18分]"
+        },
+        {
+          "title": "伊朗多款反舰导弹与卫星系统亮相",
+          "url": "https://www.toutiao.com/trending/7604835780381425700/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
+          "title": "伊朗前高官：若遭美攻击先打以色列",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32596357",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
+          "title": "美政府被曝向伊朗境内秘密输送“星链”终端协助骚乱人员",
+          "url": "https://wallstreetcn.com/livenews/3054902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时56分"
         }
       ]
     },
@@ -1549,8 +1817,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时52分 ~ 22时01分]"
+          "appearance_count": 14,
+          "time_info": "[09时52分 ~ 22时48分]"
         },
         {
           "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
@@ -1579,11 +1847,12 @@
           "url": "https://flash.jin10.com/detail/20260213214717860800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时48分]"
         },
         {
           "title": "AI寒流来袭：全球风险资产撤退 美债成避风港",
@@ -1603,7 +1872,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时01分"
         },
@@ -1614,7 +1883,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时01分"
         },
@@ -1625,7 +1894,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时01分"
         },
@@ -1639,200 +1908,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "特写｜断网与战争阴霾之下：在伊朗，普通人的生活如何继续",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32583664",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时49分 ~ 13时56分]"
-        },
-        {
-          "title": "欧洲航空安全局：此前发布的关于航空公司避免飞越伊朗领空的建议有效期延长至2026年3月31日。",
-          "url": "https://flash.jin10.com/detail/20260213004451467800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "美国能源部长赖特：俄罗斯和伊朗在委内瑞拉的影响力将会减弱。",
-          "url": "https://flash.jin10.com/detail/20260213041056497800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时30分 ~ 05时30分]"
-        },
-        {
-          "title": "伊朗最高领袖顾问：如美方不提过分要求，则谈判可向积极方向发展",
-          "url": "https://wallstreetcn.com/livenews/3055118",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时35分 ~ 19时28分]"
-        },
-        {
-          "title": "伊朗为何愿意接受任何核项目核查",
-          "url": "https://www.toutiao.com/trending/7606136522760261146/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时17分 ~ 12时18分]"
-        },
-        {
-          "title": "伊朗外长：内塔尼亚胡是战争贩子",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32596568",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时00分 ~ 22时01分]"
-        },
-        {
-          "title": "伊朗总统：伊朗不寻求核武器",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32596571",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时00分 ~ 22时01分]"
-        },
-        {
-          "title": "伊朗多款反舰导弹与卫星系统亮相",
-          "url": "https://www.toutiao.com/trending/7604835780381425700/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时52分"
-        },
-        {
-          "title": "美政府被曝向伊朗境内秘密输送“星链”终端协助骚乱人员",
-          "url": "https://wallstreetcn.com/livenews/3054902",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "谷歌再遭欧盟反垄断调查 涉及非法操纵广告定价",
-          "url": "https://flash.jin10.com/detail/20260213014623194800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "谷歌母公司Alphabet涨幅迅速扩大至0.8%，刷新日高。",
-          "url": "https://wallstreetcn.com/livenews/3054634",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 01时55分]"
-        },
-        {
-          "title": "市场消息：谷歌因搜索广告定价问题再次遭到欧盟反垄断调查。欧盟怀疑谷歌提高广告竞价结算价格。",
-          "url": "https://flash.jin10.com/detail/20260213013306021800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "阿里、谷歌接连“出手” AI购物元年将至？",
-          "url": "https://www.cls.cn/detail/2288802",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时52分"
-        },
-        {
-          "title": "谷歌：全新深度思考现已通过Gemini应用向Google AI Ultra订阅用户开放，并通过Gemini API向精选研究人员开放。",
-          "url": "https://flash.jin10.com/detail/20260213002134729800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "谷歌：今日发布Gemini 3深度思考重大升级。与科学家和研究人员紧密合作，推出升级版Gemini 3深度思考模型，以应对研究挑战。",
-          "url": "https://flash.jin10.com/detail/20260213002057451800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "谷歌发布Gemini 3深度思考推理模型的升级版，来解决现代科学研究面临的挑战。",
-          "url": "https://wallstreetcn.com/livenews/3054635",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
         }
       ]
     },
@@ -1928,17 +2003,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "现货黄金涨势稍后回落，最新报4987美元/盎司；美元指数DXY有所反弹，最新报96.93。",
-          "url": "https://flash.jin10.com/detail/20260213214236124800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时01分"
-        },
-        {
           "title": "周四（2月12日）纽约尾盘，ICE美元指数涨0.10%，报96.925点，日内交投区间为96.744-97.074点，整体呈现出三波V形走势。 彭博美元指数涨0.01%，报1181.99点，日内交投区间为1179.58-1183.49点。",
           "url": "https://wallstreetcn.com/livenews/3054709",
           "source": "华尔街见闻-快讯",
@@ -1949,6 +2013,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时30分 ~ 05时30分]"
+        },
+        {
+          "title": "现货黄金涨势稍后回落，最新报4987美元/盎司；美元指数DXY有所反弹，最新报96.93。",
+          "url": "https://flash.jin10.com/detail/20260213214236124800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时48分]"
         },
         {
           "title": "美元指数12日上涨",
