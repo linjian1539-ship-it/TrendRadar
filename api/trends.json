@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T20:55:08.648995+08:00",
-  "total_titles_processed": 1615,
+  "generated_at": "2026-02-18T22:06:08.458064+08:00",
+  "total_titles_processed": 1737,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,17 @@
           "time_info": "[02时51分 ~ 15时04分]"
         },
         {
+          "title": "特朗普、拜登、奥巴马、克林顿齐发声",
+          "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时39分 ~ 22时06分]"
+        },
+        {
           "title": "美部长与下属传出婚外情，特朗普回应",
           "url": "https://news.ifeng.com/c/8qp4YVQ6NeA",
           "source": "凤凰网",
@@ -43,17 +54,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时13分 ~ 07时25分]"
-        },
-        {
-          "title": "特朗普、拜登、奥巴马、克林顿齐发声",
-          "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时39分 ~ 20时55分]"
         },
         {
           "title": "特朗普宣布大消息，日本要当冤大头了",
@@ -120,6 +120,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时44分 ~ 07时25分]"
+        },
+        {
+          "title": "泽连斯基：特朗普只对乌克兰施压不公平",
+          "url": "https://news.ifeng.com/c/8qqlQxdDOZa",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时09分 ~ 22时06分]"
         },
         {
           "title": "泽连斯基称特朗普要求乌方单方让步“不公平”",
@@ -205,17 +216,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时18分 ~ 15时04分]"
-        },
-        {
-          "title": "泽连斯基：特朗普只对乌克兰施压不公平",
-          "url": "https://news.ifeng.com/c/8qqlQxdDOZa",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时09分 ~ 20时55分]"
         },
         {
           "title": "侨民抢在特朗普新税生效前寄钱回家，菲律宾12月海外汇款创纪录",
@@ -332,7 +332,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -549,7 +549,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
@@ -594,8 +594,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时18分 ~ 20时55分]"
+          "appearance_count": 12,
+          "time_info": "[12时18分 ~ 22时06分]"
         },
         {
           "title": "万斯：美方向伊朗划定“红线”",
@@ -692,6 +692,18 @@
           "time_info": "[12时18分 ~ 15时04分]"
         },
         {
+          "title": "伊朗将迅速落实伊俄全面战略合作计划",
+          "url": "https://www.toutiao.com/trending/7607948856885624895/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时54分 ~ 22时06分]"
+        },
+        {
           "title": "伊朗总统：决心迅速准确落实伊俄全面战略合作计划",
           "url": "https://wallstreetcn.com/livenews/3056302",
           "source": "华尔街见闻-快讯",
@@ -714,17 +726,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时39分 ~ 17时42分]"
-        },
-        {
-          "title": "伊朗将迅速落实伊俄全面战略合作计划",
-          "url": "https://www.toutiao.com/trending/7607948856885624895/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时54分 ~ 20时55分]"
         },
         {
           "title": "美官员：预计伊朗将在未来两周就核谈判内容提出详细方案",
@@ -806,6 +807,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
+        },
+        {
+          "title": "俄罗斯与伊朗海军在阿曼湾举行演练",
+          "url": "https://wallstreetcn.com/livenews/3056340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "伊朗说永不寻求核武并随时接受核查",
@@ -918,6 +930,17 @@
           "time_info": "20时09分"
         },
         {
+          "title": "卫星图像显示，在美伊关系紧张之际，伊朗正在修复和加固一些设施。",
+          "url": "https://flash.jin10.com/detail/20260218212236759800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
           "title": "伊朗总统：伊方希望谈判能带来“切实成果”",
           "url": "https://wallstreetcn.com/livenews/3056036",
           "source": "华尔街见闻-快讯",
@@ -932,7 +955,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -943,8 +966,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时49分 ~ 20时55分]"
+          "appearance_count": 13,
+          "time_info": "[09时49分 ~ 22时06分]"
         },
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -968,8 +991,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时13分 ~ 20时55分]"
+          "appearance_count": 22,
+          "time_info": "[01时13分 ~ 22时06分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -980,8 +1003,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时49分 ~ 20时55分]"
+          "appearance_count": 13,
+          "time_info": "[09时49分 ~ 22时06分]"
+        },
+        {
+          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
+          "url": "https://wallstreetcn.com/articles/3765829",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时42分 ~ 22时06分]"
         },
         {
           "title": "美股盘前科技股普涨，黄金收复4900，白银日内涨超3%，欧洲斯托克600触及新纪录高位",
@@ -1006,16 +1041,15 @@
           "time_info": "07时25分"
         },
         {
-          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
-          "url": "https://wallstreetcn.com/articles/3765829",
-          "source": "华尔街见闻",
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3056347",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            8
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时42分 ~ 20时55分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "金十图示：2026年02月17日（周二）美股热门股票行情一览（美股收盘）",
@@ -1132,7 +1166,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -1393,6 +1427,35 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "两年期美债收益率涨约2.5个基点",
+          "url": "https://wallstreetcn.com/livenews/3056163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 09时49分]"
+        },
+        {
+          "title": "摩根大通美债客户调查显示多头占比有所回落",
+          "url": "https://wallstreetcn.com/livenews/3056330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -1406,24 +1469,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "两年期美债收益率涨约2.5个基点",
-          "url": "https://wallstreetcn.com/livenews/3056163",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时25分 ~ 09时49分]"
         }
       ]
     }
