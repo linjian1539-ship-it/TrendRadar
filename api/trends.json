@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T09:49:02.406067+08:00",
-  "total_titles_processed": 836,
+  "generated_at": "2026-02-19T12:16:54.788025+08:00",
+  "total_titles_processed": 961,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
         {
           "title": "为不影响特朗普访华，美对台军售疑停滞，白宫回应",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 09时49分]"
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 12时16分]"
         },
         {
           "title": "美媒：美军最早本周末打击伊朗，特朗普尚未决定",
@@ -36,7 +36,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         },
@@ -61,6 +61,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "特朗普将举行首届“和平委员会”会议，宣布成员国注资",
+          "url": "https://news.ifeng.com/c/8qrooPYgaLN",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普将前往佐治亚州，讨论经适性（经济承受能力）问题。",
@@ -124,6 +135,18 @@
           "time_info": "[03时45分 ~ 04时34分]"
         },
         {
+          "title": "特朗普称美国今年贸易逆差将数十年来首次逆转",
+          "url": "https://wallstreetcn.com/livenews/3056538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 12时16分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：外交是美国总统特朗普对伊朗问题的首选方案。",
           "url": "https://wallstreetcn.com/livenews/3056445",
           "source": "华尔街见闻-快讯",
@@ -136,13 +159,36 @@
           "time_info": "[03时45分 ~ 04时34分]"
         },
         {
+          "title": "特朗普将于美国东部时间周四下午4点（北京时间次日凌晨5点）就经济问题发表讲话。",
+          "url": "https://wallstreetcn.com/livenews/3056537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 12时16分]"
+        },
+        {
+          "title": "唐驳虎：美军12架F-22剑指伊朗，特朗普正在打一场心理战",
+          "url": "https://news.ifeng.com/c/8qrt27zMNrI",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
+        },
+        {
           "title": "加州就终止能源中心资金起诉特朗普",
           "url": "https://flash.jin10.com/detail/20260219084435962800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         },
@@ -169,28 +215,6 @@
           "time_info": "05时31分"
         },
         {
-          "title": "特朗普称美国今年贸易逆差将数十年来首次逆转",
-          "url": "https://wallstreetcn.com/livenews/3056538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
-          "title": "特朗普将于美国东部时间周四下午4点（北京时间次日凌晨5点）就经济问题发表讲话。",
-          "url": "https://wallstreetcn.com/livenews/3056537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
           "title": "美媒：特朗普的和平委员会将承诺50亿美元用于重建加沙",
           "url": "https://flash.jin10.com/detail/20260219044932847800",
           "source": "金十数据",
@@ -211,6 +235,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
+        },
+        {
+          "title": "美法官推翻一项支持特朗普政府拘留移民政策的裁决",
+          "url": "https://flash.jin10.com/detail/20260219111448057800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
         },
         {
           "title": "美国白宫：美国总统特朗普尚未就停摆问题与民主党议员进行直接对话。",
@@ -406,7 +441,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         },
@@ -439,7 +474,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         }
@@ -447,7 +482,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "美媒：对伊朗开展军事行动“迫在眉睫”",
@@ -469,11 +504,12 @@
             9,
             8,
             7,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时58分 ~ 09时49分]"
+          "appearance_count": 12,
+          "time_info": "[00时58分 ~ 12时16分]"
         },
         {
           "title": "伊朗与俄罗斯将举行海上联合军演",
@@ -485,8 +521,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时58分 ~ 09时49分]"
+          "appearance_count": 12,
+          "time_info": "[00时58分 ~ 12时16分]"
         },
         {
           "title": "美国国务院：美国国务卿鲁比奥正采取措施，对18名伊朗政权官员和电信行业领导人实施签证限制。",
@@ -512,6 +548,18 @@
           "time_info": "[04时34分 ~ 05时31分]"
         },
         {
+          "title": "美油大涨5%！美以或对伊朗联合袭击，白宫称谈判取得进展、但关键议题相距甚远",
+          "url": "https://wallstreetcn.com/articles/3765848",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 12时16分]"
+        },
+        {
           "title": "伊朗外长称就伊美谈判“指导原则”达成一致，布油一度跌近3%",
           "url": "https://wallstreetcn.com/articles/3765814",
           "source": "华尔街见闻",
@@ -523,17 +571,6 @@
           "time_info": "[00时58分 ~ 01时53分]"
         },
         {
-          "title": "美油大涨5%！美以或对伊朗联合袭击，白宫称谈判取得进展、但关键议题相距甚远",
-          "url": "https://wallstreetcn.com/articles/3765848",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 09时49分]"
-        },
-        {
           "title": "曝美军准备“最早本周末打伊朗”",
           "url": "https://www.douyin.com/hot/2405473",
           "source": "抖音",
@@ -543,6 +580,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时48分 ~ 09时49分]"
+        },
+        {
+          "title": "消息人士称美军已做好“最早本周末打击伊朗”准备",
+          "url": "https://wallstreetcn.com/livenews/3056541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 12时16分]"
         },
         {
           "title": "白宫新闻秘书Leavitt声称，在伊朗问题上取得了一点进展。 针对俄乌问题的三方会谈取得进展。",
@@ -579,15 +628,15 @@
           "time_info": "[09时48分 ~ 09时49分]"
         },
         {
-          "title": "消息人士称美军已做好“最早本周末打击伊朗”准备",
-          "url": "https://wallstreetcn.com/livenews/3056541",
-          "source": "华尔街见闻-快讯",
+          "title": "这一次不一样？美军做好“最早本周末打击伊朗”准备，油价会如何？",
+          "url": "https://wallstreetcn.com/articles/3765857",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时49分"
+          "time_info": "12时16分"
         },
         {
           "title": "美国白宫：伊朗方面预计将在未来几周内带来更详细的信息。",
@@ -640,7 +689,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         },
@@ -708,8 +757,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时58分 ~ 09时49分]"
+          "appearance_count": 12,
+          "time_info": "[00时58分 ~ 12时16分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -720,8 +769,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时58分 ~ 09时49分]"
+          "appearance_count": 12,
+          "time_info": "[00时58分 ~ 12时16分]"
+        },
+        {
+          "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
+          "url": "https://wallstreetcn.com/articles/3765834",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时32分 ~ 12时16分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -732,19 +792,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时58分 ~ 09时49分]"
-        },
-        {
-          "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
-          "url": "https://wallstreetcn.com/articles/3765834",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时32分 ~ 09时49分]"
+          "appearance_count": 12,
+          "time_info": "[00时58分 ~ 12时16分]"
         },
         {
           "title": "Doordash美股盘后涨10%。",
@@ -930,6 +979,59 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "OpenAI聘请Instagram高管Charles Porch。 Porch将担任OpenAI的全球创新合作伙伴关系副总裁。（Vanity Fair）",
+          "url": "https://wallstreetcn.com/livenews/3056432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时47分 ~ 04时34分]"
+        },
+        {
+          "title": "市场消息：富时罗素正就IPO“快速纳入”规则征求市场意见，提及SpaceX、OpenAI、Anthropic可能进行的IPO。",
+          "url": "https://flash.jin10.com/detail/20260219054611726800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时26分]"
+        },
+        {
+          "title": "OpenAI：OpenAI计划在印度的孟买和班加罗尔开设新办公室。",
+          "url": "https://flash.jin10.com/detail/20260219114656970800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
+        },
+        {
+          "title": "OpenAI最新一轮融资进展顺利，融资总额有望突破1000亿美元，首轮融资将于本月完成。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3056559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -967,37 +1069,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时53分 ~ 02时47分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI聘请Instagram高管Charles Porch。 Porch将担任OpenAI的全球创新合作伙伴关系副总裁。（Vanity Fair）",
-          "url": "https://wallstreetcn.com/livenews/3056432",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时47分 ~ 04时34分]"
-        },
-        {
-          "title": "市场消息：富时罗素正就IPO“快速纳入”规则征求市场意见，提及SpaceX、OpenAI、Anthropic可能进行的IPO。",
-          "url": "https://flash.jin10.com/detail/20260219054611726800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时32分 ~ 07时26分]"
         }
       ]
     },
@@ -1044,6 +1115,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时32分 ~ 07时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "高盛：随着产量上升，铜和锂的价格或难以追上黄金的涨幅。",
+          "url": "https://flash.jin10.com/detail/20260219115507291800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
         }
       ]
     }
