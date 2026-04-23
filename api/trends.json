@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T17:23:24.363371+08:00",
-  "total_titles_processed": 1322,
+  "generated_at": "2026-04-23T19:04:32.633982+08:00",
+  "total_titles_processed": 1449,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 58,
+      "match_count": 62,
       "titles": [
         {
           "title": "拒绝谈判后，伊朗：收到“一些信号”暗示美国准备解除封锁",
@@ -53,11 +53,12 @@
             16,
             19,
             24,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时07分 ~ 17时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时07分 ~ 19时04分]"
         },
         {
           "title": "伊朗将恢复国内航班运营",
@@ -68,11 +69,12 @@
             21,
             24,
             29,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时07分 ~ 17时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时07分 ~ 19时04分]"
         },
         {
           "title": "伊朗代表团亮相亚沙会开幕式",
@@ -118,11 +120,24 @@
           "source": "知乎",
           "ranks": [
             6,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时42分 ~ 17时23分]"
+          "appearance_count": 7,
+          "time_info": "[07时42分 ~ 19时04分]"
+        },
+        {
+          "title": "伊朗反击，传递了一个信号",
+          "url": "https://news.ifeng.com/c/8sYAlI8ABl1",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时30分 ~ 19时04分]"
         },
         {
           "title": "伊朗战争丨伊朗反击了，美却认为“不违反停火协议”",
@@ -172,18 +187,6 @@
           "time_info": "00时08分"
         },
         {
-          "title": "伊朗反击，传递了一个信号",
-          "url": "https://news.ifeng.com/c/8sYAlI8ABl1",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时30分 ~ 17时23分]"
-        },
-        {
           "title": "伊朗就美国利用中东五国领土领空提出抗议",
           "url": "https://wallstreetcn.com/livenews/3092961",
           "source": "华尔街见闻-快讯",
@@ -193,6 +196,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
+        },
+        {
+          "title": "印度表示在与伊朗的会谈中旨在确保船只通行安全。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3093264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
+        },
+        {
+          "title": "伊美博弈至今，究竟谁拿捏了谁的命门？伊朗做对了什么，能让美国陷入进退两难的境地？",
+          "url": "https://www.zhihu.com/question/2030255513384870069",
+          "source": "知乎",
+          "ranks": [
+            14,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时26分 ~ 19时04分]"
         },
         {
           "title": "据Punchbowl：美国参议院将于美东时间16:45（北京时间周四04:45）就伊朗战争授权进行投票。",
@@ -279,18 +305,6 @@
           "time_info": "[02时21分 ~ 03时13分]"
         },
         {
-          "title": "伊美博弈至今，究竟谁拿捏了谁的命门？伊朗做对了什么，能让美国陷入进退两难的境地？",
-          "url": "https://www.zhihu.com/question/2030255513384870069",
-          "source": "知乎",
-          "ranks": [
-            14,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时26分 ~ 17时23分]"
-        },
-        {
           "title": "泽连斯基：在伊朗战事结束前俄乌和谈难有进展",
           "url": "https://wallstreetcn.com/livenews/3092780",
           "source": "华尔街见闻-快讯",
@@ -336,6 +350,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时30分 ~ 17时23分]"
+        },
+        {
+          "title": "伊朗称已收到首笔霍尔木兹通行费",
+          "url": "https://www.toutiao.com/trending/7631866696617168422/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 19时04分]"
         },
         {
           "title": "伊朗总统：伊朗欢迎对话与协议，并将继续这样做。（但）违反承诺、封锁和威胁是进行真正谈判的主要障碍。",
@@ -386,15 +411,15 @@
           "time_info": "[02时21分 ~ 03时13分]"
         },
         {
-          "title": "伊朗称已收到首笔霍尔木兹通行费",
-          "url": "https://www.toutiao.com/trending/7631866696617168422/",
-          "source": "今日头条",
+          "title": "伊朗马汉航空：将恢复往返中国航线",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%A9%AC%E6%B1%89%E8%88%AA%E7%A9%BA%EF%BC%9A%E5%B0%86%E6%81%A2%E5%A4%8D%E5%BE%80%E8%BF%94%E4%B8%AD%E5%9B%BD%E8%88%AA%E7%BA%BF",
+          "source": "百度热搜",
           "ranks": [
-            6
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 19时04分]"
         },
         {
           "title": "伊朗安全部队在边境开火",
@@ -436,9 +461,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
+        },
+        {
+          "title": "印度外交部发言人：印度正与伊朗进行谈判，以确保（印度）船只安全通行。",
+          "url": "https://flash.jin10.com/detail/20260423185556784800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
         },
         {
           "title": "家乐福首席财务官：在伊朗战争开始后，我们没有看到消费者行为发生显著变化我们预计今年法国食品通胀仅会略有上升。",
@@ -450,6 +486,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "伊朗副议长：收到首笔霍尔木兹海峡通行费",
+          "url": "https://news.ifeng.com/c/8sYp0IzffDB",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
         },
         {
           "title": "还有15天！伊朗石油业将被迫减产，随后全面停产",
@@ -494,6 +541,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
+        },
+        {
+          "title": "伊朗革命卫队扣押集装箱船画面曝光",
+          "url": "https://www.toutiao.com/trending/7631880274972003878/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
         },
         {
           "title": "白宫：伊朗空军在实战与作战层面已基本丧失作用",
@@ -560,17 +618,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
-        },
-        {
-          "title": "伊朗马汉航空：将恢复往返中国航线",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%A9%AC%E6%B1%89%E8%88%AA%E7%A9%BA%EF%BC%9A%E5%B0%86%E6%81%A2%E5%A4%8D%E5%BE%80%E8%BF%94%E4%B8%AD%E5%9B%BD%E8%88%AA%E7%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时23分"
         },
         {
           "title": "伊朗对巴方有关延长停火的请求作出回应",
@@ -735,8 +782,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时12分 ~ 17时23分]"
+          "appearance_count": 13,
+          "time_info": "[03时12分 ~ 19时04分]"
         },
         {
           "title": "最后时刻反转！伊朗拒绝谈判，特朗普宣布延长停火，维持海上封锁等待伊朗提交方案",
@@ -773,8 +820,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时26分 ~ 17时23分]"
+          "appearance_count": 5,
+          "time_info": "[13时26分 ~ 19时04分]"
         },
         {
           "title": "伊朗：特朗普又说谎了",
@@ -786,8 +833,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时08分 ~ 17时23分]"
+          "appearance_count": 6,
+          "time_info": "[10时08分 ~ 19时04分]"
+        },
+        {
+          "title": "伊朗战争丨限制特朗普战争权力议案第5次遭否决",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时30分 ~ 19时04分]"
         },
         {
           "title": "伊朗战争丨伊朗否认举行美伊新谈判：特朗普又说谎了",
@@ -810,17 +868,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时49分 ~ 05时46分]"
-        },
-        {
-          "title": "伊朗战争丨限制特朗普战争权力议案第5次遭否决",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时30分 ~ 17时23分]"
         },
         {
           "title": "美媒：特朗普再给伊朗3至5天停火时间",
@@ -956,8 +1003,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时26分 ~ 17时23分]"
+          "appearance_count": 5,
+          "time_info": "[13时26分 ~ 19时04分]"
         },
         {
           "title": "白宫顾问哈塞特声称：非常相信美国参议院将针对美联储主席提名人沃什做正确的事（投票确认他的提名资格）。 总统特朗普希望沃什很快就能前往美联储就职。",
@@ -990,11 +1037,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时30分 ~ 17时23分]"
+          "appearance_count": 4,
+          "time_info": "[15时30分 ~ 19时04分]"
         },
         {
           "title": "美国总统特朗普：参议院共和党领袖图恩和参议员格雷厄姆已迈出关键第一步，推动通过另一项“和解法案”，该法案旨在为我们的伟大边境巡逻队和移民及海关执法局人员提供资金。",
@@ -1043,6 +1091,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时43分 ~ 07时42分]"
+        },
+        {
+          "title": "英媒：特朗普特使要求国际足联用意大利替换伊朗参加世界杯",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33033905",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 19时04分]"
         },
         {
           "title": "美国参议院Graham：今天与总统特朗普和战争部长海格塞斯讨论了伊朗问题。",
@@ -1155,17 +1215,6 @@
           "time_info": "07时42分"
         },
         {
-          "title": "英媒：特朗普特使要求国际足联用意大利替换伊朗参加世界杯",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33033905",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时23分"
-        },
-        {
           "title": "乌克兰总统泽连斯基：我认为特朗普、莫迪以及其他领导人必须告诉普京他必须停止这场战争。我们必须共同阻止普京。",
           "url": "https://flash.jin10.com/detail/20260423143711873800",
           "source": "金十数据",
@@ -1235,7 +1284,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "伊朗停火谈判生变，美股收跌，芯片股指十五连涨，油价再涨，金银下挫",
@@ -1396,6 +1445,17 @@
           "time_info": "07时42分"
         },
         {
+          "title": "超微电脑美股盘前跌超12%。",
+          "url": "https://wallstreetcn.com/livenews/3093257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
+        },
+        {
           "title": "特斯拉(TSLA.O)美股盘后涨幅被抹平，此前一度涨超4.5%。",
           "url": "https://flash.jin10.com/detail/20260423060230487800",
           "source": "金十数据",
@@ -1413,9 +1473,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
+        },
+        {
+          "title": "洛克希德马丁一季度净销售额180.2亿美元，预估182.4亿美元。 第一季度每股收益为6.44 美元，而去年同期为7.28 美元。 第一季度运营利润20.6亿美元，预估22.6亿美元。 洛克希德马丁仍预计全年每股收益29.35至30.25美元，市场预估29.82美元。 洛克希德马丁仍预计全年净销售额775亿至800亿美元，市场预估790.9亿美元。 洛克希德马丁仍预计全年自由现金流为65亿至68亿美元，市场预估66.7亿美元。 洛克希德马丁仍预计全年业务运营利润为84.3亿至86.8亿美元。 洛克希德马丁美股盘前跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3093251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
         },
         {
           "title": "周三（4月22日），美股存储芯片与硬件供应链指数涨4.27%，报144.77点，创收盘历史新高。 信息科技指数涨2.79%，报333.55点，创收盘历史新高。 人工智能（AI）赢家指数涨3.38%，报351.50点。 AI软件先驱指数涨2.64%，报102.66点。",
@@ -1529,7 +1600,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
         },
