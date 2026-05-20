@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T18:55:26.153185+08:00",
-  "total_titles_processed": 1179,
+  "generated_at": "2026-05-20T21:41:35.994444+08:00",
+  "total_titles_processed": 1343,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 39,
       "titles": [
         {
           "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
@@ -32,6 +32,17 @@
           "time_info": "[02时01分 ~ 15时40分]"
         },
         {
+          "title": "特朗普现身白宫宴会厅施工现场，称这是献给国家的礼物",
+          "url": "https://news.ifeng.com/c/8tHSbfpek1w",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 21时41分]"
+        },
+        {
           "title": "为啥特朗普抛涉台“四不”说法？鲁比奥用大白话解释了",
           "url": "https://news.ifeng.com/c/8tG27n1FK2V",
           "source": "凤凰网",
@@ -53,6 +64,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时55分 ~ 15时40分]"
+        },
+        {
+          "title": "港大学者李成：我觉得特朗普对台军售政策会调整",
+          "url": "https://news.ifeng.com/c/8tHoD8gEXdY",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "万斯为特朗普超长交易清单辩护",
@@ -79,17 +101,6 @@
           "time_info": "[02时01分 ~ 07时59分]"
         },
         {
-          "title": "特朗普现身白宫宴会厅施工现场，称这是献给国家的礼物",
-          "url": "https://news.ifeng.com/c/8tHSbfpek1w",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
           "title": "美国参议院推进迫使特朗普从伊朗撤军的法案 共和党议员倒戈",
           "url": "https://flash.jin10.com/detail/20260520060344604800",
           "source": "金十数据",
@@ -99,6 +110,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "美国总统特朗普：对白宫舞厅融资不感到担忧。",
+          "url": "https://flash.jin10.com/detail/20260520213616703800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "美国总统特朗普：呼吁国会山出台铁路安全法案（立法草案）。",
@@ -134,6 +156,17 @@
           "time_info": "07时59分"
         },
         {
+          "title": "美国总统特朗普：预计帕克斯顿将在得州获胜。",
+          "url": "https://flash.jin10.com/detail/20260520213542238800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
           "title": "特朗普将出席在法国举行的G7峰会。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3106301",
           "source": "华尔街见闻-快讯",
@@ -143,6 +176,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
+        },
+        {
+          "title": "美国总统特朗普：昨天的经济数据非常出色。",
+          "url": "https://flash.jin10.com/detail/20260520213513860800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "白宫：美国总统特朗普今天签署关于银行业的命令。",
@@ -224,6 +268,17 @@
           "time_info": "07时59分"
         },
         {
+          "title": "郑丽文：特朗普叫台湾不要再讲“台独”，民进党还装听不懂",
+          "url": "https://news.ifeng.com/c/8tHcSaikz2t",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
           "title": "美国总统特朗普：（关于伊朗）他们不会拥有核武器。",
           "url": "https://flash.jin10.com/detail/20260520073551470800",
           "source": "金十数据",
@@ -246,6 +301,28 @@
           "time_info": "07时59分"
         },
         {
+          "title": "伊朗议会议长卡利巴夫：美国公众舆论和经济混乱状态，让美国总统特朗普犹豫不决。",
+          "url": "https://flash.jin10.com/detail/20260520213157509800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：汽油价格、债券市场、银行利率、影响美国民众主要生活成本的通货膨胀率等状况，已在美国国内引发民众抗议，就连特朗普的许多支持者也认为美国对伊朗的战争是以色列的战争，违背了特朗普的竞选承诺。",
+          "url": "https://flash.jin10.com/detail/20260520213137020800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
           "title": "据AXIOS：尽管与盟友关系紧张，美国总统特朗普将出席法国G7峰会。",
           "url": "https://flash.jin10.com/detail/20260520072931078800",
           "source": "金十数据",
@@ -263,7 +340,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -288,6 +365,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "贝佐斯：特朗普比第一任期更成熟、更自律。 我仍然会打电话给奥巴马征求意见。 在太空建立数据中心“非常现实”。 地面数据中心的能源预算将会增加。 发射成本需要降低十倍。 人工智能将导致劳动力短缺。 亚马逊没有因为人工智能而裁员。 我在亚马逊、蓝色起源以及普罗米修斯公司的工作经历，都与人工智能相关。 太空产业将会成为一个“庞大规模”的产业。",
+          "url": "https://wallstreetcn.com/livenews/3106732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "三个月3700多笔交易，特朗普一边骂议员炒股，一边自己狂买？万斯这样回应",
@@ -358,8 +446,393 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 34,
+      "titles": [
+        {
+          "title": "伊媒：伊朗格什姆岛传出爆炸声",
+          "url": "https://news.ifeng.com/c/8tG6zVYeyxe",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时01分 ~ 11时55分]"
+        },
+        {
+          "title": "秘密袭击伊朗，野心与压力碰撞下阿联酋正将海湾变成前线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33197672",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时01分 ~ 11时55分]"
+        },
+        {
+          "title": "释新闻｜伊朗威胁对霍尔木兹海峡海底电缆收费，可行性有多大？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33197944",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时01分 ~ 11时55分]"
+        },
+        {
+          "title": "以媒：内塔尼亚胡连续两晚开会，为重启对伊朗战事做准备",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33197057",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时01分 ~ 07时59分]"
+        },
+        {
+          "title": "欧洲央行管委Kocher：如果伊朗战争没有改善，预计央行将在6月加息。",
+          "url": "https://wallstreetcn.com/livenews/3106242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫表示，部队在停火期间重建了作战能力。",
+          "url": "https://wallstreetcn.com/livenews/3106760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "欧洲地中海地震中心：伊朗南部地区发生5级地震。",
+          "url": "https://flash.jin10.com/detail/20260520074718230800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "伊朗最高领袖穆杰塔巴·哈梅内伊：伊朗人民的热情激励使得官员的责任更加沉重。",
+          "url": "https://flash.jin10.com/detail/20260520184541548800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
+          "title": "美国国务院：美国国务卿鲁比奥与联合国秘书长古特雷斯周二就美国阻止伊朗在霍尔木兹海峡布雷和收取过境费的努力进行了交谈。",
+          "url": "https://flash.jin10.com/detail/20260520011234322800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "印尼央行行长：通胀保持在低位，必须应对全球动态的影响。原油价格的上涨与伊朗战争有关，可能会影响国内通胀。",
+          "url": "https://flash.jin10.com/detail/20260520151330905800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
+          "title": "伊朗在德黑兰逮捕一名与摩萨德有关联人员",
+          "url": "https://wallstreetcn.com/livenews/3106672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
+          "title": "伊朗称有权对霍尔木兹海峡海底光缆收管理费，光缆每天承载超 10 万亿美元的全球金融数据，此举影响力有多大？",
+          "url": "https://www.zhihu.com/question/2040001269360767857",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时40分 ~ 21时41分]"
+        },
+        {
+          "title": "伊朗外交部：外长阿拉格齐是否参加5月26日安理会会议尚未最终决定。",
+          "url": "https://flash.jin10.com/detail/20260520184245082800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：伊朗军队已具备令敌人震惊的准备状态，必将让任何对伊朗的再次侵犯追悔莫及。",
+          "url": "https://flash.jin10.com/detail/20260520213439489800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "巴基斯坦内政部长再次访问伊朗",
+          "url": "https://wallstreetcn.com/livenews/3106666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：美国仍然对伊朗民族的投降抱有希望，并错误地认为，他们可以通过持续封锁、经济施压，同时加大军事战场压力、发动新一轮攻击，来迫使伊朗在外交战线上满足他们的过分要求。",
+          "url": "https://flash.jin10.com/detail/20260520213250574800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "伊朗：美国关于伊朗学校位于巡航导弹基地内的说法毫无根据。",
+          "url": "https://wallstreetcn.com/livenews/3106260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "美以袭击伊朗进入第 82 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2040200472615543846",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "伊朗方面表示，美国关于其击中的伊朗学校位于巡航导弹基地内的说法毫无根据。",
+          "url": "https://flash.jin10.com/detail/20260520051106036800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "伊朗最高领袖说伊朗人民正在进行“历史性抵抗”",
+          "url": "https://wallstreetcn.com/livenews/3106745",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "伊朗最高领袖穆杰塔巴·哈梅内伊：我们创造了伊朗民族在面对两个全球恐怖主义军队时所展现的抵抗史诗。",
+          "url": "https://flash.jin10.com/detail/20260520183259805800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：伊朗与美国正处于一场“意志之战”。",
+          "url": "https://flash.jin10.com/detail/20260520213115496800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "美国公布新一轮对伊朗制裁名单",
+          "url": "https://wallstreetcn.com/livenews/3106175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "美联储保尔森：如果伊朗冲突持续，将进一步增加通胀和失业的风险。",
+          "url": "https://flash.jin10.com/detail/20260520072823535800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "巴基斯坦内政部长将前往伊朗举行会谈。（伊朗媒体IRNA）",
+          "url": "https://wallstreetcn.com/livenews/3106649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
+          "title": "美方称推迟对伊朗军事打击",
+          "url": "https://www.toutiao.com/trending/7640781380679385124/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：敌人明里暗里的举动表明他们正在寻求新一轮战争，人民可以放心，我们的武装力量已充分利用停火机会，以最佳方式重建了自身能力。",
+          "url": "https://flash.jin10.com/detail/20260520212747036800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "欧洲央行官员Wunsch：如果伊朗冲突不结束 6月央行加息的可能性很大",
+          "url": "https://wallstreetcn.com/livenews/3106663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
+          "title": "伊朗：过去24小时有26艘船只通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3106729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "伊朗外长：伊朗外交官可守发射架 军人可上谈判桌",
+          "url": "https://flash.jin10.com/detail/20260520212700741800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "现货黄金短线走低，现报4494美元/盎司。伊朗议会议长卡利巴夫表示，美国将再次陷入一场没有胜算的无尽战争。",
+          "url": "https://flash.jin10.com/detail/20260520212540840800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "欧洲央行管委Kocher：如果伊朗战争局势没有改善，6月可能不得不加息",
+          "url": "https://wallstreetcn.com/livenews/3106242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "伊朗副外长：将坚决应对任何形式的军事侵略",
+          "url": "https://wallstreetcn.com/livenews/3106161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "美国参议院的程序性投票显示对伊朗战争的反对声音增强",
+          "url": "https://wallstreetcn.com/livenews/3106272",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
@@ -371,8 +844,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时59分 ~ 18时55分]"
+          "appearance_count": 5,
+          "time_info": "[07时59分 ~ 21时41分]"
         },
         {
           "title": "谷歌年度开发者大会揭幕 半导体板块不振美股持续调整 | 今夜看点",
@@ -507,6 +980,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
+        },
+        {
+          "title": "对谈谷歌开发者社区核心成员",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AF%B9%E8%B0%88%E8%B0%B7%E6%AD%8C%E5%BC%80%E5%8F%91%E8%80%85%E7%A4%BE%E5%8C%BA%E6%A0%B8%E5%BF%83%E6%88%90%E5%91%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "Token消耗一年暴增7倍！谷歌步入Agent驱动时代 带来什么启示？",
@@ -665,294 +1149,8 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 25,
-      "titles": [
-        {
-          "title": "伊媒：伊朗格什姆岛传出爆炸声",
-          "url": "https://news.ifeng.com/c/8tG6zVYeyxe",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时01分 ~ 11时55分]"
-        },
-        {
-          "title": "秘密袭击伊朗，野心与压力碰撞下阿联酋正将海湾变成前线",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33197672",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            12,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时01分 ~ 11时55分]"
-        },
-        {
-          "title": "释新闻｜伊朗威胁对霍尔木兹海峡海底电缆收费，可行性有多大？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33197944",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时01分 ~ 11时55分]"
-        },
-        {
-          "title": "以媒：内塔尼亚胡连续两晚开会，为重启对伊朗战事做准备",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33197057",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时01分 ~ 07时59分]"
-        },
-        {
-          "title": "欧洲央行管委Kocher：如果伊朗战争没有改善，预计央行将在6月加息。",
-          "url": "https://wallstreetcn.com/livenews/3106242",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
-          "title": "欧洲地中海地震中心：伊朗南部地区发生5级地震。",
-          "url": "https://flash.jin10.com/detail/20260520074718230800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "伊朗最高领袖穆杰塔巴·哈梅内伊：伊朗人民的热情激励使得官员的责任更加沉重。",
-          "url": "https://flash.jin10.com/detail/20260520184541548800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
-          "title": "美国国务院：美国国务卿鲁比奥与联合国秘书长古特雷斯周二就美国阻止伊朗在霍尔木兹海峡布雷和收取过境费的努力进行了交谈。",
-          "url": "https://flash.jin10.com/detail/20260520011234322800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "印尼央行行长：通胀保持在低位，必须应对全球动态的影响。原油价格的上涨与伊朗战争有关，可能会影响国内通胀。",
-          "url": "https://flash.jin10.com/detail/20260520151330905800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时40分"
-        },
-        {
-          "title": "伊朗在德黑兰逮捕一名与摩萨德有关联人员",
-          "url": "https://wallstreetcn.com/livenews/3106672",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
-          "title": "伊朗称有权对霍尔木兹海峡海底光缆收管理费，光缆每天承载超 10 万亿美元的全球金融数据，此举影响力有多大？",
-          "url": "https://www.zhihu.com/question/2040001269360767857",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时40分 ~ 18时55分]"
-        },
-        {
-          "title": "伊朗外交部：外长阿拉格齐是否参加5月26日安理会会议尚未最终决定。",
-          "url": "https://flash.jin10.com/detail/20260520184245082800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
-          "title": "巴基斯坦内政部长再次访问伊朗",
-          "url": "https://wallstreetcn.com/livenews/3106666",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
-          "title": "伊朗：美国关于伊朗学校位于巡航导弹基地内的说法毫无根据。",
-          "url": "https://wallstreetcn.com/livenews/3106260",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "美以袭击伊朗进入第 82 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2040200472615543846",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时55分"
-        },
-        {
-          "title": "伊朗方面表示，美国关于其击中的伊朗学校位于巡航导弹基地内的说法毫无根据。",
-          "url": "https://flash.jin10.com/detail/20260520051106036800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "伊朗最高领袖穆杰塔巴·哈梅内伊：我们创造了伊朗民族在面对两个全球恐怖主义军队时所展现的抵抗史诗。",
-          "url": "https://flash.jin10.com/detail/20260520183259805800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
-          "title": "美国公布新一轮对伊朗制裁名单",
-          "url": "https://wallstreetcn.com/livenews/3106175",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "美联储保尔森：如果伊朗冲突持续，将进一步增加通胀和失业的风险。",
-          "url": "https://flash.jin10.com/detail/20260520072823535800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "巴基斯坦内政部长将前往伊朗举行会谈。（伊朗媒体IRNA）",
-          "url": "https://wallstreetcn.com/livenews/3106649",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
-          "title": "美方称推迟对伊朗军事打击",
-          "url": "https://www.toutiao.com/trending/7640781380679385124/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时55分"
-        },
-        {
-          "title": "欧洲央行官员Wunsch：如果伊朗冲突不结束 6月央行加息的可能性很大",
-          "url": "https://wallstreetcn.com/livenews/3106663",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
-          "title": "欧洲央行管委Kocher：如果伊朗战争局势没有改善，6月可能不得不加息",
-          "url": "https://wallstreetcn.com/livenews/3106242",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "伊朗副外长：将坚决应对任何形式的军事侵略",
-          "url": "https://wallstreetcn.com/livenews/3106161",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "美国参议院的程序性投票显示对伊朗战争的反对声音增强",
-          "url": "https://wallstreetcn.com/livenews/3106272",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
@@ -1033,9 +1231,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
+        },
+        {
+          "title": "美股盘初：纳指涨0.5%，费城半导体指数涨2.2%",
+          "url": "https://wallstreetcn.com/livenews/3106758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "周二（5月19日），彭博电动汽车价格回报指数跌1.94%，报3843.70点。 北京时间09:45开始一波加速下跌的行情，美股开盘再次加速下跌。",
@@ -1061,6 +1270,18 @@
           "time_info": "[02时01分 ~ 06时12分]"
         },
         {
+          "title": "美股芯片股已严重超买！美银警告：历史7次类似信号后平均暴跌44%",
+          "url": "https://wallstreetcn.com/articles/3772678",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 21时41分]"
+        },
+        {
           "title": "美股费城半导体指数七日跌幅一度逼近10%，抄底资金开始入场",
           "url": "https://wallstreetcn.com/articles/3772667",
           "source": "华尔街见闻",
@@ -1084,15 +1305,26 @@
           "time_info": "[02时01分 ~ 02时02分]"
         },
         {
-          "title": "美股芯片股已严重超买！美银警告：历史7次类似信号后平均暴跌44%",
-          "url": "https://wallstreetcn.com/articles/3772678",
+          "title": "段永平最新美股持仓曝光！豪掷12亿美元重仓特斯拉，大举加仓英伟达、拼多多",
+          "url": "https://wallstreetcn.com/articles/3772698",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时55分"
+          "time_info": "21时41分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3106748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "AMC院线美股盘后涨6%，该公司CEO买入股票。",
@@ -1104,6 +1336,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "美股开盘，道指开涨0.31%，标普500指数涨0.29%，纳指涨0.49%。科技股反弹，美光科技(MU.O)涨4.6%，英特尔(INTC.O)涨6.4%，高通(QCOM.O)涨1.7%，英伟达(NVDA.O)涨0.6%。",
+          "url": "https://flash.jin10.com/detail/20260520213024404800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "美股三大指数收跌 光通信逆势走强",
@@ -1178,6 +1421,18 @@
           "time_info": "[06时11分 ~ 06时12分]"
         },
         {
+          "title": "美债风暴只是表象？一文读懂：真正能冲击AI牛的是流动性！",
+          "url": "https://www.cls.cn/detail/2376546",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 21时41分]"
+        },
+        {
           "title": "通胀担忧高企，美债收益率飙升至多年高位，标普纳指三连跌，黄金一度跌超2%",
           "url": "https://wallstreetcn.com/articles/3772605",
           "source": "华尔街见闻",
@@ -1189,27 +1444,17 @@
           "time_info": "07时59分"
         },
         {
-          "title": "美债风暴只是表象？一文读懂：真正能冲击AI牛的是流动性！",
-          "url": "https://www.cls.cn/detail/2376546",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
           "title": "美债上演“投降式大抛售”，高利率阴霾笼罩股市",
           "url": "https://wallstreetcn.com/articles/3772671",
           "source": "华尔街见闻",
           "ranks": [
             9,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时55分 ~ 18时55分]"
+          "appearance_count": 4,
+          "time_info": "[11时55分 ~ 21时41分]"
         },
         {
           "title": "美债收益率引爆新压力，沃什还没上任就被“围剿”？特朗普改口留后路",
