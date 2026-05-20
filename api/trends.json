@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T15:40:35.633403+08:00",
-  "total_titles_processed": 980,
+  "generated_at": "2026-05-20T18:55:26.153185+08:00",
+  "total_titles_processed": 1179,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
@@ -77,6 +77,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时01分 ~ 07时59分]"
+        },
+        {
+          "title": "特朗普现身白宫宴会厅施工现场，称这是献给国家的礼物",
+          "url": "https://news.ifeng.com/c/8tHSbfpek1w",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         },
         {
           "title": "美国参议院推进迫使特朗普从伊朗撤军的法案 共和党议员倒戈",
@@ -246,6 +257,17 @@
           "time_info": "07时59分"
         },
         {
+          "title": "特朗普说希望「非常迅速」地结束伊朗战事，伊朗不会有核武器，美国中期选举趋近，局势真如他说的这样乐观吗？",
+          "url": "https://www.zhihu.com/question/2040363774234846058",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
           "title": "对标“特朗普金卡”？英国考虑推出“邀请制”投资签证，最低门槛500万英镑",
           "url": "https://wallstreetcn.com/livenews/3106172",
           "source": "华尔街见闻-快讯",
@@ -329,7 +351,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         }
@@ -349,8 +371,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时59分 ~ 15时40分]"
+          "appearance_count": 4,
+          "time_info": "[07时59分 ~ 18时55分]"
         },
         {
           "title": "谷歌年度开发者大会揭幕 半导体板块不振美股持续调整 | 今夜看点",
@@ -493,7 +515,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
@@ -644,7 +666,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 25,
       "titles": [
         {
           "title": "伊媒：伊朗格什姆岛传出爆炸声",
@@ -718,6 +740,17 @@
           "time_info": "07时59分"
         },
         {
+          "title": "伊朗最高领袖穆杰塔巴·哈梅内伊：伊朗人民的热情激励使得官员的责任更加沉重。",
+          "url": "https://flash.jin10.com/detail/20260520184541548800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
           "title": "美国国务院：美国国务卿鲁比奥与联合国秘书长古特雷斯周二就美国阻止伊朗在霍尔木兹海峡布雷和收取过境费的努力进行了交谈。",
           "url": "https://flash.jin10.com/detail/20260520011234322800",
           "source": "金十数据",
@@ -735,9 +768,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
+        },
+        {
+          "title": "伊朗在德黑兰逮捕一名与摩萨德有关联人员",
+          "url": "https://wallstreetcn.com/livenews/3106672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         },
         {
           "title": "伊朗称有权对霍尔木兹海峡海底光缆收管理费，光缆每天承载超 10 万亿美元的全球金融数据，此举影响力有多大？",
@@ -746,9 +790,31 @@
           "ranks": [
             6
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时40分 ~ 18时55分]"
+        },
+        {
+          "title": "伊朗外交部：外长阿拉格齐是否参加5月26日安理会会议尚未最终决定。",
+          "url": "https://flash.jin10.com/detail/20260520184245082800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时40分"
+          "time_info": "18时55分"
+        },
+        {
+          "title": "巴基斯坦内政部长再次访问伊朗",
+          "url": "https://wallstreetcn.com/livenews/3106666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         },
         {
           "title": "伊朗：美国关于伊朗学校位于巡航导弹基地内的说法毫无根据。",
@@ -784,6 +850,17 @@
           "time_info": "06时12分"
         },
         {
+          "title": "伊朗最高领袖穆杰塔巴·哈梅内伊：我们创造了伊朗民族在面对两个全球恐怖主义军队时所展现的抵抗史诗。",
+          "url": "https://flash.jin10.com/detail/20260520183259805800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
           "title": "美国公布新一轮对伊朗制裁名单",
           "url": "https://wallstreetcn.com/livenews/3106175",
           "source": "华尔街见闻-快讯",
@@ -806,6 +883,17 @@
           "time_info": "07时59分"
         },
         {
+          "title": "巴基斯坦内政部长将前往伊朗举行会谈。（伊朗媒体IRNA）",
+          "url": "https://wallstreetcn.com/livenews/3106649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
           "title": "美方称推迟对伊朗军事打击",
           "url": "https://www.toutiao.com/trending/7640781380679385124/",
           "source": "今日头条",
@@ -815,6 +903,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
+        },
+        {
+          "title": "欧洲央行官员Wunsch：如果伊朗冲突不结束 6月央行加息的可能性很大",
+          "url": "https://wallstreetcn.com/livenews/3106663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         },
         {
           "title": "欧洲央行管委Kocher：如果伊朗战争局势没有改善，6月可能不得不加息",
@@ -853,7 +952,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
@@ -928,6 +1027,17 @@
           "time_info": "06时12分"
         },
         {
+          "title": "孩之宝第二财季调整后每股收益1.47美元，预期为1.25美元。 第二财季调整后息税折旧摊销前利润为3.394亿美元，预期为3.139亿美元。 孩之宝仍预计全年调整后息税折旧摊销前利润为14.0亿至14.5亿美元，市场预期为14.4亿美元。 孩之宝美股盘前微跌。",
+          "url": "https://wallstreetcn.com/livenews/3106677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
           "title": "周二（5月19日），彭博电动汽车价格回报指数跌1.94%，报3843.70点。 北京时间09:45开始一波加速下跌的行情，美股开盘再次加速下跌。",
           "url": "https://wallstreetcn.com/livenews/3106240",
           "source": "华尔街见闻-快讯",
@@ -951,6 +1061,18 @@
           "time_info": "[02时01分 ~ 06时12分]"
         },
         {
+          "title": "美股费城半导体指数七日跌幅一度逼近10%，抄底资金开始入场",
+          "url": "https://wallstreetcn.com/articles/3772667",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时55分 ~ 18时55分]"
+        },
+        {
           "title": "美股开盘：西部数据、闪迪跌超3%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E8%A5%BF%E9%83%A8%E6%95%B0%E6%8D%AE%E3%80%81%E9%97%AA%E8%BF%AA%E8%B7%8C%E8%B6%853%25",
           "source": "百度热搜",
@@ -962,15 +1084,15 @@
           "time_info": "[02时01分 ~ 02时02分]"
         },
         {
-          "title": "美股费城半导体指数七日跌幅一度逼近10%，抄底资金开始入场",
-          "url": "https://wallstreetcn.com/articles/3772667",
+          "title": "美股芯片股已严重超买！美银警告：历史7次类似信号后平均暴跌44%",
+          "url": "https://wallstreetcn.com/articles/3772678",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时55分"
+          "time_info": "18时55分"
         },
         {
           "title": "AMC院线美股盘后涨6%，该公司CEO买入股票。",
@@ -1031,7 +1153,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "通胀担忧高企，美债收益率持续攀升，美股存储概念股转涨，现货黄金日内跌2%",
@@ -1067,6 +1189,17 @@
           "time_info": "07时59分"
         },
         {
+          "title": "美债风暴只是表象？一文读懂：真正能冲击AI牛的是流动性！",
+          "url": "https://www.cls.cn/detail/2376546",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
           "title": "美债上演“投降式大抛售”，高利率阴霾笼罩股市",
           "url": "https://wallstreetcn.com/articles/3772671",
           "source": "华尔街见闻",
@@ -1075,8 +1208,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时55分 ~ 15时40分]"
+          "appearance_count": 3,
+          "time_info": "[11时55分 ~ 18时55分]"
         },
         {
           "title": "美债收益率引爆新压力，沃什还没上任就被“围剿”？特朗普改口留后路",
@@ -1107,7 +1240,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
@@ -1118,7 +1251,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
@@ -1207,7 +1340,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
@@ -1287,7 +1420,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         }
