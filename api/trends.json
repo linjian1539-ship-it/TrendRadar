@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T19:42:01.611692+08:00",
-  "total_titles_processed": 1189,
+  "generated_at": "2026-05-22T22:28:56.664028+08:00",
+  "total_titles_processed": 1367,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "特朗普称将与赖清德谈对台军售，外交部：敦促美方兑现所作承诺和表态",
@@ -67,6 +67,17 @@
           "time_info": "[01时29分 ~ 16时22分]"
         },
         {
+          "title": "特朗普声称要与赖清德通话，美媒分析后果",
+          "url": "https://news.ifeng.com/c/8tKs2cfjitj",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时41分 ~ 22时28分]"
+        },
+        {
           "title": "中方回应特朗普称将与赖清德谈军售",
           "url": "https://www.toutiao.com/trending/7642244493529321014/",
           "source": "今日头条",
@@ -78,17 +89,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时29分 ~ 08时09分]"
-        },
-        {
-          "title": "特朗普声称要与赖清德通话，美媒分析后果",
-          "url": "https://news.ifeng.com/c/8tKs2cfjitj",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时41分 ~ 19时42分]"
         },
         {
           "title": "美国驻丹麦大使：特朗普已排除对格陵兰岛使用武力",
@@ -386,6 +386,17 @@
           "time_info": "01时29分"
         },
         {
+          "title": "俄方称，普京与特朗普有可能 11 月在中国见面，美俄关系是否有望迎来转机？中国在这其中会扮演怎样的角色？",
+          "url": "https://www.zhihu.com/question/2040769816697558038",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "消息人士称，美国国土安全部部长马林警告航空公司高管，特朗普政府可能暂停部分“庇护城市”机场的国际旅行处理服务。",
           "url": "https://flash.jin10.com/detail/20260522053538980800",
           "source": "金十数据",
@@ -441,6 +452,17 @@
           "time_info": "16时22分"
         },
         {
+          "title": "美国驻丹麦大使：特朗普已排除对格陵兰岛使用武力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33206550",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "IBM涨幅扩大至10%，该公司获得特朗普政府的资金支持。",
           "url": "https://wallstreetcn.com/livenews/3107584",
           "source": "华尔街见闻-快讯",
@@ -491,7 +513,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -579,7 +601,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         }
@@ -587,7 +609,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 37,
       "titles": [
         {
           "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
@@ -618,6 +640,18 @@
           "time_info": "[03时48分 ~ 16时22分]"
         },
         {
+          "title": "鲁比奥：伊朗问题确实有一些进展",
+          "url": "https://news.ifeng.com/c/8tKwzchzUFC",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时41分 ~ 22时28分]"
+        },
+        {
           "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌",
           "url": "https://wallstreetcn.com/articles/3772777",
           "source": "华尔街见闻",
@@ -627,17 +661,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时59分 ~ 07时01分]"
-        },
-        {
-          "title": "鲁比奥：伊朗问题确实有一些进展",
-          "url": "https://news.ifeng.com/c/8tKwzchzUFC",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时41分 ~ 19时42分]"
         },
         {
           "title": "伊朗最高领袖：接近武器级的铀得留下",
@@ -650,6 +673,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时29分 ~ 08时09分]"
+        },
+        {
+          "title": "伊朗“最大内鬼”，原来是他？",
+          "url": "https://news.ifeng.com/c/8tLCbdpnraF",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "伊朗：美方谈判文本在一定程度上“缩小了分歧”，伊方“正在回应”",
@@ -693,7 +727,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -715,7 +749,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -737,7 +771,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -770,9 +804,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
+        },
+        {
+          "title": "伊朗称正在争取合法权利 而非索取额外权利",
+          "url": "https://wallstreetcn.com/livenews/3108102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "俄罗斯外长拉夫罗夫：近日我定期与伊朗官员以及包括阿联酋、沙特阿拉伯、卡塔尔、阿曼在内的伊朗邻国代表，以及其他一些国家的代表保持联系。",
@@ -781,7 +826,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -792,7 +837,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -847,9 +892,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
+        },
+        {
+          "title": "美国国务卿卢比奥：在伊朗问题上取得了一些进展，但我们尚未达成目标。",
+          "url": "https://wallstreetcn.com/livenews/3108091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "伊朗革命卫队称过去24小时有35艘船通过霍尔木兹海峡",
@@ -858,9 +914,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
+        },
+        {
+          "title": "伊朗任命伊美谈判代表团发言人",
+          "url": "https://wallstreetcn.com/livenews/3108090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "据路透援引伊朗高级消息人士称，伊朗的铀浓缩问题及其对霍尔木兹海峡的控制仍然是僵局的关键点。",
@@ -896,6 +963,17 @@
           "time_info": "05时24分"
         },
         {
+          "title": "美联储理事沃勒：近期不应期待政策利率的变化，结果将严重依赖于伊朗冲突的持续时间。通胀面临变得更加持久的风险，价格压力正在加大。",
+          "url": "https://flash.jin10.com/detail/20260522220126856800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "美军称对伊朗港口的封锁已使94艘商船改变航向",
           "url": "https://wallstreetcn.com/livenews/3107543",
           "source": "华尔街见闻-快讯",
@@ -924,7 +1002,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -935,7 +1013,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -954,7 +1032,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股收盘：三大指数齐升道指刷新高 量子概念爆发存储续走强",
@@ -1017,6 +1095,17 @@
           "time_info": "[07时01分 ~ 08时09分]"
         },
         {
+          "title": "AI浪潮提振全球股市，美股指上扬，量子计算股拉升，老虎证券、富途大跌逾30%，油价涨势暂歇",
+          "url": "https://wallstreetcn.com/articles/3772907",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "史诗级资金“抽水泵”来了：三大世纪IPO恐触发美股“大换血”？",
           "url": "https://www.cls.cn/detail/2378668",
           "source": "财联社热门",
@@ -1072,6 +1161,17 @@
           "time_info": "05时24分"
         },
         {
+          "title": "美股量子计算股拉升，Rigetti Computing涨约13%，IBM涨约3%，Quantum Computing涨约9%，D-Wave Quantum涨约9%。",
+          "url": "https://wallstreetcn.com/livenews/3108088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "美股光伏概念股普遍上涨，逆变器供应商Enphase Energy涨17.46%，SolarEdge涨14.89%，阿特斯太阳能涨7.39%，第一太阳能涨5.63%，大全新能源涨4.69%。",
           "url": "https://wallstreetcn.com/livenews/3107576",
           "source": "华尔街见闻-快讯",
@@ -1081,12 +1181,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF普涨，半导体ETF涨超1%，医疗业ETF、网络股指数ETF涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/3108084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
+          "title": "美股盘初：道指涨0.5%，老虎证券跌约31%，富途控股跌约35%",
+          "url": "https://wallstreetcn.com/livenews/3108082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
+          "title": "多头仓位飙升引担忧！高盛献策：利用这一期权策略对冲美股潜在回调风险",
+          "url": "https://wallstreetcn.com/livenews/3108087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "如何评价 OpenAI 称推翻困扰数学界近 80 年的「平面单位距离猜想」？这一结果的可信度如何？",
@@ -1110,6 +1243,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
+        },
+        {
+          "title": "一周热榜精选：沃什履新之际加息呼声渐高！SpaceX和OpenAI即将IPO",
+          "url": "https://flash.jin10.com/detail/20260522222139981800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "据The Information：OpenAI创始人奥尔特曼周三暗示，即使公司提交了IPO申请，也可能会推迟实际上市时间。",
@@ -1160,7 +1304,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "周四（5月21日）纽约尾盘，ICE美元指数涨0.15%，报99.241点，日内交投区间为99.064-99.515点，整体持续走高，北京时间15:25-18:40、01:04以来先后出现一波V形走势。 彭博美元指数涨0.10%，报1202.12点，日内交投区间为1200.67-1205.24点。 美元兑日元涨0.07%，报159.03日元，日内交投区间为158.81-159.34日元。",
@@ -1183,6 +1327,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
+        },
+        {
+          "title": "美元指数DXY短线小幅走高，美联储理事沃勒表示，美联储不应再释放降息信号。",
+          "url": "https://flash.jin10.com/detail/20260522220459582800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "美国总统特朗普声称，可能要退还总值1490亿美元的关税，会用不同的方式征收关税。 目前，标普跌0.3%，纳指跌0.4%，半导体指数涨0.1%。",
@@ -1221,19 +1376,8 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
-          "url": "https://wallstreetcn.com/articles/3772777",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时09分 ~ 19时42分]"
-        },
         {
           "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
           "url": "https://wallstreetcn.com/articles/3772708",
@@ -1245,6 +1389,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时29分 ~ 07时01分]"
+        },
+        {
+          "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
+          "url": "https://wallstreetcn.com/articles/3772777",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时09分 ~ 22时28分]"
         },
         {
           "title": "美伊核谈判僵持，油价涨4%，美股低开，量子计算股大涨，美债震荡",
@@ -1268,6 +1424,47 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时01分 ~ 08时09分]"
+        },
+        {
+          "title": "交易员充分消化美联储今年加息25个基点的预期，美债、黄金跌幅扩大",
+          "url": "https://wallstreetcn.com/livenews/3108106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何看待 DeepSeek V4 Pro 模型价格于 5 月 31 日结束 2.5 折优惠，调整为原定价的 1/4？",
+          "url": "https://www.zhihu.com/question/2041260640740927118",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
+          "title": "不小心把DeepSeek叫成豆包",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8ADeepSeek%E5%8F%AB%E6%88%90%E8%B1%86%E5%8C%85&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            24,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时29分 ~ 16时22分]"
         }
       ]
     },
@@ -1301,25 +1498,6 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "不小心把DeepSeek叫成豆包",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8ADeepSeek%E5%8F%AB%E6%88%90%E8%B1%86%E5%8C%85&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            24,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时29分 ~ 16时22分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -1328,11 +1506,12 @@
           "url": "https://news.ifeng.com/c/8tL3ZUXTPWj",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时41分 ~ 19时42分]"
+          "appearance_count": 3,
+          "time_info": "[19时41分 ~ 22时28分]"
         }
       ]
     }
