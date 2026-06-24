@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T18:19:06.338678+08:00",
-  "total_titles_processed": 1184,
+  "generated_at": "2026-06-24T21:16:29.354016+08:00",
+  "total_titles_processed": 1357,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 39,
+      "match_count": 45,
       "titles": [
         {
           "title": "为期60天，美国暂时解除对伊朗石油制裁，这是过去数十年来第一次！",
@@ -36,7 +36,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -83,9 +83,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
+        },
+        {
+          "title": "贝森特：伊朗解冻资金将采购美国产品，石油销售需重新以美元计价",
+          "url": "https://flash.jin10.com/detail/20260624211051118800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "伊朗总统佩泽希齐扬：与巴基斯坦官员举行了建设性会谈。",
@@ -116,9 +127,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
+        },
+        {
+          "title": "美媒担忧：白宫想用制裁逼伊朗让步，却把人民币“送”上桌",
+          "url": "https://news.ifeng.com/c/8uDfZ9C9pMR",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "伊朗官宣霍尔木兹海峡免费开放 60 天，60 天后通行规则由美伊谈判决定，哪些信息值得关注？",
@@ -126,11 +148,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            16
+            16,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时46分 ~ 18时19分]"
+          "appearance_count": 5,
+          "time_info": "[10时46分 ~ 21时16分]"
         },
         {
           "title": "以色列前总理承认，曾密送星链试图颠覆伊朗政权",
@@ -210,6 +233,17 @@
           "time_info": "07时05分"
         },
         {
+          "title": "伊朗议长：伊美签署谅解备忘录表明“美国战败”",
+          "url": "https://wallstreetcn.com/livenews/3124057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "据美联社：美国国土安全部发言人表示，美方放宽了对伊朗世界杯代表队的限制，允许该队在下一场比赛前两天启程前往比赛场地。",
           "url": "https://flash.jin10.com/detail/20260624023107946800",
           "source": "金十数据",
@@ -227,7 +261,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -263,6 +297,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "国际原子能机构称美伊“口水战”不会阻碍对伊朗的核核查",
+          "url": "https://wallstreetcn.com/livenews/3124046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "卡塔尔首相位于阿曼，参加伊朗与海湾国家的霍尔木兹问题会谈。（法新社）",
+          "url": "https://wallstreetcn.com/livenews/3124045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "美参议院通过涉伊朗的战争权力决议",
@@ -304,7 +360,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -326,7 +382,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -370,7 +426,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -403,7 +459,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -430,6 +486,17 @@
           "time_info": "10时46分"
         },
         {
+          "title": "布伦特原油失守75美元/桶，内跌幅达2.5%，报74.88美元/桶，为伊朗冲突爆发以来的首次。",
+          "url": "https://wallstreetcn.com/livenews/3124023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "伊朗总统访问巴基斯坦 两国重申加强双边关系与地区和平",
           "url": "https://wallstreetcn.com/livenews/3123537",
           "source": "华尔街见闻-快讯",
@@ -444,8 +511,20 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
+        {
+          "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
+          "url": "https://news.ifeng.com/c/8uDgRGX21RF",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时18分 ~ 21时16分]"
+        },
         {
           "title": "美部长拍特朗普马屁，当场被打脸",
           "url": "https://news.ifeng.com/c/8uBxMmUnV4m",
@@ -456,17 +535,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时25分 ~ 07时05分]"
-        },
-        {
-          "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
-          "url": "https://news.ifeng.com/c/8uDgRGX21RF",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时18分 ~ 18时19分]"
         },
         {
           "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
@@ -547,11 +615,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            14
+            14,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时43分 ~ 18时19分]"
+          "appearance_count": 4,
+          "time_info": "[14时43分 ~ 21时16分]"
         },
         {
           "title": "梅洛尼与特朗普突然“翻脸”后，意大利试图“降调”缓和关系",
@@ -654,6 +723,17 @@
           "time_info": "03时08分"
         },
         {
+          "title": "油价持续下跌 此前特朗普称伊朗未在海峡收取通行费",
+          "url": "https://flash.jin10.com/detail/20260624210524478800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "美国总统特朗普被问及AI对卡车司机们构成的风险，却鼓吹就业数据。",
           "url": "https://wallstreetcn.com/livenews/3123596",
           "source": "华尔街见闻-快讯",
@@ -687,6 +767,17 @@
           "time_info": "03时08分"
         },
         {
+          "title": "特朗普对福克斯表示：视察人员将获准前往伊朗的铀所在地。 不急于派遣视察人员进入伊朗设施。 伊朗初期将获5亿美元，用于购买美国商品。",
+          "url": "https://wallstreetcn.com/livenews/3124039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "IBM(IBM.N)：特朗普政府将持有Anderon的股权，但不参与治理。",
           "url": "https://flash.jin10.com/detail/20260624021722023800",
           "source": "金十数据",
@@ -718,12 +809,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
+        },
+        {
+          "title": "美国财长贝森特：不确定今年能否在赤字问题上取得进展。 到特朗普任期结束时，赤字/GDP比率可以降至4%以下。",
+          "url": "https://wallstreetcn.com/livenews/3124031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "美国财长贝森特：降息阶段，美元仍然可以表现坚挺。 我们热衷于采取行动让美元坚挺。 预计今年剩余时间经济将加速增长，同时不会推高通胀。 我赞赏沃什取消前瞻指引。 认为实际工资增长将恢复到4月之前的节奏。 2月时曾认为通胀到夏中会接近2%。 过去曾（在交易中）与美联储点阵图反向操作。 不认为任何人应该做美联储点阵图预测。 可以实现高GDP增长而不伴随传统意义上的通胀。 很有可能重现上世纪90年代经济持续扩张的态势。 沃什在谈及通胀问题时“态度强硬”。 特朗普公开和私下都表示他对沃什有信心。 认为今年可以实现3%或更高的增长。",
+          "url": "https://wallstreetcn.com/livenews/3124026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "美股收盘：AI投资热潮遭重新审视 芯片股重挫拖累纳指跌超2%",
@@ -785,6 +898,28 @@
           "time_info": "07时05分"
         },
         {
+          "title": "静待美光财报，美股盘前半导体股上扬、美光涨4%，现货白银失守60美元，布油跌超2%",
+          "url": "https://wallstreetcn.com/articles/3775351",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "SpaceX美股盘前跌幅扩大至2.7%，至日内低点。",
+          "url": "https://wallstreetcn.com/livenews/3124063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "美股集体低开 纳指跌超2%",
           "url": "https://www.douyin.com/hot/2545296",
           "source": "抖音",
@@ -819,6 +954,17 @@
           "time_info": "[10时46分 ~ 14时43分]"
         },
         {
+          "title": "分析师：急涨急跌，美股市场走势令人担忧",
+          "url": "https://flash.jin10.com/detail/20260624210900671800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "Cerebras Systems第一财季营收1.934亿美元，分析师预期1.814亿美元。 第一财季硬件营收1.106亿美元，云收入0.828亿美元。 第一财季每股亏损0.22美元，毛利润率45%，运营开支1.012亿美元。 预计全年营收8.55亿-8.65亿美元，分析师预期8.248亿美元。 预计第二财季营收大约1.94亿美元，分析师预期1.733亿美元。 Cerebras美股盘后跌5%。",
           "url": "https://wallstreetcn.com/livenews/3123642",
           "source": "华尔街见闻-快讯",
@@ -828,6 +974,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3124055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "新兴市场ETF收跌将近5.7%，与纳指ETF领跌美股大类资产类ETF",
@@ -891,7 +1048,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -924,90 +1081,121 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         }
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 6,
+      "keyword_group": "chatgpt openai",
+      "match_count": 8,
       "titles": [
         {
-          "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
-          "url": "https://wallstreetcn.com/articles/3775156",
-          "source": "华尔街见闻",
+          "title": "OpenAI和博通发布AI芯片，旨在更快、更经济地运行模型",
+          "url": "https://wallstreetcn.com/livenews/3124062",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 07时05分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
-          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3775262",
-          "source": "华尔街见闻",
+          "title": "博通和OpenAI表示，早期测试显示，Jalapeño的每瓦性能将显著优于当前的最先进水平。",
+          "url": "https://flash.jin10.com/detail/20260624210650083800",
+          "source": "金十数据",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时46分 ~ 18时19分]"
-        },
-        {
-          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐升，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3775262",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时04分 ~ 07时05分]"
-        },
-        {
-          "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
-          "url": "https://wallstreetcn.com/articles/3775250",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 07时05分]"
-        },
-        {
-          "title": "AI交易遭遇加息考验：除了美元、美债，一切都在跌",
-          "url": "https://wallstreetcn.com/articles/3775294",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
             9
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时46分 ~ 18时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
-          "title": "两年期美债收益率周二跌超2.7个基点",
-          "url": "https://wallstreetcn.com/livenews/3123663",
-          "source": "华尔街见闻-快讯",
+          "title": "OpenAI： 2026年DevDay（开发者大会）申请现已开放。",
+          "url": "https://flash.jin10.com/detail/20260624022839964800",
+          "source": "金十数据",
           "ranks": [
-            14
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时05分"
+          "time_info": "03时08分"
+        },
+        {
+          "title": "博通与OpenAI联合推出Jalapeño，这是OpenAI首款智能处理器。",
+          "url": "https://flash.jin10.com/detail/20260624210354905800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "博通(AVGO.O)预计将比预期更快地部署OpenAI芯片。",
+          "url": "https://flash.jin10.com/detail/20260624210245809800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "博通(AVGO.O)CEO：OpenAI的新芯片可节省50%的成本。",
+          "url": "https://flash.jin10.com/detail/20260624210227845800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "OpenAI与博通(AVGO.O)联合发布针对大型语言模型（LLM）优化的智能处理器。",
+          "url": "https://flash.jin10.com/detail/20260624210204398800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "OpenAI与博通(AVGO.O)联合发布人工智能芯片，旨在更快、更经济地运行模型。",
+          "url": "https://flash.jin10.com/detail/20260624210130831800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "谷歌(GOOG.O)：谷歌钱包使美国运输安全管理局的无接触身份验证惠及更多旅客。",
+          "url": "https://flash.jin10.com/detail/20260624211149557800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
         {
           "title": "谷歌：为某些金融服务广告主引入新的验证要求。",
           "url": "https://flash.jin10.com/detail/20260624000741229800",
@@ -1058,6 +1246,80 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
+          "url": "https://wallstreetcn.com/articles/3775156",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 07时05分]"
+        },
+        {
+          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3775262",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时46分 ~ 21时16分]"
+        },
+        {
+          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐升，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3775262",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时04分 ~ 07时05分]"
+        },
+        {
+          "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
+          "url": "https://wallstreetcn.com/articles/3775250",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 07时05分]"
+        },
+        {
+          "title": "AI交易遭遇加息考验：除了美元、美债，一切都在跌",
+          "url": "https://wallstreetcn.com/articles/3775294",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时46分 ~ 18时19分]"
+        },
+        {
+          "title": "两年期美债收益率周二跌超2.7个基点",
+          "url": "https://wallstreetcn.com/livenews/3123663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1178,11 +1440,12 @@
           "url": "https://wallstreetcn.com/articles/3775315",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时46分 ~ 18时19分]"
+          "appearance_count": 4,
+          "time_info": "[10时46分 ~ 21时16分]"
         },
         {
           "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
@@ -1194,23 +1457,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI： 2026年DevDay（开发者大会）申请现已开放。",
-          "url": "https://flash.jin10.com/detail/20260624022839964800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
         }
       ]
     }
