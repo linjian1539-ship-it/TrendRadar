@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T13:19:41.627700+08:00",
-  "total_titles_processed": 912,
+  "generated_at": "2026-07-01T17:37:56.536014+08:00",
+  "total_titles_processed": 1122,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "“我不在乎中期选举”：特朗普惹恼共和党议员",
@@ -37,7 +37,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -70,7 +70,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -164,6 +164,17 @@
           "time_info": "08时04分"
         },
         {
+          "title": "927页“史上最长”财务文件：特朗普去年炒币大赚12亿美元，重仓科技巨头！",
+          "url": "https://www.cls.cn/detail/2413671",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
           "title": "市场消息：美国共和党强硬派阻挠众议院推进国防政策法案的举措，以抗议特朗普关于选民身份验证的立法主张。",
           "url": "https://flash.jin10.com/detail/20260701021835956800",
           "source": "金十数据",
@@ -203,7 +214,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -343,7 +354,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "【早报】多只A股公司业绩大增；美股存储概念半年涨超3倍；黄金、原油收跌；法国、挪威晋级世界杯16强",
@@ -367,6 +378,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时03分 ~ 13时19分]"
+        },
+        {
+          "title": "美股二季度太亮眼，连华尔街多头都在防大幅回撤",
+          "url": "https://flash.jin10.com/detail/20260701173713822800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "美股冲击近6年最强季度表现 美伊代表齐赴多哈 | 今夜看点",
@@ -413,6 +435,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时21分 ~ 04时55分]"
+        },
+        {
+          "title": "“炒币”高手特朗普！官方披露2025年加密货币业务斩获超10亿美元，重仓美股科技巨头",
+          "url": "https://wallstreetcn.com/articles/3775893",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 17时37分]"
         },
         {
           "title": "美股大类资产类ETF多数收跌，上半年布油基金涨超43%，新兴市场ETF、纳指ETF等涨超20%",
@@ -463,6 +497,17 @@
           "time_info": "[04时55分 ~ 06时14分]"
         },
         {
+          "title": "人工智能领域“权力更迭”：美股三大芯片股市值Q2增加约2万亿美元",
+          "url": "https://www.cls.cn/detail/2413957",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
           "title": "耐克美股盘后跌幅扩大至6.6%，虽然最新季度业绩超出预期，但其提振作用被公司高管谨慎的言论所抵消。 该公司即将离任的首席财务官Matt Friend表示，耐克对产品去库存的举措“仍然面临挑战”，而首席执行官Elliott Hill指出营收增长面临“不利因素”。",
           "url": "https://wallstreetcn.com/livenews/3126991",
           "source": "华尔街见闻-快讯",
@@ -472,17 +517,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
-        },
-        {
-          "title": "“炒币”高手特朗普！官方披露2025年加密货币业务斩获超10亿美元，重仓美股科技巨头",
-          "url": "https://wallstreetcn.com/articles/3775893",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
         },
         {
           "title": "大摩警告：美股半导体或迎顶点",
@@ -529,6 +563,17 @@
           "time_info": "04时55分"
         },
         {
+          "title": "美股光通信板块盘前持续走低，康宁跌超4%，迈威尔科技跌近3%，Coherent、Lumentum跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3127290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
           "title": "美股上半年收官：纳指累涨近13% 七巨头走势分化",
           "url": "https://flash.jin10.com/detail/20260701040547590800",
           "source": "金十数据",
@@ -565,7 +610,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "伊朗：未来几天暂无与美方会晤计划",
@@ -641,7 +686,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -657,6 +702,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "伊朗高官：伊美在卡塔尔举行间接会谈，聚焦两大问题",
+          "url": "https://flash.jin10.com/detail/20260701172719637800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
           "title": "据纽约邮报：美国政府官员称，美国尚未按照谅解备忘录的规定，释放被冻结的60亿美元伊朗资金用于人道主义物资，并且在德黑兰方面履约之前也不会解冻这些资金。",
           "url": "https://flash.jin10.com/detail/20260701040559259800",
           "source": "金十数据",
@@ -666,6 +722,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
+        },
+        {
+          "title": "据路透社：伊朗高级官员表示，（当地时间）周二晚上在多哈开始的与美国的间接谈判仍在继续。与美国的间接谈判集中于释放德黑兰的资金和霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260701172150861800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "伊朗队启程回国",
@@ -753,6 +820,34 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "据总部位于伦敦的独立研究机构官方货币与金融机构论坛（OMFIF）调查，地缘政治风险的上升正推动黄金需求上涨。尽管金价较一年前已飙升逾20%，但表示计划增加黄金投资的央行比例仍创下历史新高。",
+          "url": "https://flash.jin10.com/detail/20260701000005099800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "金价大跌后未来怎么走",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%90%8E%E6%9C%AA%E6%9D%A5%E6%80%8E%E4%B9%88%E8%B5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -764,8 +859,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时03分 ~ 13时19分]"
+          "appearance_count": 4,
+          "time_info": "[08时03分 ~ 17时37分]"
         },
         {
           "title": "6月份两年期美债实际收益率涨超77个基点，二季度两年期收益率涨超35个基点",
@@ -839,23 +934,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据总部位于伦敦的独立研究机构官方货币与金融机构论坛（OMFIF）调查，地缘政治风险的上升正推动黄金需求上涨。尽管金价较一年前已飙升逾20%，但表示计划增加黄金投资的央行比例仍创下历史新高。",
-          "url": "https://flash.jin10.com/detail/20260701000005099800",
-          "source": "金十数据",
-          "ranks": [
-            7
           ],
           "is_new": false,
           "appearance_count": 1,
