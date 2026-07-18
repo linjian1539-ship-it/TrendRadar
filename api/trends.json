@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T19:50:57.612472+08:00",
-  "total_titles_processed": 1347,
+  "generated_at": "2026-07-18T21:03:09.736088+08:00",
+  "total_titles_processed": 1452,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 97,
+      "match_count": 103,
       "titles": [
         {
           "title": "伊朗发射巡航导弹打击美军舰艇",
@@ -115,6 +115,17 @@
           "time_info": "09时59分"
         },
         {
+          "title": "伊朗驻巴基斯坦大使谴责美方曲解伊美谅解备忘录",
+          "url": "https://flash.jin10.com/detail/20260718204219080800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
           "title": "伊朗最高领袖顾问雷扎伊：如果美国的袭击持续数天，伊朗将进入全面进攻行动阶段。",
           "url": "https://flash.jin10.com/detail/20260718030924829800",
           "source": "金十数据",
@@ -159,6 +170,28 @@
           "time_info": "14时58分"
         },
         {
+          "title": "伊朗卫生部：自6月27日以来，美国的袭击造成至少50人遇难，500人受伤。",
+          "url": "https://flash.jin10.com/detail/20260718204134957800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "伊朗驻巴基斯坦大使谴责美方曲解伊美谅解备忘录",
+          "url": "https://wallstreetcn.com/livenews/3136032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：一艘泰国籍船只因未经伊朗革命卫队许可驶经霍尔木兹海峡，遭到袭击。",
           "url": "https://flash.jin10.com/detail/20260718013628025800",
           "source": "金十数据",
@@ -190,17 +223,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
-        },
-        {
-          "title": "伊拉克石油部长：美国与伊朗局势升级前，伊拉克日均石油出口量为150万桶",
-          "url": "https://wallstreetcn.com/livenews/3136008",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时50分"
         },
         {
           "title": "伊朗谴责美袭击民用基础设施犯下战争罪",
@@ -240,6 +262,17 @@
           "time_info": "02时02分"
         },
         {
+          "title": "伊朗副外长：伊朗已停止履行伊美谅解备忘录",
+          "url": "https://flash.jin10.com/detail/20260718203356472800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
           "title": "美国否认叙利亚境内美军基地遭伊朗袭击",
           "url": "https://wallstreetcn.com/livenews/3135828",
           "source": "华尔街见闻-快讯",
@@ -249,6 +282,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        },
+        {
+          "title": "伊朗副外长：伊朗已停止履行伊美谅解备忘录",
+          "url": "https://wallstreetcn.com/livenews/3136030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "伊朗南部锡里克地区传出3次爆炸声",
@@ -286,17 +330,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
-        },
-        {
-          "title": "伊朗说以色列是地区战争根源",
-          "url": "https://wallstreetcn.com/livenews/3136006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时50分"
         },
         {
           "title": "美国：伊朗朝着美国位于沙特的军事基地发射导弹。（Axios）",
@@ -459,6 +492,18 @@
           "time_info": "[07时48分 ~ 09时59分]"
         },
         {
+          "title": "伊拉克石油部长：美国与伊朗局势升级前，伊拉克日均石油出口量为150万桶",
+          "url": "https://wallstreetcn.com/livenews/3136008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时50分 ~ 21时03分]"
+        },
+        {
           "title": "伊朗革命卫队称打击美军在巴林的无人艇",
           "url": "https://wallstreetcn.com/livenews/3135918",
           "source": "华尔街见闻-快讯",
@@ -508,6 +553,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时48分 ~ 09时59分]"
+        },
+        {
+          "title": "伊朗说以色列是地区战争根源",
+          "url": "https://wallstreetcn.com/livenews/3136006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时50分 ~ 21时03分]"
         },
         {
           "title": "据伊朗国家电视台：伊朗南部锡里克响起三声爆炸声。",
@@ -649,6 +706,18 @@
           "time_info": "[18时15分 ~ 19时50分]"
         },
         {
+          "title": "科威特国防部发言人：自今日清晨起，武装部队在科威特领空内监测到敌方弹道导弹和无人机，并已对其进行拦截和处理。伊朗的袭击继续针对我国的多处军事和安全设施，以及若干关键基础设施和民用设施。袭击波及石油和电力行业的设施，导致火灾并造成严重损失。",
+          "url": "https://flash.jin10.com/detail/20260718190448394800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时50分 ~ 21时03分]"
+        },
+        {
           "title": "伊朗革命卫队发布伊朗弹道导弹袭击哈尔季省苏丹王子空军基地的视频。",
           "url": "https://flash.jin10.com/detail/20260718174139867800",
           "source": "金十数据",
@@ -673,6 +742,29 @@
           "time_info": "[07时48分 ~ 09时59分]"
         },
         {
+          "title": "伊朗已停止履行伊美谅解备忘录",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%B7%B2%E5%81%9C%E6%AD%A2%E5%B1%A5%E8%A1%8C%E4%BC%8A%E7%BE%8E%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 21时03分]"
+        },
+        {
+          "title": "科威特石油公司称一设施遭伊朗袭击致多人伤亡",
+          "url": "https://wallstreetcn.com/livenews/3136001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时50分 ~ 21时03分]"
+        },
+        {
           "title": "伊朗梅赫尔通讯社（MEHR）援引当地官员的话称，“敌方”发射的弹药落在了伊朗中部城市亚兹德市郊外，目前未报告有人员伤亡。",
           "url": "https://wallstreetcn.com/livenews/3135929",
           "source": "华尔街见闻-快讯",
@@ -683,6 +775,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时48分 ~ 09时59分]"
+        },
+        {
+          "title": "伊朗称打击位于科威特、巴林、约旦的美军目标",
+          "url": "https://wallstreetcn.com/livenews/3135999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时50分 ~ 21时03分]"
         },
         {
           "title": "美方：伊朗向沙特美军基地发射导弹",
@@ -729,17 +833,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
-        },
-        {
-          "title": "科威特国防部发言人：自今日清晨起，武装部队在科威特领空内监测到敌方弹道导弹和无人机，并已对其进行拦截和处理。伊朗的袭击继续针对我国的多处军事和安全设施，以及若干关键基础设施和民用设施。袭击波及石油和电力行业的设施，导致火灾并造成严重损失。",
-          "url": "https://flash.jin10.com/detail/20260718190448394800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时50分"
         },
         {
           "title": "伊朗发射导弹打击美舰",
@@ -797,17 +890,6 @@
           "time_info": "09时59分"
         },
         {
-          "title": "科威特石油公司称一设施遭伊朗袭击致多人伤亡",
-          "url": "https://wallstreetcn.com/livenews/3136001",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
           "title": "伊朗国家电视台援引伊朗军方的话称，伊朗在巴林针对美国军方资产和燃料罐进行了打击。",
           "url": "https://flash.jin10.com/detail/20260718112529599800",
           "source": "金十数据",
@@ -847,7 +929,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -861,17 +943,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
-        },
-        {
-          "title": "伊朗称打击位于科威特、巴林、约旦的美军目标",
-          "url": "https://wallstreetcn.com/livenews/3135999",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时50分"
         },
         {
           "title": "据伊朗学生通讯社：阿巴斯港（Bandar Abbas）附近一处地点遭到美国军方袭击。",
@@ -924,7 +995,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -1141,7 +1212,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "中方驳斥特朗普“中国干预美国大选”论调",
@@ -1176,8 +1247,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时49分 ~ 19时50分]"
+          "appearance_count": 5,
+          "time_info": "[16时49分 ~ 21时03分]"
         },
         {
           "title": "白宫：特朗普将出席世界杯决赛",
@@ -1191,6 +1262,31 @@
           "time_info": "[00时11分 ~ 03时19分]"
         },
         {
+          "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
+          "url": "https://news.ifeng.com/c/8ur9XDi7eVj",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时50分 ~ 21时03分]"
+        },
+        {
+          "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33605316",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时58分 ~ 21时03分]"
+        },
+        {
           "title": "特朗普的社交帖文被包装成付费产品，华尔街机构不付费就将“慢人一步”",
           "url": "https://flash.jin10.com/detail/20260718092759635800",
           "source": "金十数据",
@@ -1200,18 +1296,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
-        },
-        {
-          "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
-          "url": "https://news.ifeng.com/c/8ur9XDi7eVj",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时50分 ~ 19时50分]"
         },
         {
           "title": "市场消息：美国法官裁定，特朗普政府无权因新的政策优先事项而广泛取消拨款资金。",
@@ -1226,19 +1310,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时49分 ~ 07时48分]"
-        },
-        {
-          "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33605316",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时58分 ~ 19时50分]"
         },
         {
           "title": "特朗普再谈巴洛贡红牌事件",
@@ -1265,6 +1336,17 @@
           "time_info": "[05时47分 ~ 07时48分]"
         },
         {
+          "title": "空气质量影响世界杯决赛？特朗普扬言就加拿大山火烟霾追加关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33612068",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时50分 ~ 21时03分]"
+        },
+        {
           "title": "曝特朗普买股票后在社媒发有利信息",
           "url": "https://www.toutiao.com/trending/7662654350632255514/",
           "source": "今日头条",
@@ -1289,15 +1371,26 @@
           "time_info": "[14时58分 ~ 16时49分]"
         },
         {
-          "title": "空气质量影响世界杯决赛？特朗普扬言就加拿大山火烟霾追加关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33612068",
-          "source": "澎湃新闻",
+          "title": "如何看待白宫提词器操作员提前获取特朗普演讲稿，并据此押注获利近 10 万元，最终被调查？",
+          "url": "https://www.zhihu.com/question/2061441397995954863",
+          "source": "知乎",
           "ranks": [
-            16
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 21时03分]"
+        },
+        {
+          "title": "美媒：一项允许沙特进行铀浓缩的核协议悬而未决，尚待特朗普政府批准",
+          "url": "https://flash.jin10.com/detail/20260718202124153800",
+          "source": "金十数据",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时50分"
+          "time_info": "21时03分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-18）",
@@ -1306,7 +1399,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -1413,7 +1506,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
@@ -1425,8 +1518,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时43分 ~ 19时50分]"
+          "appearance_count": 12,
+          "time_info": "[06时43分 ~ 21时03分]"
         },
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
@@ -1541,6 +1634,17 @@
           "time_info": "[12时50分 ~ 14时58分]"
         },
         {
+          "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
+          "url": "https://wallstreetcn.com/articles/3777263",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 21时03分]"
+        },
+        {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.05%，暂报2155.15点，上周五结束交易以来（7*24）累计下跌2.81%。 MarketVectorTM数字资产100中盘指数跌0.49%，报2568.46点，最近七天累跌1.97%。 MarketVector数字资产100指数跌1.49%，报12643.48点，最近七天累跌0.78%。 最近七天迄今，Solana累跌3.48%，狗狗币累跌2.38%，XRP累跌1.59%。 比特币累跌0.64%，暂报63552.27美元，7月14日北京时间02:00跌至61761美元，随后反弹，7月15日美股早盘达到65527.29美元；以太坊累涨2.56%，暂报1834.935美元，7月15日美股盘前曾达到1944.948美元。",
           "url": "https://wallstreetcn.com/livenews/3135852",
           "source": "华尔街见闻-快讯",
@@ -1632,11 +1736,12 @@
           "ranks": [
             9,
             7,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时48分 ~ 19时50分]"
+          "appearance_count": 10,
+          "time_info": "[07时48分 ~ 21时03分]"
         },
         {
           "title": "DeepSeek最新估值意外曝光",
@@ -1668,7 +1773,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         }
@@ -1796,8 +1901,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时48分 ~ 19时50分]"
+          "appearance_count": 10,
+          "time_info": "[07时48分 ~ 21时03分]"
         }
       ]
     }
