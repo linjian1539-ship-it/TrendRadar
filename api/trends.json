@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T17:56:53.640419+08:00",
-  "total_titles_processed": 1034,
+  "generated_at": "2026-08-07T18:48:41.615907+08:00",
+  "total_titles_processed": 1129,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "“向特朗普同志致敬！”美国超级抹红大赛开始了",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时38分 ~ 17时56分]"
+          "appearance_count": 10,
+          "time_info": "[08时38分 ~ 18时48分]"
         },
         {
           "title": "【早报】特朗普：对多晶硅及其衍生产品加征关税；美存储股再遭重挫；原油走强、黄金微跌；宇树科技发行价定了",
@@ -76,8 +76,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时46分 ~ 17时56分]"
+          "appearance_count": 8,
+          "time_info": "[11时46分 ~ 18时48分]"
         },
         {
           "title": "“特朗普想缓和对华关系，美国年轻人也不想陷入新冷战”",
@@ -88,8 +88,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时06分 ~ 17时56分]"
+          "appearance_count": 5,
+          "time_info": "[15时06分 ~ 18时48分]"
         },
         {
           "title": "特朗普：数据中心可能会比石油更重要",
@@ -98,9 +98,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
+        },
+        {
+          "title": "特朗普将与矿企高管开会",
+          "url": "https://wallstreetcn.com/livenews/3146650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "美国将严厉打击“生育旅游” 特朗普承认某些弹药供应紧张 | 环球市场",
@@ -122,8 +133,20 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 18时48分]"
+        },
+        {
+          "title": "特朗普（谈AI）：它可能比石油还要重要。 谁赢了AI，谁就赢得一切。就这么重要。",
+          "url": "https://wallstreetcn.com/livenews/3146612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时53分 ~ 17时56分]"
+          "time_info": "[17时56分 ~ 18时48分]"
         },
         {
           "title": "特朗普对多晶硅加征关税",
@@ -165,18 +188,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时56分"
-        },
-        {
-          "title": "特朗普（谈AI）：它可能比石油还要重要。 谁赢了AI，谁就赢得一切。就这么重要。",
-          "url": "https://wallstreetcn.com/livenews/3146612",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         },
@@ -187,7 +199,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         },
@@ -231,7 +243,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         },
@@ -253,7 +265,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         },
@@ -264,7 +276,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         },
@@ -305,8 +317,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时38分 ~ 17时56分]"
+          "appearance_count": 10,
+          "time_info": "[08时38分 ~ 18时48分]"
         },
         {
           "title": "如何看待梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%？",
@@ -314,11 +326,12 @@
           "source": "知乎",
           "ranks": [
             1,
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时46分 ~ 17时56分]"
+          "appearance_count": 8,
+          "time_info": "[11时46分 ~ 18时48分]"
         },
         {
           "title": "DeepSeek拟上调API服务价格",
@@ -333,8 +346,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时38分 ~ 17时56分]"
+          "appearance_count": 10,
+          "time_info": "[08时38分 ~ 18时48分]"
         },
         {
           "title": "梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%，你怎么看？",
@@ -359,6 +372,18 @@
           "time_info": "[08时38分 ~ 08时39分]"
         },
         {
+          "title": "DeepSeek涨价，国产大模型\"免费午餐\"到头了！",
+          "url": "https://wallstreetcn.com/articles/3778849",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时06分 ~ 18时48分]"
+        },
+        {
           "title": "DeepSeek官宣涨价，且“幅度较大”！",
           "url": "https://wallstreetcn.com/articles/3778814",
           "source": "华尔街见闻",
@@ -371,18 +396,6 @@
           "time_info": "[08时38分 ~ 11时47分]"
         },
         {
-          "title": "DeepSeek涨价，国产大模型\"免费午餐\"到头了！",
-          "url": "https://wallstreetcn.com/articles/3778849",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时06分 ~ 17时56分]"
-        },
-        {
           "title": "DeepSeek豪掷1.4亿护航宇树IPO",
           "url": "https://www.toutiao.com/trending/7671088097861307923/",
           "source": "今日头条",
@@ -393,6 +406,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时37分 ~ 15时07分]"
+        },
+        {
+          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
+          "url": "https://www.zhihu.com/question/2069015264461579129",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 18时48分]"
         },
         {
           "title": "DeepSeek、腾讯等获宇树科技战略配售",
@@ -426,17 +450,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时38分 ~ 08时39分]"
-        },
-        {
-          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
-          "url": "https://www.zhihu.com/question/2069015264461579129",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时53分 ~ 17时56分]"
         }
       ]
     },
@@ -452,8 +465,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时38分 ~ 17时56分]"
+          "appearance_count": 10,
+          "time_info": "[08时38分 ~ 18时48分]"
         },
         {
           "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
@@ -473,11 +486,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时53分 ~ 17时56分]"
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 18时48分]"
         },
         {
           "title": "美股三大指数集体收跌 西数跌超13%",
@@ -508,7 +522,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         },
@@ -550,8 +564,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时53分 ~ 17时56分]"
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 18时48分]"
         },
         {
           "title": "伊朗总统称目前与最高领袖联络困难，其决策过程遭人利用，如何看待这一言论？伊朗未来局势将如何发展？",
