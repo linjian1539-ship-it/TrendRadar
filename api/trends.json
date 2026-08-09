@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T22:29:55.743444+08:00",
-  "total_titles_processed": 1394,
+  "generated_at": "2026-08-09T23:27:12.352829+08:00",
+  "total_titles_processed": 1444,
   "failed_sources": [],
   "trends": [
     {
@@ -87,8 +87,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时28分 ~ 22时29分]"
+          "appearance_count": 18,
+          "time_info": "[11时28分 ~ 23时27分]"
+        },
+        {
+          "title": "伊朗婉转回应最高领袖病危传闻",
+          "url": "https://news.ifeng.com/c/8vSBIqKsEnV",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时24分 ~ 23时27分]"
+        },
+        {
+          "title": "伊朗最高领袖与总统会谈，重点讨论了这几个问题",
+          "url": "https://news.ifeng.com/c/8vS3pS8BvYm",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时39分 ~ 23时27分]"
         },
         {
           "title": "伊朗：美国不改，海峡不开",
@@ -131,6 +155,19 @@
           "time_info": "[00时27分 ~ 09时16分]"
         },
         {
+          "title": "伊朗最高领袖与总统会谈",
+          "url": "https://www.toutiao.com/trending/7670941843498287158/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时24分 ~ 23时27分]"
+        },
+        {
           "title": "美国乡村小镇突发停水，FBI：可能是伊朗黑客干的",
           "url": "https://news.ifeng.com/c/8vQiHqeUsfl",
           "source": "凤凰网",
@@ -161,18 +198,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时27分 ~ 17时34分]"
-        },
-        {
-          "title": "伊朗婉转回应最高领袖病危传闻",
-          "url": "https://news.ifeng.com/c/8vSBIqKsEnV",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时24分 ~ 22时29分]"
         },
         {
           "title": "伊朗媒体发布伊朗最高领袖视频",
@@ -206,18 +231,6 @@
           "time_info": "[00时27分 ~ 11时29分]"
         },
         {
-          "title": "伊朗最高领袖与总统会谈，重点讨论了这几个问题",
-          "url": "https://news.ifeng.com/c/8vS3pS8BvYm",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时39分 ~ 22时29分]"
-        },
-        {
           "title": "伊朗：与阿曼“接近”达成协议，但并不意味重开海峡",
           "url": "https://wallstreetcn.com/livenews/3146999",
           "source": "华尔街见闻-快讯",
@@ -230,6 +243,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时27分 ~ 09时16分]"
+        },
+        {
+          "title": "伊朗最高领袖与总统会谈",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%B8%8E%E6%80%BB%E7%BB%9F%E4%BC%9A%E8%B0%88",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时24分 ~ 23时27分]"
         },
         {
           "title": "伊朗总统说必须摆脱非战非和局面",
@@ -263,27 +289,14 @@
         },
         {
           "title": "伊朗最高领袖与总统会谈",
-          "url": "https://www.toutiao.com/trending/7670941843498287158/",
-          "source": "今日头条",
+          "url": "https://www.douyin.com/hot/2603545",
+          "source": "抖音",
           "ranks": [
-            8,
-            2
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时24分 ~ 22时29分]"
-        },
-        {
-          "title": "伊朗最高领袖与总统会谈",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%B8%8E%E6%80%BB%E7%BB%9F%E4%BC%9A%E8%B0%88",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时24分 ~ 22时29分]"
+          "appearance_count": 7,
+          "time_info": "[19时24分 ~ 23时27分]"
         },
         {
           "title": "美媒：伊朗战争导致国防库存锐减，五角大楼敦促国防企业加快武器生产",
@@ -337,17 +350,6 @@
           "time_info": "09时16分"
         },
         {
-          "title": "俄媒称伊朗布什尔核电站新机组建设仍在继续",
-          "url": "https://wallstreetcn.com/livenews/3147111",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时29分"
-        },
-        {
           "title": "伊朗接近与阿曼达成管理海峡协议",
           "url": "https://flash.jin10.com/detail/20260809081421844800",
           "source": "金十数据",
@@ -385,17 +387,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时25分 ~ 09时16分]"
-        },
-        {
-          "title": "伊朗最高领袖与总统会谈",
-          "url": "https://www.douyin.com/hot/2603545",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时24分 ~ 22时29分]"
         },
         {
           "title": "伊朗外长阿拉格齐：一些中介国家仍在努力为重新谈判创造条件。在我们看来，只要美国未结束对《伊斯兰堡备忘录》的违反，且未对此做出弥补，就不可能重新开始谈判。",
@@ -512,6 +503,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时29分 ~ 04时23分]"
+        },
+        {
+          "title": "俄媒称伊朗布什尔核电站新机组建设仍在继续",
+          "url": "https://wallstreetcn.com/livenews/3147111",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时29分 ~ 23时27分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：伊朗不攻击以色列，因为它意识到如果这样做，我们将给予它强有力的打击。",
@@ -680,6 +683,17 @@
           "time_info": "[20时39分 ~ 22时29分]"
         },
         {
+          "title": "伊朗婉转回应最高领袖病危传闻",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%A9%89%E8%BD%AC%E5%9B%9E%E5%BA%94%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E7%97%85%E5%8D%B1%E4%BC%A0%E9%97%BB%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时29分 ~ 23时27分]"
+        },
+        {
           "title": "伊朗外长强调霍尔木兹海峡未重新开放",
           "url": "https://flash.jin10.com/detail/20260809163624666800",
           "source": "金十数据",
@@ -820,17 +834,6 @@
           "time_info": "00时27分"
         },
         {
-          "title": "伊朗婉转回应最高领袖病危传闻",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%A9%89%E8%BD%AC%E5%9B%9E%E5%BA%94%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E7%97%85%E5%8D%B1%E4%BC%A0%E9%97%BB%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时29分"
-        },
-        {
           "title": "伊朗媒体发布伊朗最高领袖视频",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AA%92%E4%BD%93%E5%8F%91%E5%B8%83%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E8%A7%86%E9%A2%91",
           "source": "百度热搜",
@@ -856,18 +859,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
           "url": "https://www.cls.cn/detail/2449039",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时27分 ~ 22时29分]"
+          "appearance_count": 29,
+          "time_info": "[00时27分 ~ 23时27分]"
         },
         {
           "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
@@ -953,8 +957,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时00分 ~ 22时29分]"
+          "appearance_count": 16,
+          "time_info": "[13时00分 ~ 23时27分]"
         },
         {
           "title": "特朗普：“很多人称我是最伟大总统之一”",
@@ -963,11 +967,12 @@
           "ranks": [
             11,
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时28分 ~ 22时29分]"
+          "appearance_count": 8,
+          "time_info": "[18时28分 ~ 23时27分]"
         },
         {
           "title": "据塔斯社报道，美国中东问题特使威特科夫和特朗普高级顾问库什纳可能在接下来七到十天内访问基辅和莫斯科。",
@@ -985,15 +990,15 @@
           "time_info": "[11时29分 ~ 15时50分]"
         },
         {
-          "title": "美媒：美官员称特朗普耐心应对伊朗僵局，重点聚焦海峡通航",
-          "url": "https://flash.jin10.com/detail/20260809212948063800",
+          "title": "内塔尼亚胡认为在加沙计划上跟特朗普作对“没有风险”",
+          "url": "https://flash.jin10.com/detail/20260809224743402800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时29分"
+          "time_info": "23时27分"
         },
         {
           "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
@@ -1058,6 +1063,18 @@
           "time_info": "[19时24分 ~ 20时39分]"
         },
         {
+          "title": "美媒：美官员称特朗普耐心应对伊朗僵局，重点聚焦海峡通航",
+          "url": "https://flash.jin10.com/detail/20260809212948063800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时29分 ~ 23时27分]"
+        },
+        {
           "title": "舒默怒斥特朗普：你在哪个星球",
           "url": "https://www.toutiao.com/trending/7671480510048452651/",
           "source": "今日头条",
@@ -1107,8 +1124,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时00分 ~ 22时29分]"
+          "appearance_count": 16,
+          "time_info": "[13时00分 ~ 23时27分]"
         },
         {
           "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
@@ -1161,8 +1178,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时28分 ~ 22时29分]"
+          "appearance_count": 18,
+          "time_info": "[11时28分 ~ 23时27分]"
         },
         {
           "title": "一边买黄金，一边买美股",
